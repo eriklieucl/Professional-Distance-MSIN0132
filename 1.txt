@@ -1,0 +1,1533 @@
+Zero-Trust Artificial Intelligence?
+
+Zero trust is a user philosophy. Absolute (or complete) trust sits at the other end of the trust spectrum; it’s a producer’s goal. The degree of achieved trust lies between them.5 The zero-trust security architecture was introduced by Forrester Research in 2010.3 “Zero trust is a cybersecurity paradigm focused on resource protection and the premise that trust is never granted implicitly but must be continually evaluated.”4 Here, we note that the artificial intelligence (AI) and cybersecurity communities have one noticeable commonality: few people understand AI and cybersecurity well. Hence, does “zero-trust AI” make sense? If not, then why do we need explainable AI?
+
+Trustworthiness can be coarsely viewed as the degree to which a person has confidence that a service or product will behave as advertised, promised, and intended. Trust in an AI-based system can be described by the following three factors:
+
+Ability: the capability of the AI system to do a specific task robustly, safely, reliably, and so on
+
+Integrity: the assurance that information will not be manipulated in a malicious way by the AI system
+
+Benevolence: the extent to which the AI system is believed to do good or where the “do no harm” principle is respected.1,2
+
+We already have experience with AI in pedestrian systems, for example, recommender systems, home automation, entertainment systems, toys, and games. When AI-based products and services have the potential to cause physical and financial harm, that is, critical systems, trust becomes more relevant. We probably have less experience, but are familiar with, AI-based autonomous driving systems, and we are aware that AI controls and supports various critical infrastructures. Are you less trusting of these? For example, riding in a completely autonomous vehicle, undergoing unsupervised robotic surgery, and having AI adjudicate your murder trial means trusting your life to the technology’s efficacy.
+
+Consumer product and service companies often loosely include the word trust (or imply it) in their slogans and descriptions of their offerings. Imagine such slogans applied to AI-based offerings. In The Gift of Fear: Survival Signals That Protect Us From Violence, security expert Gavin de Becker tells us that in dangerous situations, we should trust our instincts even when it might defy convention and logic. Our brains are exquisite pattern-matching machines that recognize danger as a matter of survival. Aside from playing chess and special, contrived situations, we probably should trust our brain’s pattern-matching ability over AI, especially when the consequences could present danger. It is in those circumstances when our zero-trust brains “kick in,” and we should listen to them.
+
+Is a zero-trust AI mentality always necessary? No. But we are suggesting that you should extend this instinctual, self-preserving distrust to AI. And we suggest that any critical AI-based product or service should be continuously questioned and evaluated; however, we acknowledge that there will be an overhead cost in doing so. Finally, is our question of zero-trust AI even worthy of discussion when AI is already ubiquitous and embedded in almost everything we rely on? You can’t buy a new car and strip out the sensors and processors and expect it to work. So, maybe AI is simply a new, hidden, and unavoidable risk to life, devoid of opt-out options. Something to think about.
+
+Gender Asymmetry in Cybersecurity: Socioeconomic Causes and Consequences
+
+Women are highly underrepresented in the field of cybersecurity. In 2019, their share of the worldwide cybersecurity workforce was 20%, compared to 38.9% in the general workforce (Figure 1). In all the economies presented in Figure 1, there are significantly lower proportions of females in the cybersecurity workforce than in the total labor force. Women have even less representation in cybersecurity leadership roles at larger U.S. corporations such as Fortune 500 companies. For instance, according to Cybersecurity Ventures, only 70 of the Fortune 500 companies, or 14%, had female chief information security officers in 2020,1 which was lower than the proportion of females in the cybersecurity workforce (Figure 1). Likewise, while 27% of the programmers in the Israeli army are women, the proportion is 12% in cyberunits and only about 3% in the top cyberunits.2
+
+Figure 1. The percentage of females in the cybersecurity and total labor forces. (Sources for the cybersecurity labor force: world;3 Australia;4 India (forecast for 2025);5 United Kingdom;6 United States;7 Sub-Saharan Africa;8 Latin America, Caribbean, Middle East, and North Africa;9 and European Union.10 Source for the total labor force: World Bank.11)
+
+Cybersecurity requires strategies beyond technical solutions. Women’s representation is important because they tend to offer viewpoints and perspectives that are different from men’s, and these underrepresented perspectives are critical in addressing cyber-risks. This article highlights the causes of gender asymmetry in cybersecurity and discusses how women’s increased participation can strengthen the field and improve business outcomes. It also looks at some possible ways to attract and retain women in cybersecurity.
+
+Causes of Gender Asymmetry in Cybersecurity
+
+Table 1 lists the major sources of gender disparity in cybersecurity. Some are more general barriers such as those related to political, legal, and cultural factors that are encountered in all types of jobs, while others are specific to technology-related careers. First, in some countries, women’s participation in economic activities is hindered by defective legal and regulatory systems. In a related statistic, women worldwide have only three-quarters of the legal rights that men have.12 For instance, 18 countries are reported to require women to have their husband’s permission to work outside the home.13 Yemen is one such country, where females account for only 7.9% of the labor force.11. Likewise, 17 countries restrict women from traveling without permission from a guardian.14
+
+Second, in some societies, cultural barriers prevent women from participating in formal labor markets. In Israel, among women with high test scores on psychometric exams, which are standardized tests used in admission to institutions of higher education, a greater proportion of Jewish women than Arab–Israeli women were reported to pursue technology-related careers. According to the chief economist of the country’s Finance Ministry, in 2017, only 10% of Arab–Israeli women in the high-test-score category worked in technology, compared to 30% of Jewish women.2 It is argued that cultural expectations and practices work against Arab women’s involvement in the workforce. The culture encourages women to stay home to care for their children.15
+
+Third, the societal view is that cybersecurity is a job that men do,16 though there is nothing inherent to gender that predisposes men to be more interested in or more adept at the work. The low number of women in Internet security is linked to the broader problem of their poor representation in the science, technology, engineering, and mathematics (STEM) fields. While women make up half of the U.S. college-educated workforce, they account for only 30% of the science and engineering workforce17 and 26% of the professionals in the computer and mathematical sciences.18
+
+A Kaspersky Lab survey of women younger than 16 in Europe, Israel, and the United States found that 78% of the respondents had never considered a career in cybersecurity. In addition, 42% considered it important to have a gender role model in their career, and about half preferred to work in an environment that had an equal male–female balance. Cybersecurity professionals also have an image problem. For instance, one-third of the respondents thought cybersecurity professionals were “geeks,” and one-quarter viewed them as “nerds.” A related challenge concerns negative connotations of terms such as hacker that are often associated with cybersecurity roles. Due to that, two-thirds of the respondents reported that cybersecurity jobs did not appeal to them. The respondents expressed a desire to pursue careers they were more passionate about.18 A related outcome of this bias is that women are generally not presented with opportunities in IT fields. In a survey of women pursuing careers outside IT, 69% indicated that the main reason they did not pursue jobs in the field was because they were unaware of them.30
+
+Finally, stereotypes and bias in organizational decision making and practices hinder women’s entry into technology jobs in general and cybersecurity-related roles in particular. For instance, the industry mistakenly gives potential employees the impression that only technical skills matter in cybersecurity,20 which can give women the impression that the field is overly specialized and even boring. Organizations often fail to try to recruit women to work in cybersecurity. According to a survey conducted by IT security company Tessian, only about half of the respondents said their organizations were doing enough to recruit women for cybersecurity roles.21 Gender bias in job ads further discourages women from applying. Online cybersecurity job postings often lack gender-neutral language.22
+
+Women’s Increased Participation: Strong Security and Good Business
+
+Boosting women’s involvement in cybersecurity makes both security and business sense. The cybersecurity field is facing a huge skills shortage. The gap between demand and supply in this field is predicted to reach 1.8 million workers worldwide in 2022.10 Boosting women’s participation is one way to close this gap. More importantly, women cybersecurity professionals bring important benefits that translate into strong cybersecurity. For instance, female leaders in this area tend to prioritize some key areas that males often overlook. This is partly due to their backgrounds. About 44% of women in cybersecurity have degrees in business and social sciences, compared to 30% of men.9
+
+Female cybersecurity professionals put a higher priority on internal training and education in security and risk management. Women are also stronger advocates for online training, which is a flexible, low-cost way of increasing employees’ awareness of security issues. Females are also adept at selecting partner organizations to develop secure software.23 They tend to pay more attention to partner organizations’ qualifications and personnel, and they assess partners’ ability to meet contractual obligations. They also prefer partners that are willing to perform independent security tests.
+
+Increasing women’s participation in cybersecurity is a business issue as well as a gender concern. According to Boston Consulting Group, by 2028, women will control 75% of discretionary consumer spending worldwide.24 Security considerations such as encryption, fraud detection, and biometrics are becoming important in consumers’ buying decisions.25 Product designs require a tradeoff between cybersecurity and usability. Women cybersecurity professionals can make better-informed decisions about such compromises for products that are targeted at female customers.
+
+Security issues associated with major technologies and platforms, such as the Internet of Things (IoT) and social media, disproportionately affect women. For instance, smart home technologies have been highly ineffective at preventing domestic abusers from harassing and harming their former partners and child predators from gaining access to children.26 It is reported that major U.S. technology companies—Amazon, Facebook, Apple, and Google—fill less than one-third of their leadership roles with women, and the proportion is as low as 19% at Microsoft.27
+
+Apps have been widely available in the App Store (iOS), Play Store (Android), and other repositories that pose a risk to a women’s safety. Some have made use of location data for stalking people in real time. For instance, the iOS app Girls Around Me, which was developed by the Russian company I-Free, leveraged data from Foursquare to scan for and detect women checking into a user’s neighborhood. The user could identify a woman he would like to talk to, connect with her through Facebook, see her full name and profile photos, and send her a message. The woman would have no idea that someone was “snooping” on her. As of March 2012, the app had been downloaded more than 70,000 times.28 It is argued that by increasing women’s involvement in decision making regarding privacy and security issues, it is possible to make IoT devices more secure and reduce predators’ ability to target children and share abusive images on social media.27
+
+Attracting Women to Cybersecurity
+
+Attracting more women to cybersecurity requires governments, nonprofit organizations, professional and trade associations, and the private sector to work together. Public–private partnership projects could help solve the problem in the long run. Parents and primary school teachers are among the most important people that can play a role in creating young girls’ interest in cybersecurity and technology in general. Surveys have found that girls’ interest gradually fades as they get older. For instance, a study conducted by the nonprofit trade association that issues professional certifications for the IT industry, the Computing Technology Industry Association, found that 27% of middle-school girls consider a career in technology, but the proportion reduces to 18% by the time they reach high school.29
+
+This does not mean that high school is too late to develop girls’ interest and engagement in cybersecurity careers. Indeed, some notable cybersecurity initiatives have targeted high-school girls. One example is Israel’s Shift community, previously known as the CyberGirlz program (https://rashi.org.il/en/programs/shift-community/), which is jointly financed by the country’s Defense Ministry, the Rashi Foundation, and Start-Up Nation Central. It identifies high-school girls with aptitude, desire, and natural curiosity to learn IT and helps them develop those skills. The girls participate in hackathons and training programs and get advice, guidance, and support from female mentors. Some of the mentors are from elite technology units of the country’s military. The participants learn hacking skills, network analysis, and the Python programming language. They also practice simulating cyberattacks to find potential vulnerabilities. By 2018, about 2,000 girls had participated in the CyberGirlz Club and the CyberGirlz Community.
+
+In 2017, cybersecurity firm Palo Alto Networks teamed up with the Girl Scouts of the United States of America to develop cybersecurity badges.30 The goal is to foster cybersecurity knowledge and develop interest in the profession. The curriculum includes the basics of computer networks, cyberattacks, and online safety.30 Professional associations can also foster interest in cybersecurity and help women develop relevant knowledge. For example, the nonprofit European private foundation Women4Cyber (https://women4cyber.eu/) was established, in 2019, to “promote, encourage, and support” women’s participation in cybersecurity. By July 2021, Women4Cyber had approved national chapters in 10 European countries, and seven of the groups were fully operational.31 Likewise, Women in Cybersecurity of Spain has started a mentoring program that supports female cybersecurity professionals early in their careers.21
+
+Some industry groups have collaborated with big companies. In 2018, Microsoft India and the Data Security Council of India launched the CyberShikshaa program to create a pool of skilled female cybersecurity professionals.3 Some technology companies have launched programs to foster women’s interest in and confidence to pursue Internet security careers. One example is IBM Security’s Women in Security Excelling program, formed in 2015.32
+
+At the organizational level, attracting more women to the cybersecurity field requires a range of efforts. Cybersecurity job ads should be written so that female professionals feel welcome to apply. Recruitment efforts should focus on academic institutions with high female enrollments. Corporations should ensure that female employees see cybersecurity as a good option for internal career changes. And governments should work with the private sector and academic institutions to get young girls interested in cybersecurity.
+
+Increasing women’s participation in cybersecurity is good for women, good for business, and good for society. In the absence of appropriate measures by the private sector and policymakers, the gender disparity can lead to a vicious circle. This is because women are less likely to be attracted to a field dominated by males, and the failure to attract women can result in the further dominance of men. This, in turn, makes it even more difficult to attract women. The government and private sector should collaborate to try to create a more positive image of cybersecurity professionals. It is thus important to encourage girls and women to pursue STEM courses and degrees in K–12 and colleges. Women cybersecurity professionals should also be provided mentorships and support at all job levels.
+
+Advancing Reproducibility in Parallel and Distributed Systems Research
+
+While reproducibility has always been fundamental to scientific and technical research, it has taken on an increased urgency, impacting society’s trust in research results.1 Recognizing both this importance and urgency, IEEE Transactions on Parallel and Distributed Systems (TPDS) remains committed to enabling reproducible research through transparency and the availability and potential reuse of the code and data associated with its publications.
+
+Specifically, for a few years, the TPDS Reproducibility Initiative2,3 has been exploring postpublication peer review of the code associated with published articles. Authors who have published in TPDS can make their published work more reproducible and earn a reproducibility badge by submitting their associated code for postpublication peer review. To date, this pilot has largely focused on two badges, Code Available and Code Reviewed, and has successfully badged more than a dozen articles.
+
+Ensuring reproducibility has also taken on additional complexity due to the increasingly central roles played by computation and data.4 While TPDS’s goal has always been to include badges for reproducing research results using the code and/or data provided, the nature of research in the parallel and distributed systems covered by TPDS makes it challenging to evaluate the code and data for reproducibility. This is because such an evaluation may require access to specific hardware, system architectures and scales, operating system configurations, and so on, which may not be feasible or practical. While technologies such as containerization can help address some of these challenges, providing reviewers access to an execution environment in which they can effectively reproduce the full range of research published in TPDS—including, for example, research involving very-large-scale parallelism, large data volumes, and low-level system/middleware services—is typically infeasible.
+
+Consequently, TPDS piloted an alternate approach where members of the community can submit short, supplemental “critique” articles that present their experiences in reproducing published results using the artifacts and/or evaluations or experiences with published artifacts. These supplemental article submissions are reviewed; if accepted, they are linked to the original publication and citable, serving to help validate the reproducibility of the original work. This approach has been implemented in two special sections consisting of a primary article and multiple critique articles that reproduce the results of the primary one.5TPDS is also partnering with national providers of computing resources to provide resources to support the evaluation of artifacts.
+
+Achieving reproducibility also requires deploying the necessary support infrastructure, including enabling the submission and evaluation of data, code, and other artifacts across the breadth of topics covered; the creation of integrated workflows for processing and publishing submissions; and complying with emerging standards, for example, for badging.6TPDS is exploring and piloting solutions to some of these issues.
+
+For example, TPDS has been analyzing the artifact submission and review processes and improving them. It has been updating the guidelines provided to authors, which help authors with packaging, documenting, and submitting their artifacts and assist reviewers in assessing them. Additionally, TPDS recently named an associate editor-in-chief for reproducibility and is appointing a Reproducibility Editorial Board and Reproducibility Review Board to oversee the badging process, support the evaluation of artifacts, and continuously improve this process as well as share best practices. TPDS will also leverage a conference management system to support the artifact evaluation and badging workflows. Finally, it will be expanding the set of repositories that authors can use to submit their artifacts to include Dryad, Figshare, Harvard Dataverse, and Zenodo (including GitHub via Zenodo), in addition to CodeOcean and DataPort.
+
+We plan to continue to push forward on these important issues and will share any lessons learned. You can always find the latest information about the TPDS reproducibility initiative online at https://www.computer.org/digital-library/journals/td/tpds-reproducibility-initiative.2 I would like to thank the TPDS Editorial Board and reviewers for their efforts in moving this initiative forward; IEEE Computer Society for its support; and, most importantly, authors for submitting artifacts along with their articles.
+
+The Data-Oriented Design Process for Game Development
+
+Data-oriented design (DOD) grew when game developers needed to use modern hardware architectures for performant games, and existing software processes did not meet their needs. The DOD process reduces software to a basic goal of computer architecture: to input, transform, and output data.
+
+To properly explain DOD, we first define DOD and compare it to similar processes. A history of how DOD evolved is introduced, and core concepts in the DOD process are further discussed through several relevant examples. The Unity Technologies Data-Oriented Tech Stack (DOTS) is brought up as a canonical use of DOD, and the conclusion mentions the use of DOD outside of game development as well as its future.
+
+When discussing software processes, it is important to consider that we are likely biased when solving problems using a computer. Current research suggests that we overlook subtractive changes in problem-solving in comparison with additive changes.1 For example, when given a Lego block bridge that has a one-block difference between the left and right sides, most people under a time constraint will choose to add a block to one side rather than remove a block from the other side. It makes sense that this bias would also impact how we make decisions in developing software. “Feature creep” is a known potential issue, and most software is developed within time constraints. This bias can lead to bloated and slow software, incompatible with soft real-time systems, such as games, which are required to consistently run at 30, 60, or even 100 (such as for virtual reality applications) frames/s.
+
+The emphasis on data as a design driver allows DOD to reduce unnecessary complexity and emphasizes that transforming data well means that one must understand characteristics of the data as well as the whole supply chain of development (for example, hardware and compilers) that implements data transformations. Historically, viewing data as core to the software development process is not a new concept. For example, data flow programming was conceived in the 1960s and concentrates on the flow of data through software algorithms, primarily for parallel computation.2,3 The concept of data flow is related to DOD, but, in data flow, the emphasis is not truly on knowledge of data but on the flow of data from one algorithm to another.
+
+DOD is an imperative design process due to its emphasis on program state changes; however, it is different from similar-sounding design processes, such as data-driven design, which is also related to data flow but allows the input data to control the state of the program, sometimes even at a computer architecture level.4 In software design, it is commonly used in games to increase flexibility. As an example, the data for a game level may contain information about special effects and door state changes that are read in and executed by a data-driven game program.
+
+DOD does not emphasize data control or data flow in a program, only that the program be defined in terms of data input, transformations, and output. The core that ties all of the patterns in DOD together is that programs only input, transform, and output data. All elements and patterns involved with DOD may be understood through this focus.
+
+DOD asks detailed questions about the data and uses answers to design software. Examples include asking about
+
+type
+distribution
+count
+storage
+accuracy.
+
+In modeling, knowledge of the data can change the way programs are created. As an example, it becomes possible to consider which program system to create next from how often that system is run and how much data it transforms. Within a game context, if a character spends most of his or her time walking around the game world, one could foresee that walking is very important and should be a high priority in development.
+
+Deep knowledge of data and the problem being solved leads to concrete solutions but does not preclude flexibility in software. Flexibility is part of the design process and should be planned out and carefully thought through rather than just “thrown in” as part of a “generic” solution. Solving for a problem that needs a flexible solution is a different concrete problem than solving for nonflexible cases.
+
+In the search to understand data transformations (especially when they work poorly), the whole supply chain for software development, including both hardware and tools, is considered. As an example, hardware is considered primarily because it provides the physical means to transform data. A DOD proponent does not seek to know all hardware specifics but to specifically understand how the details of the hardware impact the constraints that the software needs to meet. The most common hardware considerations in DOD are cache performance and multicore processing, for this reason. Both of these hardware elements greatly impact the performance of the input, transformation, and output of data.
+
+The core of DOD is not about optimization or making fast programs through hardware consideration; it is about organizing programs around a deep knowledge of data and its transformation. A slow program can be based around modeling data and ignoring the supply chain view that DOD proponents use. If performance is not important for the application, then the knowledge of data can still be used to create software. However, it cannot be understated that engineering software well requires understanding transformations. Hardware knowledge is required primarily because models of software and compilers are abstractions, and those abstractions are leaky and inconsistent.5
+
+The History of DOD
+The movement toward data orientation in game development occurred after the PlayStation (PS) 3 game console was released in the mid-2000s. The game console used the Cell hardware architecture, which contains a PowerPC core and eight synergistic processing elements, of which game developers traditionally used six. This forced game developers to make the move from a single-threaded view of software development to a more parallel way of thinking about game execution to push the boundaries of performance for games on the platform. At the same time, large-scale (AAA) game development was growing in complexity, with an emphasis on more content and realistic graphics.
+
+Within that environment, data parallelism and throughput were very important. As practices coalesced around techniques used in game development, the term DOD was created and first mentioned in an article in Game Developer magazine in 2009.6
+
+In 2017, Unity Technologies, known best for the Unity Real-Time Development Platform used by many game developers, hired DOD proponents Mike Acton and Andreas Fredriksson from Insomniac Games to “democratize data-oriented programming” and to realize a philosophical vision with the tagline of “performance by default.”7 The result has been the introduction of a DOTS, which is a canonical use of DOD techniques.
+
+To date, many blogs and talks have discussed DOD since the original article, but very little has been studied in academia regarding the process. Richard Fabian, a practitioner from industry, published a book on DOD in 2018, although it existed for several years in draft form online.8
+
+In 2019, a master’s thesis was published by Per-Morten Straume at the Norwegian University of Science and Technology that investigated DOD.9 Straume interviewed several game industry proponents for DOD in the thesis and concluded that, while they differed in their characterizations of DOD, the core characteristics of DOD were to focus on solving specific problems rather than generic ones, the consideration of all kinds of data, making decisions based on data, and an emphasis on performance in a wide sense.
+
+Both Fabian and Straume discuss DOD elements without fully tying those elements together to form a design practice that can be used to create software. The overarching theme that ties all of the elements together is that software exists to input, transform, and output data.
+
+DOD
+The light switch problem
+In DOD, questions about both the problem and data used for the problem need to be asked before attempting a solution. The light switch problem addresses the action of turning on a light and exemplifies how to think of data representation. In DOD, questions about both the problem and data used for the problem need to be asked before attempting a solution. For example:
+
+Is the light meant to be variable in intensity or just on and off?
+What hardware is available to help with turning the light on/off?
+What data are necessary for turning the light on/off?
+If the light is meant to be a simple light that can be turned on and off, then it really only requires a single bit of data to represent on (one) and off (zero). An abstract solution can easily obscure necessary data for the problem solution. Figure 1 contains an image of a smart-home device that can control multiple lights through verbal commands, but, for a user who just wants to turn a light on/off, it is not readily apparent how to control a single light unless one has already memorized the name of the light and the process for controlling it. It also does not work when the house has Internet problems. This represents an overcomplicated solution for the initial problem that requires extra data for what is really a single-bit operation.
+
+This is similar to what happens when software is constructed that tries to abstract away from the core problem it tries to solve. A complicated list of many other problems may be solved, but the initial reason for the software to exist may no longer be apparent or easy to use. Another example of this in physical hardware would be the PS4 game console power button. A lot of work was obviously put into making sure that the game controller can turn the PS4 on/off, but people not using the game controller may have to look up an image to see where the power on/off switch is located, as it is hidden under a decorative panel on the front of the PS4.
+
+Given the complexity of most software problems that need much more than a single bit of data, it is important not to allow extra complexity into the solution, as that extra complexity commonly creates more complicated solutions that need to be fully tested/debugged. Additional levels of complexity also equal additional requirements for testing and validation.
+
+One bit that represents the on/off behavior of the light is necessary to turn on the light. Subtracting all of the extra data available yields an interface to the light bit that could look something like Figure 2(a). This particular solution is very similar to the solutions that DOD proponents seek in that it well represents the data and transformation of those data.
+
+There are some extra considerations involved with that solution outside of the initial questions asked, though. For instance, the wall plate acts as a safety measure and covers the wires on the back side of the light switch so that people cannot accidentally touch them. It is normal for extra considerations to come up in the design and implementation of a solution, but each consideration should be carefully thought about before being added to the solution.
+
+In Figure 2(a), the solution assumes the user knows that up is the on position and down is the off position, as the state change is not labeled. While this is true in some countries, in others, the opposite is true.
+
+This hinders the usability of the switch, as the light switch on the left does not contain all necessary data for a user to know how to turn it on and off. A final solution to the light problem may look something like Figure 2(b), where ON is displayed, and the user is given all of the information necessary to turn on the light.
+
+The Autofarmers simulation problem
+The Autofarmers simulation is shown in Figure 3 and consists of farmers breaking rocks, tilling soil, planting crops, and selling those crops to a store for money. The full simulation is too complex for presentation, but it is useful to show how to model software from a data perspective.
+
+How does one begin to view this in a DOD way, and how does using DOD alter the software development of the program? Ignoring the 3D models in the program (which each have their own data), one potential set of main simulation data includes
+
+position (x, y)
+speed
+direction
+target
+state
+scale.
+These are the data necessary to perform the simulation part of the program. Rather than considering each “thing” in the game as its own object with separate activities, writing out data information allows operations across the game to be batched where possible and functionality used by multiple sets of data.
+
+As an example, everything in the game has a position and can be placed at the same time. Only plants and farmers move. (Plants are carried to the store by farmers.) This allows for the same movement functionality to be used on farmers and plants. DOD looks at common data as well as operations and allows for the batching of those data with those operations.
+
+In viewing the simulation in a DOD manner, planning would also look at which transformations are made the most often. As an example, farmers in the simulation spend most of their time walking to different places. Hence, a DOD-based solution would seek to understand the exact data necessary for the input to movement (for example, the position, speed, direction, and target) and construct the movement transformation early in writing the software for the simulation.
+
+This would allow for experiments to be made that measure pathing/movement and potential solutions for any problems found. Using a poor solution for pathing/movement means that the simulation may run poorly due to the amount of time spent moving in the simulation, and this is a priority problem for software development due to the frequency of the data transformation in the program.
+
+Using minimal data for a concrete solution
+Most data used in the implementation of Autofarmers are 2D since the simulation is 2D, and the height is a constant. Developing a 2D simulation is a different problem than creating a 3D one, in terms of both data and algorithms. This is not a case where three dimensions should be solved for “just in case” since the algorithms and data are different for each one. On average, 3D computations are more expensive than 2D ones, as well.
+
+DOD Software Design
+A key element of design is data, so one designs data before code and views the data early and often. The hardware and compiler information are used along with any other tools that impact data transformations to understand the transformation and how to best make that transformation.
+
+An image transformation problem
+Say that the problem is to transform image data from color to gray scale. For a DOD solution, one must first start with the data, which should be designed before the code. For this problem, the input data are in bytes that range from 0 to 255. Each individual byte is in a quadruplet that represents the red, green, blue, and alpha values in the color image. The image being transformed will be in an array of 1,024 × 1,024, meaning that there are 1,048,576 pixels (each with a red–green–blue–alpha quadruplet) to be transformed.
+
+One possible transformation from color to gray scale mathematically is the byte average of the red, green, and blue color information. The average for each pixel’s color information will replace each pixel’s red, green, and blue information, while the value of alpha will remain the same. The output is an array of size 1,024 × 1,024.
+
+The minimal design for this program consists of the input data (an array with all of the data elements), the gray scale transformation, and the output of the 1,024 × 1,024 transformed data. Here is a potential partial code transformation for the problem that will yield a solution:
+
+for (int x = 0; x < width; x += 4){
+ for (int y = 0; y < height; y++){
+    byte avg =(byte)((image[y, x] +
+       image[y, x + 1] +
+       image[y, x + 2])/3);
+  result[y, x] = avg;
+  result[y, x + 1] = avg;
+  result[y, x + 2] = avg;
+  result[y, x + 3] = image[y, x + 3];
+ }
+}
+The potential transformation takes the data, converts those data to gray scale through averaging the color information, and puts that data into an output array. Is this the best potential solution? It is unknown, as there is information about the problem and transformation that has not been stated!
+
+DOD solutions require as much knowledge about the problem and transformations as possible. For example, is it required that the solution not overwrite the original image? If not, then two arrays are not necessary in the potential solution. What is the hardware, and what language is being used for the solution?
+
+If the hardware is a modern PC architecture, then cache usage should be considered, along with multiprocessor capabilities. Both of these things are parts of hardware that can greatly impact the engineering of data transformations.
+
+Organizing data for good cache usage
+One of the main bottlenecks for performance on modern PCs is the bus and data transfer from storage to the processor. The concept of caching away data is fairly simple. If somebody is working late one night, and they think ahead of time that a snack might be good for an energy boost in the early hours of the morning, then they will grab the snack (assuming it doesn’t need refrigeration—don’t try this with ice cream) and put it near their desk. That way, they will not have to get up and go to the kitchen later. The food has been cached near the desk.
+
+Computers also think ahead and precache data for the processor. That way, it can more quickly and easily move those data into and out of registers for processing. The time cost for an L1 cache (the closest cache to the processor) access is less than 1 ns, whereas random-access memory access off the chip is on the order of 100 ns. If the wrong data are brought into the cache because they are poorly organized in memory, then the penalty time to read the correct data is much larger than if the data were able to be prefetched for use. Additionally, the extra time cost for access to data farther away from the processor also turns into extra power usage, as moving data costs more in terms of power than processing those data.
+
+Structurally, a common pattern for organizing data for good cache usage is to employ Structures of Arrays (SoA) to organize arrays of homogeneous data so that they can easily be read and used in programs. A common phrase in DOD says that “where there is one, there are many,” as processing data in a batch can have multiple benefits, including good cache usage. This differs from some traditional approaches, where all data based around a single concept are organized in a class based around that concept, and instances of those classes are put into arrays and methods called on each individual instance. Figure 4 shows how the organization differs in SoA when compared to Arrays of Structures (AoS).
+
+The image transformation problem and cache usage
+Organizing data for good cache usage appears to have already been done for the potential solution in the image problem. However, in the C# language (the language chosen for the solution), data are in a row-major format, meaning that elements are laid out next to each other in rows, rather than column-major format (for example, Fortran), where columns are next to each other in memory. Taking this information into account means that, to properly lay out the image data for transformation, the two for loops in the piece of code should be swapped (image height should come first, with the inner loop on image width) for better cache utilization.
+
+Better cache utilization is only needed for the solution because the requirement specifies that the data count is enough that cache utilization will make a difference in performance. It is possible that DOD can be used to accomplish goals other than performance, such as memory or power utilization considerations. For this application, if the image was a 16 × 16 image, then it would not matter which way the transformation was done because there are only 256 total pixels to transform, and they can fit within the cache on modern processors.
+
+Multiprocessor usage
+Multiprocessor performance has become more important as games have evolved. The DOD view of programs as data input, transformation, and output is helpful when designing for parallel processing. The need for synchronization is a large bottleneck to performance for games.
+
+Since race conditions only happen when data can be changed or written to, knowledge of the read and write status for all data and when transformations happen in a program helps to avoid race conditions. The SoA format can be used to help batch jobs since parallelization needs a certain number of elements to process before parallel processing becomes advantageous.
+
+The image transformation problem and multiprocessor usage
+For the image transformation problem, using multiple processors likely will not help to solve the problem, as it is only a single small image that is being transformed, and the overhead for setting up parallel processing can be more than the transformation of a single image. In the case of a problem that required transforming a set of images, parallel processing could be very useful and save significant time in processing.
+
+View data early and often
+Even though the first potential solution is not a good one when further information is seen regarding the problem and data, proposing the first solution allows us to reason about the data and improve on how it is input, transformed, and output. Many problems exist that do not have fully specified requirements. Examples in game development abound since it is a creative field, and game designs change frequently to “find the fun.”
+
+Viewing the data early and often aids in approximate solutions for incomplete data knowledge. As an example, DOD proponents commonly write small, experimental programs (or add debugging statements to existing programs) that seek to determine unknown knowledge, such as frequency or range. This knowledge can help refine a solution. In this way, progressive approximations can be made. While incomplete data can lead to solutions that must be iterated on, flexibility in an application is part of the design process and should be carefully considered separately from the experiments done for measuring data.
+
+The Unity DOTS
+Unity’s DOTS is a large-scale industry example of DOD and consists of an experimental set of packages in Unity that were introduced after they were announced in 2017.4 It is currently the most publicly available example of DOD in an industry product since the entity component system (ECS) source code is viewable online. The core components of DOTS are
+
+the burst compiler
+an ECS
+a job system
+testing and debugging support tools.
+Burst compiler
+The burst compiler is an excellent example of understanding and using the whole software development supply chain to create better solutions. It is an LLVM-based compiler technology that optimizes C# code for Unity’s job system. It exists to allow for better overall game performance when using DOTS.
+
+ECS
+Unity’s ECS implementation works closely with the job system. Entities are handles for a key chain of specific data components associated with the entity, components are struct data (in C#, a struct is a value type) for input/output, and systems are the data transformations necessary for solving problems.
+
+If some of this information reminds people of databases, it is true that DOD can be compared to how data are organized in databases, and DOD-based frameworks commonly have the concept of a program-based query. An ECS allows for queries on components and commonly uses them as filters for jobs.
+
+Job system
+The job system exists to make data parallelism in C# easier. Jobs accept blittable (simple data types, such as float and int) structures, transform the data in those structures, and output results. The job system contains several different constructs that range from job-based parallel for loops that capture outside variables with a lambda expression to structures that have their own execute function.
+
+Job inputs can be tagged as read only to allow for better knowledge regarding how the data are being input, transformed, and output. Jobs expect to obtain data laid out in an SoA manner, and options exist to determine various worker thread settings.
+
+Testing and debugging support tools
+One important part of viewing data early and often is to have support for adequately accessing the data. While profiler support of the job system in Unity is not one of the main selling features of DOTS, it supports DOD development efforts deeply. The profiler specifically profiles per frame and shows overall job system utilization as well as which jobs run at what time within the frame, and it shows this across worker threads.
+
+An entity debugger allows runtime information to be displayed. Information about both components and systems is displayed, and data can be filtered to obtain information about a specific type of component. With these tools, it is easier to create small experiments to discover information about data during the runtime.
+
+DOD concepts have been presented within the context of the game development field. DOD does not just exist within the game development field, and there are indications that it has relevance for other fields in software development. As an example, in 2014, CppCon: The C++ Conference invited DOD proponent Mike Acton to give a keynote speech to the larger C++ community,10 and common DOD design patterns, such as using SoA rather than AoS, can aid any application that processes a lot of data programmatically.
+
+In terms of philosophy, some of the concepts of DOD are at odds with object-oriented design (OOD), although it depends on which definition of OOD is used, and it is highly dependent on the problem being solved. A discussion of the many OOD definitions is outside the scope of this article, but, since DOD requires that the data be considered first and foremost for software development, simulated objects representing the problem space are unlikely to be used. The philosophy of DOD does not state that objects representing the problem space cannot be used if they happen to well represent the data for input, transformations, and output.
+
+DOD promotes solving concrete problems as opposed to generic ones, which seems to indicate that it is against polymorphism and many inheritance uses in programs. Certainly, there are engineering reasons to reject deep hierarchies and virtual functions in favor of other ways of development that better align with hardware architectures on large game projects with performance requirements. The philosophy of DOD does not, in and of itself, reject all uses of these elements since there are many problems that need flexibility in their solutions, and the Unity DOTS example does make use of concepts such as interfaces to set out contractual obligations in program code.
+
+DOD use has grown in the last decade, and, as it becomes more prevalent beyond its use in large game programs, it is important that DOD be recognized and studied in academia. DOD focuses on developing software based around data input, transformation, and output. The emphasis on design through considering data first can aid in clarifying the minimal set of data needed to solve a problem and allow reasoning about concepts, such as data parallelism for multicore solutions.
+
+DOD has been used for large-scale projects in industry, with Unity’s DOTS as a prime example meant to encourage the future development of performant games. Future work includes further research into the problems encountered with this approach for large-scale systems as well as the benefits for using DOD for such systems.
+
+Acknowledgments
+The author would like to thank Mike Acton for conversations about the history of DOD and encouraging the use of phrases that he has spoken many times in reference to DOD. The author is also thankful to the people at Unity Technologies for the chance to study a working example of core DOD and Sebastian Schöner for conversations regarding this article. Early conversations about this material, especially regarding the DOTS job system, are also based upon the effort to support more parallel and distributed computing education at all levels of the curriculum as supported by the National Science Foundation under grant NSF-1730527.
+
+Software Systems and Frameworks for Competency-Based Learning
+
+One important trend is the recognition that lifelong learning has become a necessity. It leads to individualized learning.
+
+Another important trend is the need for education to be closely related to real life and to prepare students to participate in the current economy. So, students need to possess new skills and abilities, which will help them start working in any profession without the need of additional training.
+
+The result from these two major trends is called competency-based education. This allows both individualized learning and the learning oriented to achieve new skills and abilities. There is a major shift today in all educational systems to incorporate this new form of learning. As a result, there are a lot of pedagogical theories explaining what is competency-based learning, how to be realized in practice, what are the main drawbacks and problems, and how we can try to solve them.
+
+One of the main problems is related to the lack of appropriate software systems and frameworks that are able to support all processes related to competency-based education. There have been many attempts to develop different software tools and instruments to support separate elements and processes related to competency-based evaluation, but the ultimate goal should be to develop a complete software system supporting the whole set of processes involved in competency-based learning.
+
+In this article, I will present some of these efforts, propose some important elements for such complex software frameworks, and show some examples and case studies based on my experience from participation in some of the most ambitious research projects funded from the European Commission in past 20 years.
+
+Several researchers1–4 formulated some of the requirements to new software systems supporting competency-based learning:
+
+The learner is the center of the system—he or she choose their goals, the forms of learning, the time and pace for learning, and so forth.
+Different learners have different knowledge and competence levels as well as different goals and learning styles. So, the system should differentiate all these particularities and be able to adapt to match and support all these differences.
+The learning process is oriented to achieving demonstrable competences rather than simply knowledge about some facts and processes. The learner should be able to solve some practical problems in addition to explaining the base of knowledge involved.
+In the last 25 years, we have seen a consistent increasing number of experiments and efforts to apply this new method of learning. While competency-based learning is more natural for lifelong learning experiences, we have also seen many efforts to incorporate this process into formal education, first in universities, and later, in K–12 education.5–7
+
+Usually, these efforts have been organized around various competence development programs (CDPs). Almost all such CDPs include standard learning units, such as courses, modules, lectures, and so on The main difference is the presence of new standards for competency descriptions, which are used to plan and evaluate the education.8
+
+The most used such standards are Instructional Management System Reusable Definition of Competency or Educational Objective,9 IEEE-Reusable Competency Definitions,10 and Human Resources Open Standards Consortium-eXtensible Markup Language.11 Also, the standards for learner modeling and recognition of learner achievements should be centered around these new competency standards or at least in support of them.
+
+The first attempt to create such a complex software system was the main objective of the project TENCompetence (Figure 1).12,13 This project proposed theoretical models for competency-based learning, software models for systems supporting competency-based learning, and technical platforms implementing the models, validated through several big pilot experiments across Europe.
+
+The typical implementation of such a software framework involves supporting social networks made up of members from a given domain who are interested in competency-based learning in this domain. Such a network should be distributed, self-organized, and flexible and provide various services. Members share learning resources and experiences, provide different services, and help each other to reach their goals.15
+
+The major result of the project was the development of an integrated software platform, including the following main software tools:
+
+The Personal Competence Manager (PCM)
+LearnWeb 2.0
+The Personal Development Planner (Web PDP)
+The Goal Orientation Tool (GOT)
+The Learning Design editor/player
+The Learning Path editor
+A portfolio manager
+An assessment editor/player.
+
+The PCM16,17 provides the following functionalities:
+
+defining a target competence profile
+mapping to a competence development profile
+identification of competence development opportunities
+organizing a competence profile
+building on experience by promoting the development of communities around particular competence development needs.
+The simplified architecture of LearnWeb 2.0,18 including the main elements, is shown on Figure 2.
+
+The main components visualized on the figure are:
+
+The web server LearnWeb 2.0 provides interactive search, sharing, and exchange of learning resources and knowledge.
+The Knowledge Resources Sharing and Management (KRSM) server provides access to all knowledge resources in the digital library via Representational State Transfer services. These services can also be used to access many external knowledge resources and social networks.
+The Fedora repository is the digital library that stores learning objects (LOs) and resources.
+The PCM server and ReCourse editor/player provide links between all TENCompetence tools via user management, user modeling, competence development planning, knowledge resource sharing, and so forth.
+Web PDP19 provides learners with the functionality to develop their own competence development plan (learning plan) by using preliminary created competence profiles. It also enables users to develop a plan to evaluate their competences, adapt the plan on the fly, add useful learning resources, and implement the plan via existing CDPs and other learning activities.
+
+While most of the tools are for experienced users and provide some special services for them, there is one introductory tool for beginners: the GOT.20 It helps users not only get oriented with the system but also helps them find the relevant social networks for competency-based learning and shows them how to plan further competence development using all other tools and components.
+
+For the classification of all knowledge resources, a taxonomy is used, linked with CDPs (Figure 3). In an evaluation for competency-based education, the crucial question is whether (and at what level) the learner can practice and demonstrate specific competency.21 As a consequence, the standard evaluation techniques based on tests are not appropriate. Practices in big organizations show that we need new forms of assessment, such as self-assessment, peer assessment, 360° feedback, and portfolio assessment.
+
+The competency evaluation model, developed in the TENCompetence project (Figure 4), was based on the Open University at the Netherlands (OUNL)/Cito Institute for Educational Measurement Arnhem (CITO) evaluation model.22 It was also close to the TENCompetence Domain Model.14 The model was tested and validated in several pilot experiments 23 and then further developed and described in two Ph.D. degree dissertations.24,25
+
+All the tools developed during the project were free and from an open source. Unfortunately, because of the lack of resources, the project team was not able to support and further develop the tools and framework after the project ended in 2009. Some of the tools were used in later projects; for example, PDP was used in the OpenScout project,19 and most of the evaluation tools were used in big projects in industry, supporting employers in the hiring, planning, and training of workers.26
+
+Interestingly, the ideas of the TENCompetence project were implemented in the Moodle27 Learning Content Management System (LCMS). This was not a surprise as the Moodle technical leaders participated in most of the important technical meetings of the TENCompetence project. So, if somebody wants to apply the TENCompetence approach, the easiest way is to use the Moodle system, which is also free and open source.
+
+The TENCompetence approach using Moodle was implemented in the Project SOCIALENERGY H2020-ICT-24-2016 (A Gaming and Social Network Platform for Evolving Energy Markets’ Operation and Educating Virtual Energy Communities), 2017–2019.28,29 One of the main parts of the software system built in this project was LCMS, which has the following main functionalities:
+
+receiving personal development plans according to the learners’ goals
+organizing the learning process according to personal development plans
+providing learning resources in the form of LOs indexed with competencies through the use of ontologies and taxonomies that present the main concepts from the energy efficiency domain
+complementing the learning process provided by the serious game.
+
+We use Moodle with all the competency support built into the system to implement all the functionalities of the LCMS (Figure 5). Through Moodle, we developed the following competency support features:
+
+competence frameworks
+individual competences, which are included in competence frameworks
+learning plan templates (Figure 6) and individual learning plans
+individual learning resources and activities
+various competency-based modules/courses.
+
+This is the easiest approach to applying competency-based learning via LCMS. However, the assessment in Moodle still doesn’t fully support competency-based learning.
+
+Lately, other developers, such as Coursera, have announced some support for competency-based learning (they use the name skillset), but their vision on competency-based learning has still not been made completely clear and open for the public. The Coursera Skills Graph30 is used to connect the skills (from taxonomy), course content, assessments, career paths, and competencies of learners. They use machine learning algorithms to extract this information from courses and learning programs. They are using a skill taxonomy containing more than 38,000 skills.
+
+Software tools for competency-based learning are gaining increasingly more popularity and use. However, we are still waiting for easy-to-use, complete solutions with proven results.
+
+Blockchain’s Carbon and Environmental Footprints
+
+Blockchain networks’ energy consumption is a timely topic. According to the Cambridge Bitcoin Electricity Consumption Index, the Bitcoin network consumed 0.61% of world’s total electricity production in March 2022. This is more than the total consumption by Ukraine or Norway.1
+
+Crypto enthusiasts, policy-making agencies, activists, consumers, and corporations hold divergent perspectives about this. Regulators in China and Kosovo have banned Bitcoin mining. Bitcoin mining’s high energy consumption and negative environmental impact have been key reasons. In December 2021, Kosovo imported 40% of its energy. In January 2022, the government decided to ban all cryptomining activities to address the global energy crisis.2 Environmental activists have campaigned for a complete ban.
+
+Cryptocurrencies’ proponents, however, have pointed out that electricity consumed by blockchain networks comprises only a small proportion of the electricity wasted from other sources. Quoting a study of Cambridge Center for Alternative Finance (CCAF), a cointelegraph.com article noted that electricity losses in transmission and distribution in the United States could power the Bitcoin network 2.2 times.3 Galaxy Digital Mining’s study found that the amount of electricity lost in transmission and distribution is approximately 2,205 TWh/year, which is 19.4 times that of the Bitcoin network. Likewise, “always-on” electrical devices in U.S. households consume roughly 1,375 TWh/year, which is 12.1 times that of the Bitcoin network.4 Hence, it’s all relative to where you sit at the table.
+
+Actors and Actions
+In some jurisdictions, cryptocurrency has been subjected to increased regulatory scrutiny due to energy supply shortages allegedly created by bitcoin mining activities and perceived adverse environmental impacts. Blackouts have been reported in several cities in countries such as Iran, Kazakhstan, China, and Kosovo. Blackouts have also left thousands of people without power for days.5
+
+Regulatory actions have been taken in several jurisdictions. In May 2021, China prohibited the country’s financial institutions from engaging in all crypto transactions. This was followed by a ban on cryptocurrency mining in June 2021. In September 2021, the country outlawed cryptocurrencies.6 One of the main reasons behind the cryptocurrency mining ban was arguably an increase in illegal coal extraction, which made it difficult to attain China’s ambitious environmental goals, and put people’s lives in danger. The preliminary investigation of an April 2021 coal mine accident in Xinjiang that trapped 21 people found that the mine was restarted without government permission to meet cryptoserver farms’ power demand.7
+
+Similarly, in May 2021, the European Central Bank described the “exorbitant carbon footprint” of cryptoassets as “grounds for concern.”8 The European Union (EU) is under pressure from some member states to mitigate negative environmental impacts of blockchain applications. In November 2021, the Swedish government asked the EU to ban “energy-intensive” cryptomining activities.9
+
+Likewise, in May 2021, a bill was introduced in the New York State Senate to establish a “moratorium on cryptocurrency mining operations that use proof-of-work (PoW) authentication methods to validate blockchain transactions.”10 In March 2022, the New York State Assembly Environmental Conservation Committee voted to pass the legislation.11
+
+Similar concerns have been raised by international developmental organizations.12 Issuing a warning against El Salvador’s Bitcoin Law, which made bitcoin a legal tender effective September 2021, the International Monetary Fund noted that adverse consequences on the environment are among many risks that countries that adopt cryptocurrencies as a national currency or legal tender can face.13
+
+Social and environmental activists have played a vocal and visible role in explaining cryptocurrencies’ adverse environmental impacts. When cryptocurrency miners started their activities in New York’s industrial towns in 2021 using natural gas plants, environmental groups such as Earthjustice and the Sierra Club expressed concerns over the way the cryptomining companies were operating. These groups argued that huge computer farms’ operations can increase greenhouse gas emissions and threaten the state’s emission-reduction goals, which require more renewable power and reductions in fossil fuel emissions. There are also complaints against using renewable energy. Environmentalists argued that because Bitcoin mining plants can use more energy than most cities, their operations can increase the dependence of others on fossil fuels. And a blogger criticized a permit that allowed a cryptomining firm to draw more than 100 million gallons of water daily from Seneca Lake for cooling purposes. The water would then be returned at a warmer level to a trout stream tributary.14
+
+The environmental organizations that had embraced cryptocurrencies and nonfungible tokens (NFTs) in their fundraising initiatives have been forced to reverse their actions. Nongovernmental environmental organization Greenpeace, which had accepted bitcoin donations since 2014, stopped accepting donations in the cryptocurrency in 2021 due to concerns regarding the amount of energy needed.15 In February 2022, World Wildlife Fund U.K. tried to raise money with NFTs, specifically what it called nonfungible animals, but, facing sharp criticism from traditional conservation supporters, the organization was forced to immediately end sale of the tokens.16
+
+Responding to criticisms, defenders of Bitcoin have argued that Bitcoin’s environmental impact is significantly lower than that of the financial and banking sectors. One report suggested that the Bitcoin network uses less than half of the energy used by banks’ large data centers.4
+
+Bitcoin proponents have also argued that cryptocurrencies are helping build the future financial system and hence, their benefits outweigh the costs.15
+
+Considerations and Factors
+
+A variety of considerations and factors can guide decisions regarding the use of blockchains and potentially minimize the energy use and environmental impacts of blockchain use (see Table 1). Although many collectible NFTs have little to no utility, blockchains can enable valuable applications such as securing property titles. However, whether certain applications of blockchain are good or bad is subjective. Some view blockchain as an opportunity to realize interests and achieve goals that they value highly. A climate activist was quoted as saying that despite high energy consumption and adverse environmental impact, he would support cryptocurrencies as long as they fight the capitalist establishment and take power away from central banks.9
+
+Energy consumption varies across phases and types of transactions. Mining accounts for most of the energy consumption of Bitcoin. For already-mined coins, minimal energy is required to validate transactions.17 Memo Akten’s analysis of 8,000 transactions from the NFT platform SuperRare suggested that an average NFT consumes 340 kWh of energy. According to Akten’s calculation, the averages for energy consumption and carbon dioxide (CO2) emission for different activities associated with NFTs were as follows: minting (creation)—142 kWh, 83 kg CO2; bids—41 kWh, 24 kg CO2; cancel bid—12 kWh, 7 kg CO2; sale—87 kWh, 51 kg CO2; and transfer of ownership—52 kWh, 30 kg CO2.18 Transferring ownership of an already-minted NFT thus creates fewer negative environmental impacts compared to minting a new NFT.
+
+Another consideration is whether the energy used is renewable or not. Bitcoin network’s carbon emission level is difficult to estimate with high certainty as miners prefer to hide the details of their operations from competitors. A 2019 report by CoinShares notes that 74% of the world’s Bitcoin mining operations “heavily” relied on renewable energy due to the availability of hydropower in mining hubs such as China and Scandinavia.19 In September 2020, the CCAF estimated renewable energy powered 39% of PoW mining.20 The proportion further reduced to 25.1% in August 2021 as miners stopped using Chinese hydropower and moved to the United States, where gas supplies much of the power.21
+
+Some bitcoin miners are positioning themselves as environmentally responsible. Canada-based HIVE Blockchain Technologies, which was listed on Nasdaq in 2021, claimed that it uses only renewable energy to mine Bitcoin and Ether.22 Some critics, however, have questioned the justifiability of using energy, whether renewable or nonrenewable, to power energy-intensive applications such as Bitcoin mining. They suggest that the argument that Bitcoin’s high energy consumption and environmental burden can be compensated for by plugging into renewable sources is convenient but possibly false. The renewable resources used to power blockchains could be deployed to more essential needs.23
+
+Another way to reduce the environmental impact is to take advantage of arbitrage geographic opportunities, that is, moving activities across borders to utilize excess energy production. This is possible because blockchains’ energy consumption differs from most other industries; whereas energy used for other activities must be produced close to its end users, bitcoin can be mined anywhere in the world. In this way, miners can utilize power sources that cannot be used by other applications.20 Before cryptomining was outlawed in China, bitcoin miners used to migrate to the mountainous provinces with abundant hydropower resources during the rainy season. In these provinces, they took advantage of the excess electricity for several months each year.24
+
+Finally, energy consumption and environmental impacts vary across the types of blockchain networks. The blockchains that rely on PoW consensus mechanisms consume more energy (Table 2). Moreover, the energy consumption of these networks is growing rapidly (Figure 1). By using blockchains based on the proof-of-stake (PoS) consensus model, in which only a small group of nodes can validate transactions, energy consumption can be reduced. Some platforms advertise lower energy consumption as a selling proposition. The NFT platform designed for the music industry is built on Tezos,25 and OneOf promotes itself as a sustainable company.
+
+Cryptocurrencies’ high energy consumption is a basis for regulatory scrutiny. More energy-efficient blockchains exist that run on PoS algorithms, but their use has been limited because they lack the characteristics of completely decentralized blockchains.
+
+Whether high energy consumption is viewed as justifiable or not depends on whether we value the functions and services blockchain provides. The question of whether millions of dollars should be spent on an NFT that consumes 340 kWh of electricity is a question of values. The individuals that consider cryptocurrencies to be a tool to build future financial systems and fight capitalism may view this energy consumption as justifiable. On the other hand, those that view cryptocurrencies as a “fraud” or “Ponzi scheme” may consider this energy consumption a waste.
+
+Measures can be taken to mitigate the high energy consumption and adverse environmental impacts. Blockchain applications such as Bitcoin mining and minting NFTs can be performed throughout the world. The environmental impacts can thus be reduced if these activities are performed in locations with excess energy. Likewise, blockchain activities that employ renewable energy may be more justified due to their carbon-neutral nature.
+
+Social Media and the Banality of (Online) Crowds
+
+What does our recent experience with social media say about the intelligence of crowds? The central thesis of James Surowiecki’s 2004 best-selling book, The Wisdom of Crowds,1 held that “under the right circumstances, groups are remarkably intelligent, and are even smarter than the smartest people in them.” I shall argue that if his thesis holds, it does so only under very limited conditions. In fact, I will flip his thesis on its head and ask under what circumstances the opposite would obtain: where crowds are demonstrably less “intelligent” than the smartest people in them—or perhaps when crowds are less intelligent than anyone in them. I then contrast our recent experience with social media with that of Wikipedia. I will claim that experience with the latter is more supportive of Surowiecki’s thesis than the former, although neither may be considered a validation.
+
+I begin with the caveat that, while I appreciate some of Surowiecki’s observations, I have reservations about his general thesis regarding the value of crowds and groups. I confess a general suspicion of the value of group identification and cohesion as it so commonly leads to social dominance, intergroup conflict, and societal discord. So, by nature, I’m reluctant to assign any inherent value to group settings, and I am inclined to attach any positive properties that might accrue to coincidence and hidden variables. That said, Surowiecki’s analysis does have something more important to offer than his main thesis. This arises in his discussion of the criteria that inhibit crowds’ collective judgments. There is considerable insight to be gained, particularly with respect to the darker sides of social media.
+
+Surowiecki claimed that collective intelligence might bear on three categories of problems: those that deal with 1) cognition, 2) coordination, and 3) cooperation. He also lists three necessary conditions for crowds to be wise: 1) diversity, 2) independence, and 3) a particular kind of decentralization. My argument is twofold. First, while social media may help address problem categories 2) and 3), it is highly questionable whether social media has much to offer in terms of problem category 1). Second, in the case of social media, necessary condition 1) rarely obtains, and condition 2) is frequently absent. Thus, it is only to the extent that Surowiecki is allowed to cherry-pick his crowds that he will be able to identify confirming instances of his claim.
+
+Crowd Science
+So what is a crowd? We begin by repurposing a theory on social organization from economics and the social sciences called convergence theory,2 which holds that over time groups will converge toward “conditions of similarity”—that is, differences will diminish. I don’t want to carry this point too far, but I do want to emphasize that the idea of convergence as a driver of uniformity seems to be useful in characterizing social media. Crowds are, in this sense, collections of like-minded individuals coming together as one or a reasonable approximation thereof. Of course, there are many subtleties involved: crowds attracted to crime scenes and spectacles may be like-minded only in the sense of a nonintellectual, morbid curiosity, whereas crowds at Ku Klux Klan meetings may be ideologically bound together by varieties of ethnocentrism. However, these distinctions are best left to social scientists to understand and will not affect our overview of the relationship between crowds and social media.
+
+It is important to recognize that the darker sides of crowds have been observed for more than a century. Elias Canetti observes that open crowds have a natural urge for growth and want to grow indefinitely, in his 1960 book, Crowds and Power.3 But, “one of the striking traits of the inner life of a crowd is the feeling of being persecuted, a peculiar angry sensitiveness and irritability directed against those it has once and forever nominated as enemies.” Canetti suggests that we view crowds as besieged cities, attracting more partisans from the countryside and bonding them together through a feeling of being persecuted. An external attack only serves to strengthen a crowd, so the ultimate destruction of a crowd will likely result from internal panic or disorder. Thus, in his view, crowds don’t naturally become smarter. They become more partisan and defensive. This idea is in clear contrast to the main thesis in The Wisdom of Crowds.
+
+Let’s look at crowds from Canetti’s perspective. Canetti identifies four fundamental qualities of crowds: the insatiable desire to grow, absolute and unquestionable equality between members, the perceived density and indivisibility of members, and a shared, unattained goal. These qualities do not describe either an intellectual bond or purposeful reflection.
+
+The appropriateness of Canetti’s observations to a study of present online crowds like social media should not be overlooked. Although his book was written in 1960, it remains relevant today. It should be mentioned that Canetti’s work fits into a tradition of critical crowd analysis that spans more than a century and is inconsistent with The Wisdom of Crowds. Similarly, sociologist Gustave Le Bon’s characterization of the psychology of crowds emphasized the irresponsibility, herd mentality, irrationality, and impulsivity characteristic of “inferior forms of evolution…,” which allows them to be “easily led into the worst excesses.”4 Le Bon argues that crowds are not influenced by reason, and what limited reflection they do sustain is of a “very inferior order.” Le Bon and Canetti hold views antithetical to those in The Wisdom of Crowds, but for different reasons.
+
+In response to Le Bon, Surowiecki claims:
+
+
+“Gustave Le Bon had things exactly backward. If you put together a big enough and diverse enough group of people and ask them to ’make decisions affecting matters of general interest,’ that group’s decisions will, over time, be ’intellectually [superior] to the isolated individual,’ no matter how smart or well-informed he is.”1
+
+While my inclinations are to side with Canetti and Le Bon, Surowiecki should not be ignored. But we must recognize that his confidence in crowds is measured through, and hinges on, a major caveat: the necessary conditions for wise crowds being both diverse and independent. I shall claim that these necessary conditions are absent in many, if not most, online crowds, and, for that reason, the Canetti and Le Bon analyses of crowds seem to be a better fit for social media than Surowiecki’s.
+
+Naive Crowd Psychology
+I admit to the bias that my life experience suggests that it is nearly impossible to overestimate the credulity of crowds in general, whether they are religious, political, or sports crowds, investment clubs, scout troops, concert goers, mobs, riots, protests, panics, and so on. All crowds share at least one common feature: a common focus. As a result, they are self-influencing and self-reinforcing. But these are not the only debilitating features of crowds. Crowds are far worse when they are populated through self-selection. Crowds tend to behave antimagnetically—opposites are not attracted to one another because of this singularity of focus. If I may stretch the metaphor a bit more, as crowds grow, so does the “ideological bond” that connects the members, which in turn further discourages diversity. Over time, crowds become herds/hives/swarms—whatever label one chooses to use. Think about this in terms of identifiable crowds within your sphere of observation. How welcoming are polygamous cults to ideologically monogamous potential recruits? How many Antifa signboards do you see at Stop the Steal rallies? Are arena seats randomly distributed to fans of opposing teams? Although there may be exceptions, self-selection works against the very variety and diversity that Surowiecki claims are necessary for wisdom to arise. Singularity of focus and self-selection seem to me to provide sufficient grounds for general distrust of the wisdom of any crowd.
+
+Furthermore, crowds seem to face any challenge to their singular focus with reservation, if not outright rejection. My experience suggests that this feature is accountable for crowd willingness to accept disinformation, fake news, unsupported claims, conspiracies promoted by crowd influencers, and the like. In this way, as Canetti and Le Bon observed, crowd mentality inevitably tends toward herd mentality—especially as the membership grows and matures, and the foci narrow and/or multiply.
+
+But I am not willing to discard Surowiecki’s claims altogether. I concede that some crowds can exhibit sagacity, but only when the membership is carefully controlled. The primary villain is self-selection. Absent vetting, crowds will be most attractive to those who have illiberal, intolerant, and narrow-minded attitudes regarding the ideological polestars of the group. That is, if the crowd self-identifies with a particular cause, it is to be expected that measured reflection on fundamental principles will be unacceptable to the group. Convergence theory suggests that such a herd instinct is an inevitable feature of focused, mature crowds. So, while I’m willing to admit that some crowds can make good choices as Surowiecki suggests, his objection to Le Bon was overzealous. Even larger and more diverse crowds are capable of making larger and more diverse mistakes. I will call the thesis that crowds naturally decay into herds naive crowd psychology.
+
+Of course, Surowiecki’s caveat allows an effective—though circular—escape from our intuitive and naive crowd psychology. He makes his most plausible argument against this in his chapter on the value of diversity. The problem with his argument lies in its circularity. Suppose that one may legitimately describe a position taken by a certain crowd as mistaken, incorrect, or unjustified, but that the preceding necessary conditions 2) and 3) were satisfied. The caveat that the crowd was insufficiently diverse could always be used to explain the error. The problem is that the diversity caveat does not allow a nonvacuous alternative; that is, there is no way to falsify it. We don’t have to go full-tilt Karl Popper here with a carte blanche endorsement of the falsifiability principle, but rather content ourselves with the fact that Surowiecki’s three conditions aren’t testable. They’re definitional. This is reminiscent of the elephant bane gambit I described some years back,5 whereby the use of chemical repellant could be used to explain the absence of pachyderms on Antarctica. If elephants are never found on the Ross Ice Shelf, it could be claimed that the elephant bane worked; else, not enough was used. It isn’t difficult to find examples of the elephant bane rhetorical tactic in the media—especially in online resources that deal with religion, politics, and vexing social issues.
+
+The “Hive” Mentality
+Jaron Lanier likens the use of the term ”wisdom” in the context of crowds to Adam Smith’s “invisible hand” in the context of market exchange.6 His point is provocative. In both of these cases, the attribution has a spoofy and gratuitous character. In the spirit of Bob Dylan, we might say that there seems to be something happening here, but we don’t know what it is. The question arises as to whether wisdom and invisible hands are appropriate descriptors in these contexts. Tendencies to impart human qualities to nonhuman and, in many cases, imaginary objects have accompanied the entire human experience, so use in this context should not be surprising. These tendencies are so common that social scientists have given them names, such as anthropomorphism, apotheosis, and euhemerism. The use of this phenomenon to rationalize mythology and religion has been documented for millennia. It is even a staple in fables, fairy tales, animated media, video games, and emojis, for that matter. But one question always remains: Do such uses actually add any explanatory value?
+
+Lanier suggests that crowd wisdom might be a corollary to the Delphi method of forecasting.7,8 But that seems only partially right. The Delphi method relies on a structured panel of experts, not the collective wisdom of relatively random crowds. Surowiecki is clear about the difference between crowds and panels of experts: “Even if most of the people within a group are not especially well-informed or rational, it can still reach a collectively wise decision.”1 I’m unwilling to concede the congruence between crowds and the Delphi method that Lanier sees.
+
+But Lanier’s overall skepticism about crowds seems reasonable. He circumscribes the limits of crowds this way: “The collective is good at solving problems which demand results that can be evaluated by uncontroversial performance parameters, but bad when taste and judgment matter,” while admitting that “Collectives can be just as stupid as any individual, and in important cases, stupider.”6 He then offers a set of conditions where crowds and collective assessment may be superior to the assessment of an individual: 1) when the crowd isn’t defining its own question, 2) when the question leads to a simple result (for example, Y/N or a numeric value), and 3) when the information sources behind the assessment are appropriately filtered. “Break any one of those conditions and the collective becomes unreliable or worse.” Once again, caveats rear their ugly heads, and we’re back to the elephant bane gambit. What criteria do we apply to ensure that our information sources have been appropriately filtered? The problem is, in general, that we have no better insights into whether these caveats are satisfied than we have of whether the opining of a crowd/collective/herd/hive is reliable in the first place.
+
+In Lanier’s terms, crowds exhibit their worst behavior when they take on a “hive” mentality: “a hive mind is a cruel idiot when it runs on autopilot.”6 All too frequently, what we see in current social media is unreflective partisan tribe/crowd/herd/hive outbursts and subcerebral emanations from ill-suited, unprepared, and undisciplined minds. QAnon is a perfect example of the “cruel idiocy” of a hive mind,9 although the same would apply to other online resources—Breitbart, Newsmax, InfoWars, and the One America News Network come to mind. It is with social media outlets that the hive mind achieves maximal effect, and for this reason should be of greater concern to society.10
+
+Is Wikipedia a Counterexample?
+About 10 years ago, I wrote in Computer that since not all crowd members are equally well-informed, trustworthy, or reliable, you can’t rely on a crowd to filter out nonsense. As I put it then, “Crowds, like landfills, may produce treasures, but the yield rate isn’t encouraging.”11 As an illustration of the problem, I drew attention to an edit skirmish that took place in January 2013. I documented that, according to the first sentence in the Wikipedia article about him, the characterization of then Secretary of Defense Chuck Hagel went from “an American politician who was a United States Senator” to “an American politician, anti-Semite and proterrorist who was a United States Senator” and back again in the span of a few hours. In this case, the combative contributor qua tribalist wasn’t trying to bury the lede, but rather bury Hagel’s reputation.
+
+This is a glaring example of the edit war problem that wikis face when contributors try to inject self-serving, malicious, defamatory disinformation (also known as nonsense) into a record or narrative in furtherance of their nonreality-based world view. To be sure, submissions are routinely reviewed by wiki volunteers and overseen by in-house editors who also check them for appropriateness. In the case of the Hagel edit skirmish, the disinformation was so blatant that it was caught quickly. But subtleties are not so easily spotted, and nuanced suggestions may go unnoticed. In the case of Wikipedia, the editing oversight issue is significant.12 While Wikipedia articles may fray around the edges and would not meet the peer-review standards of scholarly publications, in general Wikipedia works well enough to be useful so long as 1) the topics are not controversial, 2) the issues are not nuanced, and 3) not much rests on the accuracy of the content; that is, the topic is relatively unimportant. Despite these advantages, it is potentially toxic to serious scholarship and for that reason is largely avoided.
+
+As with social media, controversial wiki topics attract tribalists and partisans of every stripe. Armed with disinformation, they seek to manipulate a public narrative. When it comes to social media, their weapons of choice include sockpuppeting (pseudonymous manipulation of online resources to simultaneously distance themselves from a position or action and give the appearance of objectivity), catfishing (the use of fictional identities to target online victims), and gaslighting (pseudonymous manipulation to produce victim self-doubt and distress). These techniques rely on anonymity, obfuscation, and trickery to avoid criticism and backlash directed back at the sources. To paraphrase Jaron Lanier, this veil of anonymity amounts to an online cultural denial-of-service attack on users. An “invisible social vandalism” results.13
+
+The reality is that these tactics are as difficult to detect14 as the underlying personality disorders behind them,15 thus providing an insurmountable challenge for media or news-oriented online platforms who report on them. In just this way, wiki and social media platforms are also challenged to recognize, register, and respond to subtlety and nuance, which makes the problem of detecting half-truths, vagaries, and misinformation as difficult as detecting falsehoods, lies, and disinformation. Any intellective product of an anonymous crowd will be more difficult to unravel than that of an identifiable individual. As I suggested in my earlier article, the inability to achieve consistent, reliable vetting through peer review by knowledge domain experts was the reason that Tony Ralston and I abandoned our wiki, the ACM Timeline of Computing, in the late 1990s.11 Finally, Wikipedia consumers are not trying to replicate scientific experimental results or conduct scholarly research based on primary sources and ground truth data. They are looking for an entry-level expedient overview where imprecision and inexactitude are acceptable. Wikis can have utility as long as we don’t place much confidence in them.
+
+From my experience, Wikipedia excels at the mundane: dates, quantities, names, and places—information that is incontestable and uncontroversial. If there is information that is beyond dispute, there is a good probability Wikipedia’s presentation will be reasonable. But just one step beyond the incontestable, credibility quickly wanes. This is not to say that credibility vanishes altogether, but it suffers considerably. Even though Wikipedia has added sophistication to the editorial process and seems to have eliminated the pendulous swings of the edit wars, one must remain mindful of its limitations.
+
+The Banality of (Online) Crowds
+So the core question should not be whether or to what extent crowds of any stripe are wise. That’s a category mistake. Rather, we should ask whether they will be naturally drawn to the dark side. Our recent experience with social media, especially when it comes to issues of politics, religion, and antisocial behavior, demonstrates the enormous potential of online crowds for banality. While Wikipedia shows that online crowds can be reliable sources of information in some situations, the same can’t be said for QAnon and 4chan. There is ample evidence that online crowds can have a far darker, antisocial character. They can be untrustworthy,9 abusive,13,16,17 and easily manipulated,18,19 for example. We might go so far as to say that Wikipedia reveals crowds at their best; social media, at their worst.
+
+So what we’re left with is a general suspicion of online crowds in terms of reliability, tempered by the observation that sometimes, and under controlled circumstances, crowds can have utility. We are forced, however, to recognize that the value of social media crowds can be inferred from their collective behavior. While our experience with online crowds and social media does not completely undermine Surowiecki’s confidence—remember the all-important caveats that he built into The Wisdom of Crowds—it does suggest that there was much more to be gained from a careful study of Le Bon, Canetti, and Lanier than Surowiecki.
+
+While a formal study of the interrelationships between social media and crowds would involve a social science research effort, a useful informal approximation may be obtained by listening to AM talk radio; the call-in crowds share similar motives with online crowds. From my experience, both sources seem to display comparable levels of fervor, focus, resentment, alienation, and hostility. While not a scholarly study, listening to AM radio is a window into the darker sides of crowds. But unlike social media crowds, AM radio presents “crowdspeaking” to all who care to listen without the filter of self-selection. But in both cases, crowds will continue to morph into antisocial packs, herds, hives, tribes, mobs, and so on. With AM radio, however, at least this can be monitored.
+
+We note also that there is an important distinction to be made between crowd organizers and leaders on the one hand and crowd members and followers on the other. Our focus on the collective wisdom of crowds enables us to ignore this distinction without diminishing its importance. We observe that while the desire to exercise power by leading a crowd may be qualitatively different than the desire to exercise power as an individual, both cases may share a common pathology. More refined analysis is best left to the social sciences.
+
+It is also appropriate to question whether the credit given to online crowds to support social movements is justified. The evidence supporting the efficacy of the so-called Twitter revolutions is sketchy at best and may be totally overblown.20,21 Finally, we emphasize again that self-selection and singularity of focus are the most corrosive aspects of crowds. If online crowds encouraged unrestricted membership, diversity of opinion, and unrectified information flows, they would take on a less acrid character. But then they wouldn’t serve the ultrapartisan, nonreality-based communities as well.
+
+Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
+
+Image-based data reduction techniques have emerged as one of the viable solutions to minimize the size of the stored data so that it can be analyzed and visualized interactively post hoc by the application scientists.1 Storing large-scale three-dimensional multivariate simulation datasets in the form of an indexed image database, called a Cinema database,2,a facilitates exploration of the large-scale scientific data efficiently without overwhelming the users. These Cinema databases are ideally generated in situ, i.e., when the simulation is running on the supercomputer and the data are not yet moved to the disks. Instead of keeping the raw data, Cinema databases are stored onto disk as a proxy for the data, capturing various types of visualizations of the data. Later during offline analysis, the Cinema databases can be explored interactively to analyze the data in the image space. The success of this approach has been shown in many application domains.2,3
+
+Even though Cinema databases result in a significant amount of data reduction, such databases still consist of multiple variables, timesteps, visualization parameters, etc. Hence, efficient image-based data analysis and visualization algorithms are necessary to find salient data features automatically so that the domain experts do not have to manually explore them. This problem becomes more challenging when the experts want to analyze features in the multivariate spatiotemporal domain to study their interaction pattern. In many scientific applications, variables collectively show association/dissociation relationships and such properties are often correlated to a physical phenomenon in the data. For example, in hurricane simulation data, low-pressure, and low-velocity regions are characterized as the hurricane eye, indicating the strength of the storm. Therefore, multivariate analysis techniques are essential to efficiently detect association/dissociation relationships in image databases. Ideally, these relationships should be visually incorporated to the image database to support further interactive exploration for new scientific discovery. In this work, we propose an information-theoretic analysis framework that works on multivariate time-varying Cinema databases and performs automatic identification of salient regions given a pair of variables. The technique uses specific mutual information (SMI) measures that are a decomposition of traditional mutual information (MI) so that the information content of specific data values can be quantified. Each SMI measure captures a unique multivariate property of the data. Using the strength of these SMI measures, the opacity of the images is modulated during visual analysis so that the important spatial regions are highlighted automatically and the users can quickly focus on them while exploring the Cinema databases. The analysis results are presented interactively using a web-based visual-analytics tool, CinemaView,b which allows side-by-side interactive comparison of analysis results. The efficacy of the proposed framework is demonstrated by applying it to scientific simulation datasets from weather and combustion sciences.
+
+The contributions of our work are twofold:
+
+we propose a new technique to perform automatic feature analysis in multivariate time-varying scientific data. Our image-based representations of the 3-D spatiotemporal data helps reducing the overhead of the analysis significantly;
+we propose an information-theoretic opacity mapping technique to highlight the statistically salient regions in the data considering pairs of variables.
+Related Works
+In this section, we present a comparative discussion of the existing related works and indicate how our work is different. Information theory4 has been used successfully for solving problems across many computational domains.5,6 Instead of using traditional MI, the use of various decomposition of MI, called SMI, have gained significant attraction in recent years. By applying SMI, Bramon et al. showed that multimodal 3-D medical datasets can be fused into a single dataset.7 In another work, Bramon et al. used MI to design color transfer function for medical data.8 To analyze the uncertainty of isosurfaces in scientific 3-D data, Biswas et al.9 used SMI and Dutta et al. extended this work into time-varying domain.10 In contrast to the abovementioned works, in this work, we have focused on 2-D image-based databases, generated from multivariate time-varying simulations, where our primary focus is to use SMI to automatically first detect the statistically salient regions considering images from variable pairs and then use the SMI values at each pixel location to define opacity values so that the salient regions are automatically highlighted. These images will be ideally generated during the simulation run, i.e., in situ, and as these simulations can have many variables and hundreds to thousands of time steps, we believe that our approach can significantly accelerate the multivariate analysis for the domain scientists by providing them an image-based time-varying summary of simulation variable interactions where the salient regions are automatically highlighted.
+
+Overview
+Our aim is to develop an interactive analysis technique to enable scientists to explore salient regions in time-varying multivariate datasets. The images in the Cinema database are derived from three dimensional simulation data for each variable over multiple timesteps. To study the relationship among multiple variables, we use SMI to provide information about a target variable based on the knowledge of a specific scalar value of another reference variable. We employ two SMI measures to explore multivariate interaction between variable pairs and use the SMI values to design opacity mapping for the images to highlight statistically salient regions automatically. A workflow of the proposed framework is presented in Figure 1.
+
+Figure 1. Illustrative diagram of our workflow. Here we have chosen the variables pressure and velocity from the Hurricane Isabel dataset to demonstrate the steps in our technique. SMI measures: Surprise and predictability are applied on the variable pairs, and corresponding images are shown in column (a). After modulating the opacity using linear and nonlinear mapping functions, images with salient regions are analyzed as shown in columns (b) and (c), respectively.
+
+Information-Driven Framework for Multivariate Feature Exploration
+Cinema Database and Image Format
+To generate the Cinema database images, 2-D slice rendering is applied to the 3-D scalar valued variables. Instead of applying a transfer function via a colormap and storing the RGB valued images, we use perspective projection on the 2-D slice of the 3-D data, so that each pixel stores the corresponding value of scalar data.3 Such images are called float images and are stored using standard PNG format. This also allows us to compute the SMI measures directly using the raw data values rather than data distorted by an underlying colormap. A colormap can then be applied post hoc. In Figure 2, we show examples of the float images and corresponding color mapped images that are used in this work.
+
+Figure 2. Visualization of float and colored images. (a) Float image and the corresponding colored image using the colorbar shown on right for the pressure variable from the Hurricane Isabel dataset. (b) Example of the mixture fraction variable from the turbulent combustion dataset.
+
+SMI Measures
+The key factor in this work is determining the degree of association among the different variables in order to identify and highlight salient regions. Because scientific data often has nonlinear dependencies between variables, any correlation analysis technique must handle nonlinear cases. There are several correlation analysis techniques available for measuring variable relationship. MI is one of the well-known measures to quantify the mutual correlation between two variables. MI’s ability to capture nonlinear dependency between variables makes it a better choice than a more typical approach, such as Pearson’s correlation. MI quantifies the total amount of information overlap between two variables, i.e., if we observe a certain variable, then MI tells us how much uncertainty has been reduced regarding the information of another variable. Given two random variables 
+X
+ and 
+Y
+, MI 
+I
+(
+X
+,
+Y
+)
+ is formally defined as
+
+where 
+p
+(
+x
+)
+ and 
+p
+(
+y
+)
+ are the probabilities of occurrence of values 
+x
+ for 
+X
+ and 
+y
+ for 
+Y
+, respectively, and 
+p
+(
+x
+,
+y
+)
+ is the joint probability of occurrence of values 
+x
+ and 
+y
+ together.
+
+MI quantifies the total association or disassociation between two variables and provides a single value. Since we aim to extract salient regions, we need a measure that can provide us with information related to individual scalar values. Traditional MI can be further decomposed into SMI measures to quantify individual data values’ contribution toward such association or disassociation. For specific scalar values 
+x
+∈
+X
+, SMI computes the information content of 
+x
+ when another variable 
+Y
+ is observed. In this case, 
+X
+ is called the reference variable and 
+Y
+ is called the target variable. Knowledge about the scalar values in the reference variable can increase knowledge about the target variable. This increase in information or decrease in uncertainty helps in identifying important regions in the float-image data. MI can be decomposed in multiple ways to obtain several SMI measures and we focus on two such SMI measures, Surprise and Predictability,7,11 for finding different types of multivariate characteristics between variable pairs.
+
+SMI Measure Surprise: 
+I
+1
+(
+x
+;
+Y
+)
+The Surprise measure quantifies the change in the information content in the occurrences of the target variable after observing individual scalar values of the reference variable. This measure has the potential of providing information, which would seem improbable otherwise, hence the name surprise.7,11 The regions where data values have higher surprise values can be informative. For two random variables 
+X
+ and 
+Y
+, surprise is denoted as 
+I
+1
+ and presented as
+where 
+x
+∈
+X
+ is the reference variable and 
+y
+∈
+Y
+ is the target variable. 
+p
+(
+y
+)
+ is the probabilities of occurrence of values 
+y
+ for 
+Y
+ and 
+p
+(
+y
+|
+x
+)
+ is the conditional probabilities of values 
+y
+ given values 
+x
+. Surprise is always positive as it is the distance between 
+p
+(
+y
+|
+x
+)
+ and 
+p
+(
+y
+)
+. A high 
+I
+1
+(
+x
+;
+Y
+)
+ implies that after observing the reference variable 
+x
+, some low probability values of 
+y
+∈
+Y
+ have become more probable. This surprising element is potentially informative for our analysis.
+
+SMI Measure Predictability: 
+I
+2
+(
+x
+;
+Y
+)
+The Predictability measure provides us with the amount of increase/decrease in uncertainty about the target variable after observing the reference variable.7,11 This quantification of the uncertainty change helps to identify statistically significant regions in the images. Predictability is denoted as 
+I
+2
+ and can be computed as
+where 
+x
+∈
+X
+ is the reference variable and 
+y
+∈
+Y
+ is the target variable. 
+p
+(
+y
+)
+ is the probabilities of occurrence of values 
+y
+ for 
+Y
+ and 
+p
+(
+y
+|
+x
+)
+ is the conditional probabilities values 
+y
+ given values 
+x
+. Based on the amount of information increase and decrease, 
+I
+2
+ can be both positive and negative. A high positive 
+I
+2
+(
+x
+;
+Y
+)
+ value indicates that the uncertainty of target variable 
+Y
+ has decreased when value 
+x
+ is observed. On the other hand, a high negative 
+I
+2
+(
+x
+;
+Y
+)
+ value indicates that the uncertainty of target variable 
+Y
+ has actually increased. According to information theory, data values that are less probable or unpredictable contain more information representing salient regions in the data with diverse characteristics that are worth deeper exploration. Therefore, the surprise and predictability measures provide different statistically meaningful results, an important consideration in the workflow.
+SMI-Driven Opacity Mapping Functions
+These two SMI measures can now be applied to the image data to identify and highlight statistically salient regions. Since each pixel in the data has a scalar value, SMI measures can be estimated at every spatial pixel location. Note that high surprise regions and high / low predictable regions indicate salient variable relationships. We want to emphasize such regions where statistically significant multivariate properties exist between the selected variable pair. One of the ways to highlight the regions is by modulating the opacity channel of the image. This suppresses unimportant pixel values while directing focus to important regions. In the following, we show how different types of opacity mapping functions for SMI values can be used to automatically highlight important regions in the images. The design goal of such opacity functions is to make the regions containing high SMI values more opaque so that they are clearly visible and suppress regions with low SMI values by making them transparent. The choice of opacity mapping functions is quite broad and we consider linear and nonlinear mapping functions.
+
+Linear Mapping Strategy of SMI Values
+A linear mapping function can be trivially designed. We normalize the values of 
+I
+1
+ and 
+I
+2
+ in the range of 
+[
+0
+,
+1
+]
+ using the following linear function:
+As shown in Figure 3, for the surprise measure, 
+I
+1
+, Figure 3(a)-(i) shows a linear relationship representing the 
+I
+1
+ values between 
+[
+0
+,
+1
+]
+ for a pair of variables. Since predictability, 
+I
+2
+, produces both positive and negative values, we model them separately. We normalize positive values between 
+[
+0
+,
+1
+]
+ and negative values between 
+[
+−
+1
+,
+0
+]
+. Combining both at 0, we get a “
+V
+-shaped” plot, as shown in Figure 3(b)-(i). By designing linear mapping functions such as these, lower SMI valued or unimportant regions will be transparent and higher SMI valued or informative regions will become opaque.
+Figure 3. Function plots of the opacity mapping for modulating transparency in the images. Upper row (a), presents plots from SMI measure surprise (
+I
+1
+) and lower row (b), presents plots from SMI measure predictability (
+I
+2
+). Column (i) represents linear mapping and columns (ii)–(iv) represent increasing order of nonlinear mapping. x-axis of the plots shows the values from the SMI measure and y-axis shows the mapped values from the corresponding functions.
+
+Nonlinear Mapping Strategy of SMI Values
+The linear mapping strategy computes opacity value as a linear function of SMI values. However, this may not provide sufficient differentiation in the opacity to highlight the most salient regions. In order to design a mapping strategy where the higher SMI valued regions are clearly visible by further suppressing the low valued regions, we introduce nonlinear mapping functions, where the transparency value mapping can be modulated exponentially, giving us more control during analysis. We define the following nonlinear exponential function:
+where 
+a
+ is the exponential control parameter. As 
+a
+ increases, higher SMI values are assigned higher exponential weight. 
+a
+ provide a control parameter that a user can use to set a treshold on the measures that are improtant for a specific analysis. Figure 3, columns (ii)–(iv), illustrates how the function changes with increased values of 
+a
+ from 1 to 3. In the case of 
+I
+1
+, as 
+a
+ increases, the plot gets steeper by assigning less weight to lower values and more weight to higher values. For example, in the case of Figure 3(a)-(iv), the regions with highest 
+I
+1
+ values will be most opaque making anything below threshold transparent, thus highlighting the significant regions in the images.
+
+This approach is extended for the 
+I
+2
+ analysis by using the function separately for positive and negative values. As seen in Figure 3(b)(ii)–(iv), with higher orders of 
+a
+, the 
+V
+-shape from the linear mapping becomes more “U-shaped” with steepening curves emphasizing the most significant positive and negative 
+I
+2
+ values.
+
+With the parameter 
+a
+, the user can set the opacity threshold for results useful to their specific analysis and achieve control over the images they want to visualize for further exploration.
+Results
+The results of our work are presented using an interactive visual analytics tool, CinemaView, to study salient regions in image datasets. CinemaView is a browser-based viewer that allows interactive exploration of image databases stored as a Cinema database. Figures 4 and 5 show the user interface of the CinemaView tool. Figure 4(a) shows the color mapped ground truth images of two selected variables, pressure and cloud, followed by the images representing the analysis of the variables using surprise (
+I
+1
+) and predictability (
+I
+2
+) as opacity mapping functions. Images containing both linear and nonlinear mapping can be visualized simultaneously using this tool as shown in Figure 4(a). In this study, we present results by using order up to 3 for the nonlinear opacity mapping functions. The right panel of the CinemaView interface provides interactive widgets that can be used to adjust image size and to explore the results over time. There is a drop-down menu where the user can select the dataset to view. CinemaView is intuitive and user-friendly and it allows interactive exploration of multiple image databases simultaneously in a side-by-side fashion. Users can easily compare and contrast the relationships among multiple variables and study their evolution over time supplementary video is available online on the Computer Society Digital Library at http://doi.ieeecomputersociety.org/10.1109/MCSE.2022.3188291.
+
+Figure 4. (a) Presents salient regions between pressure and cloud variable analysis from the Hurricane Isabel dataset at timestep 7 using CinemaView. The first images of each row are the color mapped images of the reference variable pressure and target variable cloud. The first row shows the combined analysis using surprise (
+I
+1
+) as the opacity mapping function. The blue regions represent detected salient areas. The second row shows combined analysis using predictability (
+I
+2
+) for the opacity mapping function. The red regions represent positive predictability and the blue regions represent negative predictability. The elements annotated with red arrows and circles show the interactive tools of CinemaView. (b) Presents function plots of the opacity mapping for modulating transparency in the corresponding images. Upper row shows surprise (
+I
+1
+) plots and lower row shows predictability (
+I
+2
+) plots. Column (i) represents linear mapping and columns (ii)–(iv) represent increasing order of nonlinear mapping. x-axis of the plots shows the values from the SMI measure and y-axis shows the mapped values from the corresponding functions.
+
+Figure 5. Salient regions between reference mixfrac and target Y_OH variable analysis from Turbulent combustion dataset at (a) timestep 5, (b) timestep 41, and (c) timestep 80. The first images of each row are the color mapped images of the reference variable mixfrac and target variable Y_OH. After the color mapped image, the top row from every timestep shows combined analysis of the variables using surprise (
+I
+1
+). The blue regions represent the salient areas (flames). Similarly, the bottom row shows analysis using predictability (
+I
+2
+). Red and blue regions represent positive and negative predictability respectively.
+Hurricane Isabel Dataset
+Hurricane Isabel data were produced by the Weather Research and Forecast model, courtesy of NCAR and the U.S. National Science Foundation. This dataset consists of 13 variables and 48 timesteps with a spatial resolution of 
+250
+×
+250
+×
+50
+ for a single timestep. In this work, we show analysis results obtained using the pressure and cloud variables.
+
+Figure 4(a) presents analysis results for timestep 7. The pressure is the reference variable and cloud is the target variable. Thus, the SMI measures are calculated for values of pressure. After computing 
+I
+1
+ measures, the results are stored as images for visual analysis. Since each pixel in the raw data has a pressure value and each pressure value has an associated surprise (
+I
+1
+) value, we create a new image where each pixel contains the 
+I
+1
+ value and the opacity at each location is also controlled by a linear/nonlinear mapping function using the associated surprise values. This is then repeated for each timestep. The corresponding opacity mapping functions used to modulate the opacity for timestep 7 are shown in Figure 4(b), where the goal is to highlight regions that have high surprise value. As shown in Figure 4(b), we modulate the order of the opacity function so that we can emphasize regions with high magnitude of 
+I
+1
+ values.
+
+In Figure 4(a), the high 
+I
+1
+ valued regions are presented with different shades of blue where the different shades indicate the opacity modulated regions with darker blue depicting higher surprise values. From the 
+I
+1
+ linear mapping results, we can observe that the areas around the hurricane eye are highlighted as having high 
+I
+1
+ values and indicate that such regions have become more probable after the cloud variable is observed. These regions coincide with the hurricane eyewall—a salient region in the pressure data. It is also observed that, by increasing the ordering of the nonlinear mapping, we can refine the most significant and surprising regions around the hurricane eyewall.
+
+The second row of Figure 4(a) (except the first image) presents 
+I
+2
+ analysis results. As the 
+I
+2
+ values can be both positive and negative, for visualization purposes, those regions are highlighted using shades of blue and red. Blue and red indicate negative and positive 
+I
+2
+ values, respectively. From the 
+I
+2
+ analysis results, we see that the hurricane eye region is red (positive 
+I
+2
+), which means it is a highly predictable region when pressure and cloud variables are analyzed. It is known that in the hurricane eye region, pressure values are typically low and cloud values are mostly homogeneous and thus such region is detected as a predictable region. If we focus at the region around the hurricane eye’s boundary, we find that a region is identified as uncertain and has negative predictability values and so has blue color. This is also a consistent observation since this region is known as the eyewall and the target/observed variable cloud has high variability and so is less predictable. Finally, moving away from the hurricane eyewall, the cloud values again become less varying and such regions are detected as more predictable regions (red color) away from the hurricane eye. The white regions in these images indicate regions where both the positive and negative 
+I
+2
+ values are relatively low and so they are transparent. From the predictability plots in Figure 4(b)(i)–(iv), the white areas represent the parts where the “V-shape” flattens into “U-shape” as we increase the order of the nonlinear mapping. As the order is increased, stronger predictable and uncertain regions become highlighted as significant regions.
+Turbulent Combustion Dataset
+The Turbulent combustion simulation data are made available by Dr. Jacqueline Chen at Sandia Laboratories through the US Department of Energy’s SciDAC Institute for Ultrascale Visualization. This dataset has 5 scalar variables and 122 timesteps with a spatial resolution of 
+240
+×
+360
+×
+60
+ for a single timestep. During combustion process, fuel and oxidizer react and the flame exists where fuel and oxidizer are in stoichiometric proportions.12 The mixture fraction (mixfrac) is an important variable in this dataset that indicates the fraction of mass at fuel stream origin. So, we have used the mixfrac as the reference variable and hydroxyl radical (Y_OH) as the target variable since both of these can be used to study the flame regions of the simulation.12 By analyzing the interacting relationship of these two variables, important features can be studied and detailed information about the combustion process can be gleaned.
+
+In Figure 5, we show results from timesteps 5, 41, and 80 as three different representative timesteps, highlighting three stages of the time-varying simulation. Timestep 5 in Figure 5(a) shows the initial state of the combustion variables interacting when the flames just started burning. Timestep 41 in Figure 5(b) represents an intermediate time when the combustion process is active and and finally, Figure 5(c) presents the result from a later timestep 80 when the flame has expanded. From these three figures, the salient regions clearly change their shape and position over time, indicating how this method is able to capture temporal changes.
+
+The salient regions detected from the 
+I
+1
+ analysis signifies the areas where the combustion process is happening around the flames. 
+I
+1
+ analysis shows blue regions identifying the areas with combustion flames. As we proceed to nonlinear mapping with increased order, higher 
+I
+1
+ valued regions get highlighted with dark blue and lower 
+I
+1
+ valued regions become transparent with lighter shades of blue, displaying the flame regions in a more refined manner. From the 
+I
+2
+ analysis results, we see two types of regions, blue and red. As previous, the blue regions show the locations where the values of the target/observed variable (Y_OH) are not homogeneous when observing the reference variable mixfrac. From all of the three timesteps, we find that the blue regions coincide well with the regions detected by the 
+I
+1
+ analysis, i.e., the regions where the flame is. In this region, the complex chemical reactions take place and so is hard to predict. From our 
+I
+2
+ analysis, such regions are detected as having negative 
+I
+2
+ values, which means such regions have higher uncertainty, therefore, less predictable. On the other hand, the red regions in these results show predictable regions of Y_OH when mixfrac is observed. The two outer red regions (the top and the bottom part) are the background regions where the combustion is not happening and hence the data values are mostly homogeneous. As a result, such regions are correctly identified as the highly predictable regions. The red regions in between two blue uncertain regions indicate that at the center of the simulation, there are some places where the variable Y_OH is more predictable and hence has positive 
+I
+2
+ values. It is also observed that as we increase the order of our opacity mapping function for both linear and nonlinear approaches, we can obtain further refined views of these predictable and uncertain regions where the darker (more opaque) regions indicate locations with higher magnitude of 
+I
+2
+ values. From these analysis results, we observe that both 
+I
+1
+ and 
+I
+2
+ analysis on the Turbulent combustion dataset bring out salient regions that the user can further study in more detail for exploring important characteristics of these variables over space and time.
+Conclusions and Future Work
+Our work successfully enables scientists to explore and extract salient regions in time-varying multivariate datasets. This technique is generalizable and is not limited to the datasets analyzed in this work. In future work, we plan to accelerate the computation of the information measures by using GPU-based parallel computing. The computation for each timestep can be further parallelized since the computation at each timestep is independent. We also plan to design more sophisticated optimization functions for opacity mapping. Instead of generating different orders for opacity modulation, an optimization-based approach could generate regions that are most useful to the domain scientists.
+
+Portable Acceleration of Materials Modeling Software: CASTEP, GPUs, and OpenACC
+
+The introduction first-principles materials modeling is an invaluable tool for scientists to investigate the chemical, physical, and electronic properties of matter, especially in the solid-state.2 The term “first-principles” refers to any of a number of methods based on parameter-free quantum mechanical models; of these, the most ubiquitous is density functional theory (DFT), especially in the popular plane-wave pseudopotential approach.
+
+At the heart of a DFT simulation is the solution of the Kohn–Sham equations,1 which for a material take the form of a set of nonlinear eigenvalue problems. Each eigenvalue problem corresponds to a particular choice of the wavevector (called a “
+k
+-point”) of the particle wavefunctions; for a particular choice of 
+k
+, we have
+where 
+H
+k
+[
+ρ
+]
+ is the so-called Hamiltonian matrix, 
+ψ
+b
+k
+ and 
+E
+b
+k
+ are the spatially varying Kohn–Sham wavefunction and energy corresponding to particles in state 
+b
+ (known as “bands”) with wavevector 
+k
+, and 
+ρ
+ is the probability density of the electrons (also spatially varying).
+
+There are solutions to (1) for any particular choice of the wavevector 
+k
+, and the general solution is found by integrating (numerically) over the possible wavevectors (those within the first Brillouin zone). Thus, the probability density of the electrons is
+where 
+f
+bk
+ is the probability of a particle being in band 
+b
+ with wavevector 
+k
+, and 
+|
+ψ
+b
+k
+(
+r
+)
+|
+2
+ is the probability density of that band. For fermions, such as electrons, no two particles may be in the same state, so 
+0
+≤
+f
+b
+k
+≤
+1
+. The summation over 
+b
+ accounts for the contributions from all the possible states of the particles; the summation over discrete 
+k
+ is an approximation to the integral over all 
+k
+.
+
+At first sight, the equations at different 
+k
+-points in (1) appear independent; however, since the Hamiltonian matrix depends on 
+ρ
+, and 
+ρ
+ involves a summation over 
+k
+ [see (2)], the equations are coupled, albeit not tightly. Moreover, the solution of (1) requires knowledge of the density 
+ρ
+(
+r
+)
+ in order to yield 
+ψ
+b
+k
+(
+r
+)
+, yet 
+ρ
+(
+r
+)
+ itself depends on 
+ψ
+b
+k
+(
+r
+)
+. For these reasons, the usual approach is to solve (1) and (2) iteratively, starting from an initial guess for 
+ρ
+(
+r
+)
+ and 
+ψ
+b
+k
+(
+r
+)
+.
+Plane-Wave Basis Set
+The size of the eigenvalue problem depends on the representation of 
+ψ
+b
+k
+(
+r
+)
+. For materials modeling, a common approach is to exploit the periodicity of the electronic unit cell of the material and express all the quantities in a Fourier basis. The density, 
+ρ
+(
+r
+)
+, is cell-periodic (i.e., has the same periodicity as the electronic unit cell), and the complex-valued wavefunctions are “quasi-periodic”; that is, their magnitudes are cell-periodic, as may be seen from (2), but the periodicity of their phase is determined by the wavevector 
+k
+. It is convenient to express 
+ψ
+b
+k
+(
+r
+)
+ as the product of the phase-factor 
+e
+i
+k
+⋅
+r
+ and a cell-periodic magnitude, which may be expanded in a Fourier basis. In 3-D, the Fourier basis components are plane-waves, and the wavefunctions are expressed as
+where 
+c
+G
+b
+k
+ is a complex coefficient and each 
+G
+ is a reciprocal lattice vector (often known as a “G-vector”); reciprocal lattice vectors are wavevectors for which 
+e
+i
+G
+⋅
+r
+ has the periodicity of the material.
+
+Any linear combination of reciprocal lattice vectors gives the correct periodicity, and the complete basis set is, therefore, infinite. As 
+|
+G
+|
+ increases, however, the corresponding coefficients tend asymptotically to zero, and thus, the expansion may be truncated safely at some cut-off wavevector magnitude, 
+G
+c
+. Denoting the number of plane-waves in the basis set as 
+N
+p
+, each wavefunction is completely determined by the set of 
+N
+p
+ complex coefficients, and the Hamiltonian is a complex Hermitian matrix of order 
+N
+p
+×
+N
+p
+.
+In principle, (1) may now be solved via standard matrix diagonalization methods, which would yield all 
+N
+p
+ eigenstates and eigenvalues of the Hamiltonian. The plane-wave basis set is computationally efficient for many operations, including differentiation and integration, but 
+N
+p
+ is usually large and grows with the size of the simulated volume. Simulations of small systems typically require several thousand plane-waves, and large research simulations may comprise millions of plane-waves; thus, direct diagonalization of the 
+N
+p
+×
+N
+p
+ Hamiltonian matrix is computationally expensive (direct diagonalization methods scale as the cube of the matrix size, 
+N
+3
+p
+). Furthermore, direct diagonalization yields all 
+N
+p
+ eigenstates, which is typically two orders of magnitude more than the 
+∼
+N
+ required to model the behavior of the 
+N
+ particles. For these reasons, when using a plane-wave basis set, it is common to use an iterative diagonalization method, which allows the calculation to be restricted to the 
+∼
+N
+ eigenstates of interest.
+
+In iterative diagonalization, a set of 
+∼
+N
+ trial eigenvectors is improved by successive iterations until appropriate convergence criteria are satisfied. There are many possible iterative methods for solving eigenvalue problems; two important classes of approach are subspace methods (e.g., block-Davidson, Arnoldi) and quasi-Newton methods (e.g., conjugate gradients, L-BFGS). Almost all of these methods proceed by repeated application of a matrix to the set of trial states and, in the present context, do not require the construction and storage of the Hamiltonian matrix explicitly, only the ability for it (and related matrices) to be applied to trial eigenvectors.
+Kohn–Sham Hamiltonian Matrix
+The Hamiltonian at each 
+k
+-point comprises the following three core terms: the kinetic energy of the particles (
+T
+), the local potential (
+V
+l
+o
+c
+), and a nonlocal potential (
+V
+n
+l
+)
+The local potential describes not only the electron-nuclei Coulomb attraction and interelectron Coulomb repulsion, but also the purely quantum mechanical exchange–correlation interaction between the electrons themselves. The nonlocal potential mimics the effect of the innermost (“core”) electrons, allowing the computational effort to be focused only on the outermost (“valence”) electrons, which are the chemically and electronically active ones. In this way, both the Coulomb attraction of the valence electrons to the nuclei and the Coulomb and exchange–correlation interaction with the core electrons are replaced by an effective interaction with composite “ions”; the resultant effective potential is known as a “pseudopotential.”
+
+The kinetic energy matrix is diagonal in Fourier space, which is the native space when working in a plane-wave basis. In contrast, the local potential matrix is diagonal in direct space, so the most efficient algorithm is to transform the wavefunction to direct space (an inverse Fourier transform), apply the local potential, and then Fourier transform back into the plane-wave basis. The nonlocal pseudopotential matrix is represented as a low-rank matrix update, and may be applied efficiently in either space (Fourier or direct); in this work, we apply the matrix update in Fourier space.
+
+The exact form of the electron–electron interaction is not known due to the exchange–correlation component, and so must be approximated in practice. The Hamiltonian expression given in (4) corresponds to an important class of approximations known as semilocal exchange–correlation functionals. When using an approximation of this form, the exchange–correlation potential at a point in space depends only on the density, and perhaps its derivative, at that point in space, and it may be included in 
+V
+l
+o
+c
+. An alternative approach generalizes the Kohn–Sham method and introduces a class of nonlocal exchange–correlation (NLXC) approximations. The Hamiltonian subsequently acquires an extra potential term (
+V
+n
+l
+x
+c
+), which is additive and fully nonlocal.
+CASTEP
+CASTEP is a leading implementation of the plane-wave pseudopotential DFT method.4 It was originally developed in the 1980s and 1990s, but was completely redesigned and rewritten from the ground up from 1999 to 2001 with a focus on usability, portability, and parallel efficiency. The first official release of the new CASTEP was in 2001, and it has been developed continually ever since. CASTEP simulations annually support over 1000 peer-reviewed publications in the scientific literature. CASTEP is dual-licensed: full source code is available world-wide for academic use under a cost-free license, and a paid-for commercial license is available from BIOVIA.
+
+CASTEP was written in modern Fortran, using Message Passing Interface (MPI) to enable distributed-memory parallelism. Open multiprocessing (OpenMP) threading was added in 2014–2015, to reduce CASTEP’s memory usage and improve parallel scaling on multicore architectures, and CASTEP simulations using OpenMP-MPI demonstrate excellent scaling across a range of simulations and computer hardware. However, the advent of exascale computing, in particular, the move toward heterogeneous computing, presents a significant challenge.
+
+TOWARD EXASCALE COMPUTING WITH ACCELERATORS
+Delivering exascale computing is challenging, and the majority of exascale machines are anticipated to have heterogeneous architectures. These machines will typically have a conventional CPU to manage the overall system, including the operating system and input/output (I/O), but a substantial fraction of the computational power will be delivered by accelerators.
+
+At present, accelerators generally fall into the following two categories: field-programmable gate arrays and general-purpose graphical processing units (GPU). Of these two classes, GPU-based accelerators are the most widely available, and have the most mature software development frameworks. There are the following two attractive features of GPUs for large-scale high-performance computing: computational power and memory bandwidth. At the time of writing, an AMD Rome CPU can deliver around 2.5 TFLOPs in double-precision and 200 GB/s memory bandwidth, so a typical two-socket cluster node can achieve 4 TFLOPs from the CPU and 400 GB/s total memory bandwidth. In contrast, a single NVIDIA V100 GPU can deliver almost eight TFLOPs in double-precision and an A100 GPU can deliver nearly 10 TFLOPs, with on-card memory bandwidths of 0.9 and up to 2 TB/s, respectively. Node architectures are available which feature eight GPUs per node, yielding almost 80 TFLOPs and 16 TB/s per node—over 20 times the computational power and memory bandwidth of the two CPUs.
+
+The high memory bandwidth of GPUs is delivered via HBM2 on the GPUs themselves; when data is being moved from system RAM, the memory bandwidth is throttled by the link between the GPU and the motherboard. On a PCI Express 4.0 link the maximum bandwidth is 64 GB/s, and even the promised 128 GB/s from PCIe 5.0 is considerably less than the CPU memory bandwidth, let alone that of the GPU. This figure improves with specialist communication links such as NVIDIA’s NVLink, which can deliver 600 GB/s; nevertheless, data movement remains relatively slow and can easily become a bottleneck in scientific computation.
+
+As GPU hardware has evolved to become a more general-purpose computational resource, new software frameworks have been developed to provide more hardware abstraction and performance. For Fortran-based software such as CASTEP, there are essentially three main choices of software technology: CUDA Fortran, OpenMP (from 4.0 onward), and open accelerator (OpenACC). CUDA is a parallel programming framework developed by NVIDIA for the specific purpose of running computational software on GPUs. CUDA itself is essentially a proprietary extension to C/C++ to enable GPU calculations and manage memory between the host (CPU) and device (GPU); CUDA Fortran is the corresponding extension to the Fortran language. CUDA Fortran enables fine-grained control of the data movement, memory management, and calculation details of computational kernels, but it is also a proprietary extension supported only by NVIDIA’s Fortran compiler, and can only target NVIDIA GPU hardware.
+
+OpenMP is a directives-based programming framework, which was originally developed as a shared-memory parallel framework to exploit multicore CPUs. It is well-supported by a wide range of C, C++, and Fortran compilers, including commercial compilers from Intel, Cray, and NVIDIA, as well as Open Source compilers such as the GNU Compiler Collection (GCC). Support for offloading OpenMP regions to accelerators was only introduced in OpenMP 4.0, and this has subsequently been extended (first in OpenMP 4.5 and then further in OpenMP 5).
+
+OpenACC is also a directives-based programming framework but, unlike OpenMP, is specifically designed to enable computation to be offloaded to accelerators. OpenACC-enabled compilers are available for C, C++, and Fortran, including NVIDIA’s compilers. Limited support for OpenACC was also introduced in the Open Source GCC compiler suite with version 5.1, and was developed steadily over successive versions; however, it was only with the advent of GCC 10 that a sufficient subset of OpenACC was available for large research software to use it efficiently.
+
+In this work, OpenACC is the software framework of choice, principally because it is a mature, open standard for offloading computational work to accelerators and is not tied to a particular compiler suite or hardware vendor. The same may hold for OpenMP in the future, but at present it is neither as fully featured nor as lightweight as OpenACC.
+
+CASTEP’S COMPUTATIONAL KERNELS
+The main workload in a CASTEP calculation is the application of the Hamiltonian matrix, as described earlier. The kinetic energy matrix is trivial to apply in Fourier space, and takes negligible time in most practical calculations. In contrast, the local potential matrix is most efficiently applied in direct space, and thus, every band 
+b
+ at wavevector 
+k
+ requires a pair of inverse and forward fast Fourier transforms (FFTs); the inverse FFT transforms 
+ψ
+b
+k
+ into direct space, permitting efficient application of the potential 
+V
+l
+o
+c
+, and the forward FFT returns 
+ψ
+b
+k
+ to its native Fourier space. The standard 3-D FFT methods scale favorably with simulation size (for a single band at a single 
+k
+-point), but have a relatively large prefactor and so take a significant amount of computational time for small- and medium-sized simulations. This is in part because the compute intensity is low for FFTs, leading to the algorithm being memory-bound in many cases, and also because each application of the Hamiltonian in plane-wave DFT requires two FFTs for every band at every 
+k
+-point. GPUs typically benefit from extremely high memory-bandwidth, which means that FFTs can be much quicker when compared to the CPU performance once the data has been offloaded to the GPU. The data transfer itself, however, can be a bottleneck, precisely because the compute intensity is low, and care must be taken both to maximize data locality with respect to the CPU or GPU, and also to maximize the data operations performed on the GPU.
+
+The nonlocal pseudopotential matrix is a low-rank matrix update, which may be applied efficiently using standard linear algebra packages (e.g., OpenBLAS). The scaling of the matrix with system size is linear in the number of updates and the size of each update, and is consequently quadratic in the overall storage requirements and cubic in computational cost with regards to a straightforward application. This cubic scaling means that applying 
+V
+n
+l
+ becomes a significant fraction of the total computational time for large simulations. A real-space truncation method can reduce this to linear scaling in memory and quadratic scaling in time, but reduces accuracy to a level which is unacceptable in many research applications. However, this operation is entirely composed of cache-friendly matrix–matrix operations, for which GPUs excel. Furthermore, for large simulations, the quadratic scaling of the data volume renders the CPU-to-GPU (or GPU-to-CPU) transfer time negligible compared with the cubically scaling workload.
+
+CASTEP GPU PORT
+The work presented here is based on the CASTEP 18.1 codebase, augmented with OpenACC directives to control the allocation, deallocation, and transfer of data structures, generation of GPU kernels and interfacing to optimized libraries (cuFFT for FFTs and cuBLAS for linear algebra). As far as possible, the directives were restricted to CASTEP’s low-level “utility” modules, with an additional “accelerator” module to handle meta-data and control logic specific to the OpenACC code-paths. For performance reasons, some OpenACC directives were introduced into CASTEP’s mid-level “fundamental” modules, which define operations on, for example, wavefunctions, densities and potentials, and a small number in higher level “Functional” modules (principally those operations involving nonlocal potentials). These additions are comparable in scope to the existing OpenMP directives for threading on CPUs, and in many cases are in the same areas of the codebase.
+GPU Performance
+The performance of the GPU port was tested on the Bede Tier-2 HPC facility. Bede is an IBM Power9-based system, with 32 GPU-based nodes, as well as 4 “inference” nodes. Each of the GPU nodes has 32 Power9 cores and 4 NVIDIA V100 GPUs, each with NVLink 2.0. Initial tests focused on the single-GPU performance, using 8 MPI processes with and without a single V100 (shared between the processes), and on small CASTEP simulations to enable rapid development-test-optimize cycles. These initial results showed that offloading only the nonlocal potential to the GPU gave a small speed-up of x1.1, whereas offloading the local potential gave a speed-up of x1.7; combining the two gave a speed-up of over x1.8. Further optimization to reduce the density calculation time, data movement, and extend the offloaded operations led to a speed-up of x1.95.
+
+The benchmark simulation was chosen from an active research project investigating the effect of disorder in the Heusler alloy Fe
+2
+VAl. This system was initially constructed from 12 primitive cells, and has 24 Fe atoms, 12 V atoms, and 12 Al atoms. The Brillouin zone was sampled with a 
+6
+×
+6
+×
+5
+ Monkhorst-Pack grid, giving 90 
+k
+-points in the symmetrized set. CASTEP’s on-the-fly ultrasoft pseudopotentials were used, with a well-converged plane-wave cut-off energy of 800 eV. The semilocal PBE functional was used as the exchange–correlation functional.
+
+Parallelization Strategies
+Exascale computing will of course not be achieved with a single accelerator, and it is important that any GPU port is able to use multiple CPUs and GPUs efficiently. The most efficient way to exploit multiple cores in CPU-only calculations is by distributing the data and workload over the 
+k
+-points. Since the construction and application of the Hamiltonian matrices may be performed almost independently at different 
+k
+-points, this was also expected to be an efficient use of the GPU port. Figure 1 shows the time, performance, and parallel scaling of the GPU-port from 8 to 90 CPU cores of Bede (1 to 12 GPUs). In these calculations, up to 8 MPI processes share each GPU, and all the results presented used NVIDIA’s CUDA multiprocess service, which allows concurrent execution of kernels from different processes. The GPU port shows a good performance across the whole range of CPU and GPU counts, consistently achieving approximately x2 the performance of the CPU-only calculation and scaling well with increased numbers of CPUs and GPUs.
+
+Figure 1. Performance of the CASTEP GPU port on Bede, for a research simulation of disorder in the Heusler alloy Fe
+2
+VAl. Core counts are chosen to give good load balancing, as discussed in the text. (Top) Time per iteration for both CPU-only and CPU+GPU simulations; (Middle) The performance of the GPU port compared to CPU-only; (Bottom) The parallel scaling of the CPU+GPU simulations, using 1 GPU per 8 CPU cores. Vertical dashed lines indicate node boundaries.
+
+The benchmark calculation has 90 
+k
+-points, which are divided as uniformly as possible amongst the MPI tasks. Where a uniform division is not possible, there will be a load imbalance between different MPI tasks, with some tasks having one more 
+k
+-point than the others. Whenever communication is required between the tasks, those tasks with fewer 
+k
+-points will arrive at the communication point first and must inevitably wait for the more heavily loaded tasks to catch up. This effect is negligible for small numbers of MPI tasks, where a single 
+k
+-point is only a modest fraction of the total assigned to each MPI task, but it becomes significant as the number of MPI tasks increases, and the corresponding number of 
+k
+-points per task decreases. For large numbers of tasks, such load imbalance degrades the parallel performance severely and can completely skew the apparent parallel efficiency. For this reason, we have restricted our larger parallel calculations to the load-balanced choices of 30, 45, and 90 MPI tasks, corresponding to 3 
+k
+-points, 2 
+k
+-points, and 1 
+k
+-point per MPI task, respectively.
+
+For a simulation using 90 
+k
+-points, it is clear that no more than 90 MPI tasks may be used when running with 
+k
+-point parallelism only. In CPU-only CASTEP simulations, additional cores would usually be exploited by distributing the Fourier coefficients for each 
+k
+-point. On 180 CPU cores, for example, each pair of cores would share the Fourier coefficients for a single 
+k
+-point.
+
+This distribution is efficient for most of the computational operations, but the distribution of the Fourier data means that the 3-D FFTs can no longer be performed by a single process; each 3-D FFT is instead decomposed into three successive sets of 1-D FFTs (one set of FFTs along the Cartesian 
+x
+-direction, followed by a set along 
+y
+, followed by a set along 
+z
+). A global data transposition is required between each FFT set, such that the data passed to the 1-D FFT library is local to the MPI process and contiguous in memory. For example, if the MPI tasks’ local data is contiguous along the 
+x
+-direction (with data at different 
+y
+ and 
+z
+ coordinates distributed over MPI tasks) then each task may perform its portion of the set of 1-D FFTs along 
+x
+. The next stage of the method is to perform the set of 1-D FFTs along 
+y
+, but these data are distributed across the MPI tasks, and even the local portion of the data is contiguous in 
+x
+, not 
+y
+. The global data transposition exchanges and reorders the data between all relevant MPI tasks such that the set of 1-D FFTs along 
+y
+ may be performed; a similar data transposition is then performed in preparation for the set of 1-D FFTs along 
+z
+.
+This parallel FFT algorithm poses several challenges to the optimization of the GPU port. 1-D FFTs have a lower compute intensity than 3-D transforms, so offloading these operations to the GPU intrinsically yields a lower speed-up than obtained in the 3-D case. Distributing the 1-D FFTs also reduces the volume of data for each GPU, and consequently the GPU performance for large parallel calculations is more susceptible to latency in both the data transfer and the launching of the computational kernels on the GPU. (In fact, kernel launch latency can also be a significant factor for 3-D FFTs, as will be seen in a later section.)
+
+The global data transpositions, which are required in between each set of FFTs, involve an all-to-all communication which exchanges and reorders data amongst all of the participating MPI tasks. In the current CASTEP GPU port, all communications are handled by the MPI tasks on the CPUs, which introduces additional GPU-to-CPU and CPU-to-GPU data transfers when the FFTs are offloaded to GPUs. Use of a “CUDA-aware” MPI environment would ameliorate this problem by allowing the MPI library to send and receive GPU data directly, circumventing the intermediate data copies to and from the CPUs. Unfortunately, the packaging of the wavefunction data into the MPI buffers requires not only nonunit-stride data accesses, which are inefficient on GPUs, but also a separate OpenACC kernel to be launched for each remote process. As the number of participating MPI processes in a calculation increases, so too does the number of kernels launched, but the workload per kernel decreases. This simultaneously increases the kernel launch latency and reduces the vector efficiency of each kernel.
+One alternative parallel strategy is to keep 90 MPI tasks, but exploit additional CPU resources using OpenMP threads. In this approach, each MPI task has a number of OpenMP threads associated with it and, in order to exploit this fully, each subroutine in CASTEP must be threaded using OpenMP directives. OpenMP is a shared-memory parallel paradigm, which avoids the need for the Fourier coefficients to be distributed, since each thread has access to the whole dataset. In this mode of parallel operation, the Fourier transforms remain full 3-D FFTs, and the excellent GPU performance is retained; CPU-only calculations may instead use threaded 3-D FFT libraries.
+
+The memory associated with an MPI task is shared amongst all of its OpenMP threads, and this presents an opportunity for operations to be parallelized over threads in ways which would not be possible for the entire calculation. In particular, when applying the nonlocal potential 
+V
+n
+l
+, of (4), the operation may be threaded over the matrix updates themselves, rather than the wavefunction to which they are applied. This gives an efficient way to parallelize the application of 
+V
+n
+l
+, which is independent of any other parallelization methods. The present OpenACC port contains some regions, which are only threaded in the non-OpenACC code paths, meaning that CPU-only calculations gain more benefit from threading than calculations using GPUs. Nevertheless, running the benchmark calculation on 180 cores via 90 MPI tasks, and 2 OpenMP threads per task, the GPU version still achieves a speed-up of over x1.6, with an iteration time of 107 s compared to 174.3 s for the CPU-only simulations.
+NLXC PERFORMANCE
+In the preceding section, much of the acceleration of CASTEP when using the GPUs was driven by the performance improvement of the 3-D FFTs in the application of the local potential. Because the local potential requires two Fourier transform for every one of the 
+N
+b
+ bands at 
+N
+k
+k
+-points, the total computational cost scales as 
+N
+b
+N
+k
+N
+log
+N
+, where 
+N
+ is the size of a single FFT.
+
+A well-known problem with semilocal exchange–correlation functionals is that the energies of localized states, such as those of 
+d
+- and 
+f
+-electrons, are often too high, compared to other states. This incorrect energy can lead to the simulation predicting the wrong electronic states being occupied, and can change the chemical bonding, leading to inaccurate simulations of important material properties, such as electrical conductivity or whether the material is magnetic.
+
+The main cause of this error can be avoided by using the aforementioned class of NLXC approximations. In these methods, the extra term in the Hamiltonian, 
+V
+n
+l
+x
+c
+, is constructed from the pairwise density
+
+The construction and application of 
+V
+n
+l
+x
+c
+ requires two FFTs per pair of bands and 
+k
+-points; i.e., the total computational cost scales as 
+N
+2
+b
+N
+2
+k
+N
+log
+N
+. This is a substantial increase in the computational workload compared to semilocal exchange–correlation, and usually means that the computational time is dominated by the FFTs even for relatively large simulations. Indeed, it is common for FFTs to comprise over 95% of the total simulation time.
+
+As was seen in the earlier section, the performance of 3-D FFTs is improved greatly on GPUs, and it is natural to expect that NLXC calculations should see a large performance improvement. Because much of the accelerator code was encapsulated in low-lying utility modules, extending CASTEP’s GPU port to NLXC operations required relatively few explicit OpenACC clauses. Since the computational cost of NLXC calculations is much larger than that of semilocal simulations, a smaller test case was chosen for testing and benchmarking: a 
+2
+×
+2
+×
+2
+ supercell of the primitive unit cell of Fe
+2
+VAl, consisting of eight formula units (i.e., 32 atoms in total). The simulations were performed on another Power9-V100 machine, the Ascent system at Oak Ridge National Laboratory. Each node of the Ascent machine has two 22-core Power9 CPUs (only 21 cores are available for computation on each CPU) and 6 V100 GPUs, with an NVLink 2.0 interconnect. The Power9 processor cores have a theoretical peak double precision performance of 24.6 GFLOPs each, and a memory bandwidth of 21.3 GB/s per channel (each socket having eight channels). Considering the 42 available compute cores per node, this leads to a theoretical per-node CPU performance of 1.0 TFLOPs and a memory bandwidth of 0.34 TB/s, compared to 46.8 TFLOPs and 5.4 TB/s for the 6 V100 s combined.
+
+The performance benchmarking was carried out on a single node of Ascent, using two MPI tasks (one per CPU socket). For the CPU-only simulations, each MPI task used 21 OpenMP threads; for the GPU-enabled simulations, each MPI task was pinned to a different GPU, so in this work only two GPUs were utilized. The average iteration time for the CPU-only simulation was approximately 642 s; the initial GPU port of NLXC completed the same calculation with an iteration time of 80 s, a speed-up of x8. This performance improvement over the CPU-only calculation is approximately four times that achieved for the simulations using semilocal exchange–correlation methods, confirming the impressive performance of 3-D FFTs on GPUs. Nevertheless, detailed timeline and performance analysis of the simulations showed that the GPUs were underutilized, and an analysis of the CUDA calls generated at run-time showed that over 90% of all calls to the CUDA API were launching compute kernels and waiting to synchronize kernels and data transfers (see Table 1). These operations took a sizeable amount of time, and the detailed profile highlighted that the computational workload itself was accelerated considerably more than the observed x8 speed-up.
+
+Most of the kernels launched were forward- and inverse FFTs, as expected, and the large number of kernels was due to the NLXC operations being performed on a single pair of bands at a time. Refactoring the code to work on blocks of bands enabled the FFTs to be carried out in batches, reducing the number of kernels launched and simultaneously increasing the computational work per kernel, which itself allows greater GPU utilization. The refactoring also extended the OpenACC regions to fuse OpenACC kernels, further reducing the number of kernels launched and increasing the work per kernel, as well as optimizing data movement.
+
+Benchmark simulations of the new code showed that the refactoring had improved the GPU performance substantially, further reducing the iteration time by over 40% to 45 s; thus, the overall speed-up was over x14 compared to the baseline CPU-only simulations (see Figure 2). This speed-up is close to the theoretically ideal speed-up of x15.8, calculated from the ratio of the per-node GPU and CPU memory bandwidths.
+
+Figure 2. Performance of the initial and optimized GPU ports, compared to a pure CPU calculation. The benchmark was a “screened-exchange” NLXC simulation of bulk Fe
+2
+VAl. All simulations were performed on the Ascent machine at ORNL, using 2 MPI tasks; each task used either 21 CPU threads or 1 GPU.
+
+CHALLENGES AND FURTHER WORK
+Although OpenACC has many advantages for widely used, portable software such as CASTEP over proprietary software technologies, there remain a number of challenges to be tackled. A major reason behind the decision to adopt OpenACC for the porting was that it is an open standard, which is relatively hardware-agnostic, and capable of offloading calculations to different accelerator architectures. In practice, however, few Fortran compilers have an OpenACC implementation, and the work here was carried out using the NVIDIA Fortran compiler (which will only target NVIDIA GPU accelerators).
+
+OpenACC was designed to enable “off-loading” of work from a CPU to a GPU, and this is achieved by choosing any relevant CPU data objects and mapping them to corresponding data objects on the accelerator. However, when entire operations are off-loaded to the GPU there are occasions when some objects, for example, temporary arrays, are only required on the accelerator. The OpenACC “device_resident” attribute is designed for exactly this use-case, but at present there are no functioning implementations of it. There is also an acc_malloc routine for exactly this situation, but it is only supported in C/C++, not Fortran. Similarly, the OpenACC 3.0 specification supports the mapping of CPU pointers to GPU addresses (and vice versa), and thereby facilitates the use of memory pools to avoid reallocating memory unnecessarily, but this is also only available in C/C++. This means that, at present, dummy arrays must be created on the CPU, and the data mapped between the CPU and accelerator objects. This increases data copies, which are already the bottleneck in many off-load operations, as well as the memory footprint of the CPU.
+
+In an earlier section, the hybrid OpenMP-MPI approach was discussed as a way to parallelize GPU-CASTEP calculations beyond the straightforward 
+k
+-point parallelism. An alternative approach is to distribute the data and workload by the bands (index 
+b
+) of the wavefunction, as well as the 
+k
+-points. The 3-D FFTs are performed on each band independently, so this decomposition retains the ability for each MPI task to offload entire 3-D FFTs to the GPUs. The Hamiltonian matrix only depends on the 
+k
+-point, not the band index, so the same Hamiltonian is applied to each of the bands at the same 
+k
+-point. In the current GPU implementation, several MPI tasks share a GPU and each MPI task transfers the Hamiltonian data to the GPU along with its portion of the wavefunction. In band-parallel calculations, this approach leads to a substantial inefficiency because the Hamiltonian data is the same for all the MPI tasks working on the same 
+k
+-point. Thus, the MPI tasks which share a GPU all send identical copies of the data to the GPU. A much more efficient approach would be for one MPI task to send the data to the GPU, and for all of the MPI tasks to share that data. Such sharing of GPU data between MPI tasks is possible using CUDA and IPC, but a pure OpenACC implementation is not straightforward and is still under development.
+
+Finally, for massively parallel calculations it is desirable to be able to use CASTEP’s Fourier-parallelism efficiently with GPUs, in addition to the other parallel methods. The excellent performance of the NLXC simulations suggests that some of the shortcomings of Fourier-parallelism could be addressed by batching the 1-D FFTs, which results in fewer, larger data transfers and GPU kernels; unfortunately, this is hindered by a shortcoming in the current implementations of batched FFTs. Each of CASTEP’s 1-D FFTs are performed in-place, regardless of whether they are along the 
+x
+-, 
+y
+-, and 
+z
+-directions. In the general case, the length of the transformations is not the same in each of these directions, and so CASTEP’s data buffers are allocated for the maximum size required, and shorter transform data is padded with zeroes. Whilst the single 1-D FFT subroutines handle this with ease, the current batched FFT subroutines do not, requiring instead that the data for the next FFT starts immediately following the previous FFT data. Repacking the data into a separate, contiguous buffer would increase the memory footprint and, more importantly, introduce another set of short, relatively inefficient kernels. This effectively precludes the use of batched 1-D FFTs in CASTEP at present.
+
+CONCLUSION
+We have presented the work-in-progress port of the CASTEP first-principles materials modeling program to accelerators. CASTEP is written in modern Fortran, and the port used OpenACC directives to offload several key computational kernels to accelerators. The work demonstrates that OpenACC is a viable route to porting large research software to accelerators. Nevertheless, several specific issues have been identified, in particular shortcomings in the present implementations, and situations where features available to C/C++ programs are not available in modern Fortran.
+
+Benchmarking on two Power9-based NVIDIA Volta GPU systems shows a speed-up of x2 when using GPUs to accelerate standard simulations, and x14 for simulations using NLXC methods. GPU-based accelerators are anticipated to be key components in the first exascale HPC facilities, and this work also represents the first steps to adapting CASTEP to exploit such resources. The GPU port has been designed to be parallel from the outset, and we have already demonstrated excellent scaling up to a dozen GPUs, even for small simulation sizes; nevertheless, this falls far short of the tens or hundreds of thousands of GPUs which are likely to be required to deliver exascale computing. The key immediate challenges have been identified and discussed, as well as possible future approaches, but achieving the extreme level of GPU-parallelism required for exascale may well go beyond designing efficient parallel offload models, and require deep, novel algorithmic changes in the core of CASTEP itself.
+FOOTNOTES
+The simulation is for the bulk Fe
+2
+VAl system described in the text.
+ACKNOWLEDGMENTS
+The authors would like to thank Mike Payne (Cambridge), who facilitated the early stages of this project, and has provided unfailing help, support, and encouragement throughout. Filippo Spiga (formerly Cambridge, now NVIDIA) has proven to be a font of GPU wisdom and has been most generous with his time, providing considerable help, advice, and guidance. Paul Calleja (Cambridge) has also supported this work with much-needed resources.
+
+Ed Higgins (York) wrote much of CASTEP’s original OpenMP code, and provided invaluable help with the CASTEP GPU development during the hackathons; he is involved in the on-going development of the CASTEP GPU port, which will be the subject of a future publication. The authors would also like to thank NVIDIA, in particular, Mark Berger (now retired), for encouraging this project with enthusiasm and arranging training, engineer time, and hardware resources to facilitate the software development underpinning this work, and the GPU hackathon teams, organizers, and mentors at the University of Sheffield, U.K., and Oak Ridge National Laboratory (ORNL), USA, in particular, Paul Richmond (Sheffield), David Applehans (formerly of IBM, now NVIDIA), and Alan Gray (NVIDIA).
+
+This work made use of the facilities of the N8 Centre of Excellence in Computationally Intensive Research (N8 CIR) provided and funded by the N8 research partnership and EPSRC under Grant EP/T022167/1. The Centre is coordinated by the Universities of Durham, Manchester, and York. Some of the development, and all of the NLXC calculations, were performed on the Ascent and Summit systems of the Oak Ridge Leadership Computing Facility, ONRL, which is supported by the Office of Science of the U.S. Department of Energy under Contract DE-AC05-00OR22725; access to Summit was provided by a Director’s Discretionary Grant CHP108, which was only possible with the support and assistance of Ada Sedova and Anibal Ramirez Cuesta (ORNL). Development work was also performed using resources provided by the Cambridge Service for Data Driven Discovery (CSD3) operated by the University of Cambridge Research Computing Service (www.csd3.cam.ac.uk), provided by Dell EMC and Intel using Tier-2 funding from the Engineering and Physical Sciences Research Council under capital Grant EP/P020259/1.
+
+Financial support for this work was provided by EPSRC through a Research Software Engineer Fellowship (EP/R025770/1), the EPSRC Centre for Doctoral Training in Computational Methods for Materials Science (EP/L015552/1), the Materials and Molecular Modelling Exascale Design & Development Working Group (EP/V001256/1) and Cambridge Enterprise.
+
+ANARI: A 3-D Rendering API Standard
+
+Three-dimensional visualization is a broad field, experiencing innovation in visual computing technology over decades and spanning countless domains, such as design engineering, computational science, and artistic creativity. Considerable rendering software has been produced through its storied history, both to directly render effective, state-of-the-art visualizations, and to enable new visualization workflows that serve user needs.
+
+As computing capabilities continue to grow at staggering rates, so has the complexity of the software systems used to harness them. The rapid evolution of hardware architectures combined with increased software complexity, has led to reduced interoperability. In order to tame software complexity, cross-industry application programming interface (API) specifications exist to let developers use common interfaces with multiple vendor implementations, while leaving vendors room to innovate within their implementations. Open standards provide interoperability by design, rather than limited ex post facto software compatibility. The analytic rendering interface (ANARI) standard offers interoperability, and aims to bring innovative 3-D rendering engines under a portable API for developers to leverage in their applications.
+
+Context: What is 3-D Visualization?
+The state-of-the-art 3-D rendering techniques that approximate the physics of light transport are based on the combination of sophisticated, hardware-optimized algorithms with massively parallel computing hardware that often includes dedicated logic for acceleration of the most performance-critical operations. Depending on the needs of the application, approximations can be used to replace costly path tracing, with commensurate decreases in required computing performance, and attendant reductions in power consumption, which is important for laptops and other mobile platforms. In other cases, such as accurate rendering of architectural lighting designs, and rendering of car headlight designs, approximations would be unacceptable, thus greater parallelism, hardware resources, and hardware-accelerated rendering are required. The challenges posed by the growing size and complexity of data to be visualized, the desire for greater image fidelity, interactivity, realistic physically based rendering, and interest in immersive visualization techniques are all examples of the kinds of competing demands that increase the complexity and cost of renderer development for today’s applications.
+
+ANARI Positioning
+The ANARI API enables developers to build a scene description to generate imagery, rather than specifying the details of the rendering process, providing simplified application development, and cross-vendor portability to diverse rendering engines. ANARI is positioned as a high-abstraction rendering API that encompasses renderers built on both rasterization and state-of-the-art ray tracing methods, and supports rendering styles that range from stylized or nonphotorealistic schematic renderings to photorealism and complete physical correctness. Figure 1 shows ANARI’s role in-between visualization software and the ecosystem of renderers and supporting APIs. Figure 2 shows a qualitative comparison of the abstraction provided by ANARI relative to other industry APIs used to develop visualization and design applications.
+
+Figure 1. ANARI’s position between applications, renderers, and supporting hardware-optimized acceleration APIs. Note that lower positioned APIs and libraries tend to be less portable and require more expertise to fulfill application needs.
+
+Figure 2. Qualitative comparison of the level of abstraction provided by exemplary rendering APIs that are widely used by visualization applications.
+
+Recent progress in rendering technology, especially the introduction of real-time ray tracing, promises to fundamentally impact markets far beyond media and entertainment uses. For example, scientific visualization applications not only benefit from the physically accurate generation of images, but also from important visual cues afforded by ray tracing; cues that provide an intuitive understanding of complex scenes and the diverse workflows built around them. Figure 3 illustrates how the use of advanced lighting and shading techniques can help elucidate geometry-dense scenes with complex 3-D structure. However, these powerful capabilities come at the cost of increasing developer responsibility. While low level APIs, such as Vulkan and its ray tracing extensions, have been standardized to provide some abstraction of the recent rendering hardware and software developments, commercial software vendors and open-source efforts still need to develop their entire rendering code on top of these low-level APIs. While this is core business for applications focused on rendering, there is a broad range of applications for which rendering is just a necessary technique to achieve an end. For these applications, developers need a lower barrier of entry to be able to take full advantage of new and emerging rendering technologies, such as real-time ray tracing.
+
+Figure 3. Comparison of lighting techniques for a complex and crowded visualization of the results of a diffusion-limited aggregation simulation. All renderings used ANARI with the VisRTX back-end and different lighting parameters. The lighting techniques, from left, are: ray casting of surface color, directional lighting and shadows, ambient occlusion lighting, directional lighting with ambient occlusion, directional lighting with path traced indirect lighting, and directional lighting with ambient occlusion and path traced indirect lighting.
+
+The goal of ANARI is to provide a high-level, platform-independent API to simplify development of visualization applications leveraging the full potential of modern rendering capabilities. Rather than specifying details of the rendering process, ANARI describes the relationship of the objects to be rendered and leaves the details of rendering to the underlying implementation. Unlike more general scene graph APIs, ANARI focuses primarily on rendering operations and leaves other domain-specific scene operations in the hands of the application itself. Scene graphs can be implemented using ANARI to handle their rendering work. ANARI renderers are free to incorporate technologies, such as AI denoising, and to expose new ANARI extensions, e.g., those that add new geometric primitives, load custom shaders, or provide enhanced efficiency with other APIs.
+
+Past Perspective: A Look at Scientific Visualization’s History Leading to ANARI
+While ANARI is designed to interface 3-D rendering engines to applications from practically any domain, reviewing the historical trends in scientific visualization provides a good perspective on why ANARI was created.
+
+Software tools for scientific visualization have historically been tightly coupled to the rendering hardware and software of the era in which they were written. The visualization features and rendering approaches embodied in these tools were carefully designed to provide the best combination of visual insight, ease-of-use, and performance, on the hardware of their time.
+
+Early visualization tools written prior to the widespread availability of commodity rasterization accelerators often used software-based rasterization or ray-casting techniques. These tools typically employed entirely custom-written internal renderers to achieve the required degree of interactivity. An excellent example of this approach is RasMol, which used clever sphere drawing algorithms to achieve molecular graphics performance levels that outperformed most hardware-accelerated rasterization approaches until circa 2000.1
+
+The arrival of commodity hardware-accelerated rasterization began in earnest in the early 1990s. Silicon Graphics’ proprietary IRIS GL API became more popular than all other proprietary and industry standards of the time due to its ease of use, but it was not well suited to diverse hardware, and it offered no abstraction layer for missing hardware capabilities. VMD, a widely used molecular visualization tool, was one of many originally written the for IRIS GL.2 Realizing the need for an API that improved upon IRIS GL, by eliminating functionality unrelated to rasterization (windowing, mouse input, etc.) a better suited API for cross-platform standardization was developed by Silicon Graphics and its collaborators, replacing IRIS GL with OpenGL.
+
+When Silicon Graphics released the OpenGL API and it gained widespread adoption, a new generation of scientific visualization tools was born. OpenGL provided improved rendering abstractions with greater generality, and a rich set of core features. By the early 2000s, even gaming-oriented graphics boards were capable of accelerating OpenGL in hardware. The widespread availability of OpenGL across hardware ranging from PCs, to workstations, all the way up to supercomputers made it the dominant API underpinning most scientific visualization applications. This led programs like VMD that had originally been written in IRIS GL to be redesigned for OpenGL. OpenGL became the gateway that enabled many scientific visualization and CAD applications to run on PC hardware for the first time.
+
+Early OpenGL relied on a fixed-function rendering pipeline, and visualization applications frequently used similar techniques for visualizations of particular types of data, with the same overall “look.” Over time, major OpenGL API advances replaced fixed-function features with the current higher performing retained mode interface and flexible programmable shading pipeline architecture, leading to diversification of shading capabilities and techniques. Visualization applications too went through commensurate changes and advances, taking advantage of per-pixel lighting, and sophisticated procedural geometry rendering techniques, such as ray casting of imposter spheres and cylinders within custom-written fragment shaders, and high-fidelity volume ray casting, all while achieving, in some cases, an order of magnitude increase in rendering performance.3,4 The new rendering capabilities improved scientific insight, visual fidelity, and performance, leading visualization applications to continue revising their internal renderers to exploit them.
+
+As a result of the increasing complexity of rasterization hardware and OpenGL features, the associated software development complexity and “buy-in” costs for scientific visualization applications to remain abreast of the latest rendering techniques have risen significantly. At the same time, state-of-the-art rasterization APIs, such as Vulkan, the heir and descendant of OpenGL, have become more lightweight and minimalistic, and place both more control and more responsibility in the hands of the application—in exchange for performance and flexibility. The value provided by state-of-the-art OpenGL and Vulkan APIs comes with a high buy-in cost, and scientific visualization application developers are left to write increasingly complex rendering code.
+
+Due to the increasing computational capabilities of CPUs and GPU accelerators and hardware acceleration of fundamental ray tracing algorithms, fully interactive ray tracing is now possible for many important visual effects, and scientific and technical visualization workloads. Since ray tracing, and path tracing in particular, rely heavily on Monte Carlo integration and stochastic sampling techniques, a former barrier to their adoption for challenging scenes had been the necessity to obtain images with acceptably low residual image grain or noise. Advances in the application of so-called AI denoising techniques to the results of ray tracing and path tracing techniques reduce or eliminate the necessity for rendering engines to produce completely converged images. The associated increase in the quality and frame rates of live renderings makes them practical for use in a much broader range of contexts.
+
+With the advent of high-performance ray tracing engines,5,6 visualization applications began to take advantage of them. For example, the VTK library as well as ParaView and VisIt, two high-profile visualization applications that incorporate VTK, embedded interactive ray tracing capabilities over a number of years, beginning with the University of Utah’s Manta Ray tracer in 2010 and then Intel’s OSPRay and NVIDIA’s VisRTX libraries in 2016 and 2019, respectively. Similarly to the update of VTK’s OpenGL rendering engine, these changes brought about compelling new features, but each required several months of core developer time to achieve.
+
+The ANARI API provides a much higher level of abstraction than APIs, such as OpenGL or Vulkan, as indicated by the abstraction comparison shown in Figure 2. Rather than abstracting hardware pipelines, ANARI abstracts rendering altogether, thereby completely eliminating the need for the scientific visualization application developer to write a renderer. While the incorporation of ANARI-based rendering into an application requires development time and effort, the high-level abstractions it provide require much less code, and it is much simpler to obtain high-performance and high-fidelity output with ANARI than with low-level APIs. The ANARI API allows applications to exploit state-of-the-art rendering algorithms and hardware acceleration, freeing application developers to focus on core data analysis and visualization algorithms, graphical representation, and scene generation.
+
+Visualization Application Vignette: VisIt
+VisIt is a distributed, parallel scientific visualization, and graphical analysis tool for data defined on 2-D and 3-D meshes.7 VisIt’s rendering capabilities relied on two main rendering APIs; VTK for data models and plotting, and OpenGL for creating custom plots. Once OpenGL 2.0 was published in September 2004, two parallel efforts were undertaken to allow VisIt to use modern OpenGL’s programmable shaders. The first effort was to upgrade VTK once it integrated modern OpenGL features, and the second effort involved updating VisIt’s custom plots to use modern OpenGL’s programmable shaders. The amount of effort involved in this process would have been cut in half, at a minimum, for its 3-D surface and volume plots (e.g., pseudocolor, subset, and volume) if a higher level API like ANARI was available.
+
+At its peak complexity, VisIt had eight different types of renderers for visualizing 3-D surface and volume data. Six were used for volume rendering (RayCasting: Compositing, RayCasting: SLIVR, OSPRay, Splatting, 3-D-Texture), and two for surface rendering (VTK, OpenGL).8 This means that VisIt developers had to learn the inner workings of multiple renderers and, absent documentation, track down the original implementers to understand design decisions and more complicated coding dependencies. ANARI’s goal is to alleviate developers of this type of headache by providing a common interface for all of these renderers and additional renderers currently used in other domains. VisIt developers using ANARI will now only need to maintain a minimum amount of code for loading and choosing the desired renderer. The maintenance and implementation of the renderers will be the responsibility of their implementers. Using ANARI, VisIt will be able to add advanced and hardware-based rendering capabilities to it is 3-D surface and volume plots by leveraging the additional renderers available through the ANARI interface.
+
+Visualization Application Vignette: VMD
+VMD is a widely used molecular visualization tool that specializes in the display and analysis of molecular dynamics simulations.2 VMD was originally developed using Silicon Graphics IRIS GL, was ported to OpenGL in 1998, and OpenGL 2.0 in 2004. Since its inception, VMD supported ray tracing as an offline rendering technique for generating publication quality figures. It was later adapted to make use of hardware-optimized ray tracing with a custom-written internal rendering engine that supported the curved geometric primitives and other scene content heavily used in molecular visualization.5,9 Later developments have added fully interactive progressive ray tracing to the built-in rendering engines, support for more hardware-optimized ray tracing engines,6 and support for instancing and other new features used for cell-scale visualization.10 Today, VMD contains several custom-written internal renderers based on OpenGL, EGL, OptiX,5 and Tachyon, and it incorporates OSPRay6 internally with a renderer subclass wrapper. It is clear that there are great opportunities for ANARI to initially augment, but ultimately to completely replace the large collection of custom-written and internally adapted renderers within VMD, thereby reducing the cost of ongoing renderer development and maintenance, and enabling it to more easily take the full advantage of state-of-the-art rendering algorithms and hardware acceleration technologies.
+
+Visualization Application Vignette: VTK and ParaView
+ParaView11 is a scalable, general purpose visualization environment that is built from and developed in tandem with VTK by Kitware Inc, along with an open-source developer community.12 With the exception of application level control and parallel depth compositing, ParaView’s rendering infrastructure is entirely implemented at the VTK level. VTK’s releases currently have three rendering interfaces, OSPRay, VisRTX, and OpenGL, where OpenGL is primary and OSPRay and VisRTX share a common control layer. Each interface interprets the same renderable scene state, but issues different commands to drive the corresponding external rendering engine. A suite of continuous integration regression tests validates rendering correctness of all three and ensures close correspondence between base visual appearances for VTK’s vast set of drawable items, including surface and volume rendering of a number of core data structures.
+
+VTK’s implementation for OSPRay and VisRTX has served as a working prototype for ANARI integration into VTK and ParaView throughout ANARI’s standard definition timeline. Figure 10 shows an example ParaView visualization created using a developmental version of the example back-end device included in the ANARI-SDK. We anticipate that VTK and ParaView’s initial interface to ANARI will be closely aligned with VTK’s existing ray-traced rendering code.
+
+ANARI API Overview
+ANARI is a C99 API, which follows the practice of most other Khronos API standards and has advantages, such as the ease of integration with other programming languages (e.g., Python) and familiar tooling in industry.
+
+The API is object oriented, where objects represent actors in the rendering process, such as cameras, renderers, and the visible entities, such as geometries and volumes to be rendered in the scene. These objects are parameterized with string-value pairs using a fixed set of types that ANARI expresses, which can include other object handles.
+
+Similarly, objects can publish property values that applications use to introspect information from the implementation, such as the world-space bounds of a triangle mesh. These properties draw from the same set of types used to encode parameters.
+
+The API is implemented by software device objects, which are passed as the first argument to each ANARI function. Devices encapsulate the implementation of the entire API and use the same parameter and property semantics like all other objects for configuration and status monitoring. It is worth noting that ANARI devices are software constructs: implementations choose what hardware resources their renderers will use, where configuration of such resource usage is done through parameters specific to the device.
+
+Some of the most fundamental objects in ANARI are arrays. Array objects represent multiple data array semantics: memory ownership between the device and application, element type, data update mechanics, and array dimensionality. Arrays are flexible to operate in the best way for the application’s needs: applications can share memory directly with an ANARI device to minimize memory overhead, or instead let the device allocate memory for increased control and performance.
+
+Performance is an important aspect of interactive 3-D applications, where ANARI permits device implementations to take advantage of asynchronous, or nonblocking, API semantics to maximize throughput. The ANARI API is defined in such a way that applications do not have to be blocked by long-running frames, allowing them to keep other parts of the application still interactive, such as a graphical user interface.
+
+Finally, the design used to create objects, parameterize them, and read their properties is open to extension. Extensions come in two forms: 1) core extensions are optional features, which the ANARI specification defines, 2) and vendor extensions are features not in the specification that could later be standardized as a core extension. Using strings to identify object types, parameters, and properties allows core features, core extensions, and vendor extensions to all use the same API calls, which keeps the ANARI API itself a small, manageable size. Since ANARI APIs operate at a high level of abstraction, the overhead from string operations is negligible in practice.
+
+ANARI Front-End Library and SDK
+ANARI application developers and device implementers meet via a common front-end library used to map ANARI’s API to back-end devices. This library, along with helpful tools surrounding the API itself, is typically referred to as the “ANARI SDK,” which carries numerous advantages for those both above and below the API.
+
+First, having a common SDK reduces boilerplate code that occurs with API standards that force implementers to ship the API’s function prototypes. This reduces the implementation burden for shipping implementations, and eliminates confusion by having only one place to obtain the headers needed to use ANARI.
+
+Second, ANARI code to ease device implementation can be shared by vendors, as well as additional utilities for users, such as a C++ binding layer to add improved C++ type safety to the API.
+
+Finally, ANARI’s SDK enables the injection of runtime tools that help application developers to find commonly occurring errors. As the standard was developed, device-agnostic debugging and tracing tools to validate the API were collaboratively produced to confirm key implementation choices and assist early exploratory usage. These tools and others continue to mature as industry interest grows and more implementations emerge.
+
+ANARI Example Code
+To demonstrate the level of abstraction and ease of use of the ANARI API, we have shown the ANARI-specific parts of the knot in Figure 4, in Figures 11–13 omitting unnecessary details. The first ANARI code example shown in Figure 11 demonstrates a simple approach for loading an ANARI back-end library to instantiate an ANARI “device” from it, followed by using the device to create a perspective camera and set several of its parameters. Already in this short example, we can see the beginnings of key programming patterns that are common to the use of all of the ANARI APIs. The sequence of steps that create the camera object and prepare it for use are generally representative of the way most ANARI objects are created, parameterized, and used. Some ANARI object creation APIs accept string names of the particular subtype being created—in this case a “perspective” camera. The optional and required parameters associated with the newly created object subtype are then set with subsequent anariSetParameter calls.
+
+Figure 4. ANARI renderings of knots (top: OSPRay, using sphere primitives) and parametric surfaces (bottom: VisRTX, using triangle meshes and cylinder primitives) produced using early ANARI back-end renderer implementations, combining directional lights, ambient occlusion, and path tracing. ANARI knot example (top right) running with FreeVR in a three-wall CAVE at NIST. Examples are provided with the publicly available ANARI SDK and renderers.
+
+Figure 5. ANARI VisRTX path traced rendering of the San Miguel scene © Guillermo M. Leal Llaguno (https://casual-effects.com/data).
+
+Figure 6. Human brain MRI dataset courtesy of the Mayo Clinic rendered in VisIt. (Top) Surface rendering of the MRI dataset using VisIt’s pseudocolor plot. (Bottom) Volume rendering done using ANARI with the VisRTX back-end.
+
+Figure 7. VisIt parallel volume rendering of the multi_rect3d.silo sample data with 36 domains using ANARI with the VisRTX back-end. (Top) The multi_rect3d.silo sample data with 36 domains. (Bottom) Volume rendering of the multi_rect3d.silo data in parallel using 8 MPI processes. Each process is responsible for starting it is own VisIt engine to render a subset of the data (4–5 domains) using ANARI and the VisRTX back-end.
+
+Figure 8. VMD visualization of Satellite Tobacco Mosaic Virus capsid and its interior RNA, with surrounding solvent ions. Rendered from within VMD using the Intel OSPRay ANARI device. ANARI’s support for curved geometric primitives, such as spheres, cylinders, cones, and curves greatly reduces the memory footprint for molecular scenes, and provides the best opportunity for high-quality rendering. Advanced lighting features, such as ambient occlusion, make important biomolecular structures, such as pockets, pores, and cavities immediately visually apparent, making it more intuitive to interpret complex geometric and spatial relationships of molecular components.
+
+Figure 9. VMD COVID-19 replication transcription complex FFEA tetrahedral mesh visualization imported into NVIDIA Omniverse Create, using an ANARI back-end for the Pixar USD scene format. The USD back-end is capable of both file-based scene export, and live network bridging directly from a visualization application to Omniverse. ANARI “name” label parameters assigned to geometry, groups, and instances ensure that human-readable labels remain associated with the visualization’s scene hierarchy within design, visualization, and rendering tools.
+
+Figure 10. ParaView visualization of the canonical disk_out_ref.ex2 example CFD problem rendered with the ANARI example back-end device.
+
+Figure 11. Example ANARI API calls required to load and instantiate an ANARI “device” implementation, and to create a perspective camera, and set its associated parameters.
+
+Figure 12. ANARI API calls that add an array of spheres to the scene, adapted from the knot example.
+
+Figure 13. ANARI example scene setup and rendering loop, adapted from the knot example.
+
+When the object has been completely specified and no further changes will be made before the next frame, anariCommit tells the ANARI back-end device that it can finalize the object for rendering. Parameters set on an object are not used in the next frame until the application calls anariCommit on the object. This lets applications transition an object from one configuration to the next without the need to deal with intermediate, invalid object parameterizations.
+
+Figure 12 shows the use of ANARI APIs to bind arrays of data as per-vertex coordinates and colors as input to an ANARI spheres geometry, to ultimately end up in an ANARI surface object. This example also shows how the anariRelease API is used to indicate when the calling application no longer needs an ANARI object handle. This gives the device implementation the freedom to free any resources no longer used by that object, including the object itself should no other objects be referencing it.
+
+The final ANARI example shown in Figure 13 demonstrates a complete sequence of the APIs used to fully describe a scene by: 1) instantiating materials; 2) assigning them to geometric surfaces; 3) to create, configure, and bind a renderer; and finally 4) to create, configure, and finalize the ANARI frame, which references everything involved in creating the final image.
+
+Example Visualizations
+During development of the ANARI API specification, the working group developed multiple prototype rendering device and application implementations that spanned both a diversity of hardware platforms (both CPU- and GPU-based) and rendering techniques (both rasterization- and ray tracing-based) to ensure that the design of ANARI APIs was closely coupled with actual implementation experience, as well as experience on the application development and debugging side. Here, we show a few exemplary visualization scenes that were used as early test cases when coupling several popular visualization tools to early ANARI device implementations.
+
+Figure 4 shows the output of two example ANARI applications that plot knots and parametric surfaces using ANARI’s APIs for rendering quad, triangle, sphere, and cylinder geometry subtypes using OSPRay and VisRTX back-ends. Figure 5 shows an ANARI rendering of the San Miguel scene using the developmental VisRTX back-end, highlighting ANARI’s support for image mapped texturing of surface geometry, and other features, e.g., as needed for architectural visualization, industrial design, entertainment, and similar application domains more broadly.
+
+One exciting aspect of the industry’s movement toward real-time rendering with advanced algorithms is in bringing these capabilities to virtual reality displays. Depending on the style of VR, rendering frame rates of 90 Hz or more are often recommended. In most cases, this can be a difficult goal to attain, though with CAVE and fishtank style VR displays, lower frame rates can be acceptable. ANARI allows the user to choose the back-end that gives the best rendering performance for a particular immersive visualization. We have implemented several ANARI test applications that use the FreeVR library, which handles the head tracking, and calculates the camera parameters that ANARI uses to create a user-perspective view of the scene, as shown in Figure 4 (top right).
+
+The ANARI SDK was integrated with VisIt using the VisRTX back-end. Figure 6 shows two renderings of the human brain MRI data, courtesy of the Mayo Clinic. The data can be downloaded from VisIt’s MRI tutorial. The top image is a surface rendering of the data using VisIt’s pseudocolor plot. The bottom image is a volume rendering using ANARI and the VisRTX back-end. Figure 7 shows a parallel volume rendering of the multi_rect3d.silo sample data that ships with VisIt. The data are decomposed into 36 domains (top image) that are distributed to multiple processors when VisIt is running in parallel. For the bottom image, VisIt was executed with the command-line argument -np 8, which causes eight MPI ranks to run parallel VisIt engines. Each engine used ANARI, with the VisRTX back-end, to render a subset of the original data (4–5 domains). The partial subimages were then composited into a final image using IceT.a
+
+A prototype ANARI rendering interface was incorporated into VMD, following the same general structure as VMD’s existing ray tracing engines based on Tachyon, OptiX, and OSPRay. To exercise ANARI in the context of the molecular visualization domain, a variety of existing VMD visualizations were rerendered using developmental ANARI back-end renderer devices, as shown in Figures 8 and 9. ANARI’s support for curved geometric primitives, such as spheres, cones, cylinders, and curves; support for texture mapping and volume rendering; and renderers implementing ambient occlusion lighting and path tracing are all beneficial for molecular visualization.
+
+Conclusion
+
+The goal of ANARI is to create a royalty-free open API standard for cross-vendor access to the state-of-the-art rendering engines. ANARI enables experts in various domains, such as scientific visualization and entertainment, to leverage the latest rendering technology without the need to use low-level rendering APIs. This significantly reduces software development costs while making advanced rendering techniques more accessible and widely used by 3-D visualization applications for which rendering is one of many necessary components in a given software solution. By supporting a well-designed, cross-platform API standard, graphics vendors’ rendering software, and hardware offerings are accessible to a wider diversity of disciplines and audiences.
+
+As an open standard under Khronos Group governance (a nonprofit standards organization), anyone can contribute to development of the ANARI specification as a working group member, or as an external advisor, by contacting the working group.b
+,
+c At the time of writing, the ANARI specification has provisional status, and work is focused on finalizing ANARI 1.0. The ANARI SDK and latest specification are publicly available in GitHub and the SDK includes links to available ANARI implementations.d
+
+ACKNOWLEDGMENTS
+VMD ANARI development was supported by NIH under Grant P41-GM104601 and Grant U24-NS124001. Certain commercial software is identified in order to describe the context of this work adequately. Such identification does not imply recommendation or endorsement by NIST.
+

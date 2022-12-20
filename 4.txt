@@ -1,0 +1,1010 @@
+Evaluating Benchmark Misfit Risk
+
+Overview
+Investment management is a three-part process:
+
+Set goals for risk and return
+Select investments
+Evaluate the results
+Often carried out in isolation by different, unconnected groups, these activities can lead to disappointment when expectations are not met. The portfolio construction process is the most common source of disappointment. Why? Because the set of funds selected to implement the asset allocation ends up altering the asset allocation. This leaves the client with a set of market exposures that differ from what they expected. This is a problem that receives little attention.
+
+Here we outline a process for identifying and evaluating this benchmark misfit risk using a portfolio of funds in a diversified global asset allocation.
+
+Asset Allocation: The First Step
+Our case study begins with a globally-diversified strategy that includes publicly traded investments: stocks, bonds, and alternatives as demonstrated in the following chart.
+
+Portfolio Construction: Turning the Plan into a Portfolio
+An asset allocation becomes an investment portfolio when specific funds are selected. Each fund is expected to act like its benchmark with a comparable return pattern and level of risk. Hopefully, it earns a higher return after adjusting for both risk and fees. We evaluate active risk, or tracking error, by measuring how closely each fund’s return pattern aligns with its benchmark based on the correlation of the fund and that benchmark. But the square of the correlation is the more useful statistic. It answers the critical question: What percent of each fund’s return is driven by factors in its benchmark?
+
+Many investors assume that investment selection is the sole driver of tracking error. This is a mistake. Unfortunately, much of the portfolio’s tracking error is often determined by a different set of market exposures, with the source of this misfit risk produced within its funds. We must separate the effect of these structural differences. Only then can we calculate the true investment selection effect.
+
+Introducing the Portfolio’s Funds
+Our asset allocation includes 14 segments. These are organized by asset class (global equity, global bonds and alternatives); asset segment (US equity vs. non-US equity); and style (value vs. growth). We used net-of-fee returns for the funds in this analysis.
+
+Determining Each Fund’s Effective Exposures
+Our first step was to derive the effective exposures for each of the portfolio’s funds. We conducted a regression analysis to determine the weightings of each of the portfolio’s segments so that the return of this effective fund index had the highest correlation to each fund.
+
+We then constructed a table of our results, expressing each fund in terms of its effective market segment weights. We applied these weights to the allocation for each fund; the result shows each fund’s contribution to the segment weightings for the overall portfolio. By summing these contributions across all funds, we determine the portfolio’s effective exposure to each market segment.
+
+These results show how each fund behaves, rather than what it looks like or calls itself. By subtracting the total portfolio exposures from the asset allocation target weights, we determine the effective active exposures for the portfolio. These produce a long-term allocation effect found in the portfolio’s performance attribution analysis. These active weights are a key driver of the portfolio’s tracking error.
+
+Traditional Review of Performance
+The portfolio outperformed its benchmark on an absolute and a risk-adjusted basis, with low tracking error relative to its excess return. Its Information Ratio of 1.7 is high enough to provide statistical confidence in this set of funds, and was more than three times that of its funds.
+
+Relative Performance with Misfit Benchmark
+Drivers of Portfolio Performance
+
+Without the insights from the portfolio’s effective exposures, we would believe that the funds’ investment selection process added substantial excess return with only a small increase in risk. 
+
+Performance with Effective Exposures (Misfit Benchmark)
+
+	Cash	Portfolio	Policy
+Benchmark	Effective
+Exposures
+Return	1.19	11.87	9.74	9.66
+Risk	0.27	11.31	11.11	9.89
+
+The inclusion of benchmark misfit on performance changes everything! Instead of issue selection driving a slight increase in risk with a tremendous increase in return, misfit lowered volatility, with selection adding substantially to risk but only modestly of return. This changes the narrative completely.
+
+Attribution of Total Return and Total Risk
+
+	Benchmark	Misfit	Selection	Total
+Contribution to Total
+Return	9.74	-0.07	2.21	11.87
+Contribution to Total
+Volatility	11.05	-1.19	1.46	11.31
+Correlation to Portfolio
+Total Return	0.994	-0.86	0.87	
+
+Incorporating Misfit Risk into Active Return Attribution Analysis
+We apply the same principles to the portfolio’s excess returns, starting with the excess return and tracking error for each component.
+
+Active Results
+
+	Misfit Excess
+Return	Selection
+Excess Return	Total Excess
+Return
+Return	-0.07	2.21	2.14
+Volatility	1.38	1.69	1.24
+
+Attribution of Active Return
+
+	Misfit	Selection	Total
+Contribution to Excess Return	-0.07	2.21	2.14
+Contribution to Portfolio
+Tracking Error	0.25	1.00	1.24
+Correlation to Portfolio
+Excess Return	0.18	0.59	
+
+According to our data, misfit contributes only 25 bps (18%) of its own tracking error to the portfolio, while selection contributes 100 bps (almost 60%) of its own tracking error. These results were driven by their respective correlations to the portfolio’s excess return. A critical point: From the perspective of the total portfolio manager, misfit risk is an unmanaged aspect of the portfolio. It is reassuring to know that this does not dominate the portfolio’s active performance results.
+
+A Quick Look at the Funds
+We separated each fund’s active contributions to the portfolio’s total misfit risk and selection results. This is shown on a percent of total basis, where efficiency is measured in terms of equal contributions to risk and return. This clearly demonstrates that the deliberate investment selection process was more efficient than the unintended consequence of the benchmark misfit effect.
+
+Misfit and Selection Contributions by Fund
+
+Conclusions
+Contrary to popular opinion, a portfolio’s funds are more likely to undermine its asset allocation, rather than delivering the allocation in the form of actively-managed investments. A decision-based view of the investment process demonstrates that benchmark misfit is the result of actions taken by the portfolio’s underlying fund managers, who often seek excess return by deviating from their own benchmarks, sometimes investing outside their mandates. This return-seeking focus often works against the primary source of a portfolio’s returns: its asset allocation. The responsibility for controlling benchmark misfit lies with the manager of the multi-asset portfolio.
+
+The fund selection process should shift its focus from an alpha first selection of individual funds, to assembling a team of funds whose aggregate set of effective exposures closely tracks the portfolio benchmark. This risk-aware approach tends to produce portfolios where tracking error is minimized as benchmark misfit is reduced, and its excess return is enhanced via diversification across the funds’ excess returns.
+
+The result should be similar to those of our case study: a portfolio information ratio that is a multiple of its funds’ values. This produces a higher level of confidence in projections and expectations of excess return from the fund team.
+
+This framework leads to a more cohesive and holistic investment process.
+
+What Can AI Do for Investment Portfolios? A Case Study
+
+Artificial intelligence (AI)-based strategies are being increasingly applied in investing and portfolio management. Their contexts, utility, and results vary widely, as do their ethical implications. Yet for a technology that many anticipate will transform investment management, AI remains a black box for far too many investment professionals.
+
+To bring some clarity to the subject, we zeroed in on one particular AI equity trading model and explored what it can bring in terms of benefits and risk-related costs. Using proprietary data provided by Traders’ A.I., an AI trading model run by our colleague Ashok Margam and team, we analyzed its decisions and all-around performance from 2019 to 2022.
+
+Traders’ A.I. has few constraints on the market positions it takes: It can go both long and short and flip positions at any point in the day. By each day’s closing bell, however, it completely exits the market, so its positions are not held overnight. 
+
+So how did the strategy fare over different time periods, trading patterns, and volatility environments? And what can this tell us about how AI might be applied more broadly in investment management?
+
+Traders’ A.I. outperformed its benchmark, the S&P 500, over the three-year analysis period. While the strategy was neutral with respect to long vs. short, its beta over the time frame was statistically zero.
+
+Traders AI Model vs. S&P 500 Monthly Equity Curve ($10k Investment)
+
+Traders’ A.I. leveraged moments of higher skewness to achieve these results. While the S&P 500 had negative skewness, or a strong left tail, the AI model displayed the opposite: right skewness, or a strong right tail, which means Traders’ A.I. had few days where it generated very high returns.
+
+AI Model			S&P 500	
+Mean	0.00111881		Mean	0.00064048
+Standard Dev.	0.005669		Standard Dev.	0.01450605
+Kurtosis	11.1665		Kurtosis	13.1015929
+Skewness	1.59167732	 	Skewness	-0.62582387
+
+So, where was the model most successful? Was it better going long or short? On high or low volatility days? Does it choose the right days to sit out the market?
+
+On the latter question, Traders’ A.I. actually avoided trading on high return days. It may anticipate high risk premium events and opt not to take a position on which direction the market will go.
+
+Traders’ A.I. performed better on a market-adjusted basis when it went short. It made 0.13% on average on its short days while the market lost 0.52%. So the model has done better predicting down days than it has up days. This pattern is reflected in bear markets as well, where Traders’ A.I. generated excess performance relative to bull markets.
+
+	AI Model’s Average Return	S&P 500’s Average Return
+When Model Is Active	0.1517%	-0.0201%
+When Model Sits Out	0%	0.8584%
+When Model Is Long	0.1786%	0.6615%
+When Model Is Short	0.1334%	-0.5215%
+When Model Is Long and
+Short in a Day	0.1517%	-0.0201%
+On High-Volatility Days	0.1313%	-0.0577%
+On Low-Volatility Days	0.0916%	0.1915%
+In Bull Markets (Annual)	17.0924%	46.6875%
+In Bear Markets (Annual)	20.5598%	-23.0757%
+In Bull Markets	0.0678%	0.1853%
+In Bear Markets	0.0816%	-0.0916%
+
+Finally, the AI model performed better on high-volatility days, beating the S&P 500 by 0.19% a day on average while underperforming on low-volatility days.
+
+AI Model’s Return Percentage vs. VIX Percentage Change
+
+All in all, Traders’ A.I.’s results demonstrate how one particular AI equity trading model can work. Of course, it hardly serves as a proxy for AI applications in investing in general. Nevertheless, that it was better at predicting down days than up days, succeeded when volatility was high, and avoided trading all together before big market-moving events are critical data points. Indeed, they hint at AI’s vast potential to transform investment management.
+
+Every Day Is Tax Day: Five Tax Strategies for HNW Clients
+
+Tax season in the United States shouldn’t be confined to March and April alone. Our clients’ taxes and the tax-savings strategies we can devise for them should be on our minds year-round. Unfortunately, too often tax planning advice is almost entirely about identifying deductions. That’s a mistake that can lead to clients leaving money on the table.
+
+I’ve worked with many high-net-worth individuals (HNWIs) — including the CEOs of some of the largest publicly traded and privately held companies in the United States — and too many of them fail to minimize their taxes. It may be because they are time constrained or lack a strategic tax advisory team. But I’ve also found HNWIs tend to think about investments in terms of immediate returns: They don’t consider the fees and expenses, tax costs, and long-term returns. And it’s in these areas where investment advisers and wealth managers can add the most value.
+
+Constant Tax Code Changes Necessitate Constant Tax Planning
+The tax code has been revised or amended almost 6,000 times since 2001. The Tax Cuts and Jobs Act passed in 2017, for example, is the largest revision of the tax code in 30 years. If you add in the SECURE Act, the proposed SECURE Act 2.0, and the related changes to retirement plan rules, the complexity can be overwhelming.
+
+The original SECURE Act, which came into effect in 2020, has a number of implications for HNWIs. It pushed back required minimum distributions (RMDs) from age 70½ to 72 and removed the age limit on IRA contributions. The SECURE Act 2.0, which passed the House of Representatives and is now before the Senate, would increase the RMD age to 75 and allow for additional planning time in pre-RMD years.
+
+So, however we look at them, taxes are always complicated and always in flux. To help our clients navigate them, here are my top five tax-planning and saving strategies.
+
+1. Maximize Employer Benefits
+Clients with earned income should take advantage of employer benefits early and often. While 401(k) options are pretty standard these days, high-income earners need to maximize mega-backdoor Roth options, health savings accounts (HSAs), and other valuable offerings.
+
+Let’s do the math: If a client contributes $7,300 — the 2022 maximum for families — to an HSA each year, they will accumulate $146,000 in 20 years. If those funds grow at an annual rate of 7%, they will have $320,000.
+
+If clients don’t use these funds for medical expenses, they can distribute them penalty-free after age 65, though the distributions will be subject to standard income tax. If they spend them on assisted living, unreimbursed medical bills, or other health care, at a 35% blended tax rate, they will still save over $110,000 in income taxes.
+
+2. Leverage Charitable Gift Planning Options
+To further maximize their tax saving, clients can also use appreciated, long-term securities instead of cash; donor-advised funds (DAFs); and charitable trusts. They can gift these securities without recognizing gains and also time the income tax deduction to occur in a high-tax-rate year.
+
+For example, say a client makes a $250,000 cash donation to a charity but later that year needs that $250,000 for lifestyle expenses. To facilitate that, they sell $250,000 of investments with a cost basis of $100,000. Had they made the donation in stock and covered the personal expenses in cash, they could have saved almost $50,000. The lesson here: Charitable gift planning should include long-term, appreciated stock. Clients might also want to bunch their charitable contributions into a high-tax-rate year. That can provide serious, permanent tax savings.
+
+3. Tax Loss Harvest in Down Markets
+Clients don’t like to look at their investment account statement and see unrealized losses or an investment that is worth less than what they paid for it. But if they have to pay capital gains now or in the not-so-distant future, they may want to sell those positions to generate a capital loss and access the related tax benefits.
+
+For example, let’s say a client has a stock investment that lost $100,000 and the client also sold a real estate investment this year that generated a $100,000 profit. If they sold the stock position and realized the loss — essentially monetizing a paper loss — they could offset the real estate gain and save on taxes. And if they reinvested the stock sale’s proceeds into a similar security, their overall investment position would be the same. (That is, so long as they didn’t put money in the same investment. That would violate the wash sale rule and make the loss unusable.)
+
+Because capital losses carry forward indefinitely, this strategy could add value even if the client didn’t expect the subsequent gains to be generated for many years.
+
+4. Convert Pre-Tax IRAs to Roth IRAs
+Clients should convert their pre-tax IRA to a Roth IRA during down markets and low-income years. Roth IRAs don’t have an upfront tax break, but the contributions and earnings grow and are ultimately distributed tax-free. On the other hand, a pre-tax IRA provides a tax benefit when initially funded, but income is taxable at ordinary rates when distributed. With careful marginal rate tax planning, converting pre-tax IRAs to Roth IRAs can minimize the overall tax paid on the distributions.
+
+While this is always a great tax-planning strategy, it may be an especially smart move in the present environment. The current tax to convert will be based on current value and should be significantly less than it would have been last winter due to 2022 market declines. When the market rebounds, clients could harvest that additional growth tax-free since they already paid the tax at conversion.
+
+5. Coordinate Estate Planning and Income Tax Planning
+Clients should consider gifting income-producing assets and assets with unrealized gains to family members in lower tax brackets, while keeping the “kiddie tax” rules in mind.
+
+If a parent in the highest tax bracket has long-term stock worth $32,000 with an unrealized gain of $20,000, they can gift the annual exclusion amount to their offspring. Instead of selling the stock and gifting cash — which could generate federal tax of almost $5,000 — they can gift the stock direct to the child. The child would take the holding period and cost basis. And, as long as they are no longer a dependent, they could sell the stock and recognize the gain at their own tax rate.
+
+This strategy may be especially timely for adult children in graduate school or those just starting their careers. They might be in a 0% federal long-term capital gains rate and able to sell the stock income-tax-free.
+
+Taxes maybe one of the two certainties in this world, but that doesn’t mean our clients should overpay them. By offering tailored tax planning and strategies like these, we can ensure that they don’t and get them the best deal Uncle Sam has to offer.
+
+Human Rights Issues and Your Portfolio: The Risks and Opportunities
+
+We would rather not think about human rights issues when it comes to asset allocation.
+
+In the developed world, we often treat human rights violations — modern-day slavery, child labor, aboriginal land rights abuses, etc. — as anachronisms, at least as far they concern us. Or we dismiss them as problems for someone else to deal with, whether activists, government regulators, or corporate boards.
+
+But as with incorporating environmental, social, and governance (ESG) factors into mainstream investment management practice, there are compelling reasons to apply human rights and safe-labor criteria to our investment decisions. More to the point, there is a perfectly sound financial basis for a thoughtful consideration of the business of treating people humanely.
+
+Human rights risks vary across industries, with some sectors — the extractive, clothing, and food industries, for example — carrying particular perils.
+
+So what are the risks and opportunities associated with integrating or failing to integrate human rights issues into asset allocation considerations?
+
+The Risks
+Neglecting to take human rights factors into account carries the following varieties of risk:
+
+Operational Risk: This is a huge consideration, especially in the extractive sector. For example, much of the risk assumed when taking on a new mining project is nontechnical in nature. What does that mean? Potential boycotts, plant shutdowns, or community relations issues are among the most likely reasons a project will be delayed or derailed. Considering the large capital outlays required at the outset, to survey the land or transport heavy machinery, these are financially disastrous scenarios. But they can be avoided with some foresight and dialogue.
+
+Legal and Regulatory Risk: Such soft-law standards as the United Nations Principles for Responsible Investment (UNPRI) are often the precursors to hard laws. Although there are few strictly enforced and binding legal statutes related to human rights, the UK Modern Slavery Act 2015 and the California Transparency in Supply Chains Act may well pave the way for future regulations.
+Following the 2008 oil spills in the Niger Delta, Royal Dutch Shell agreed to pay $84 million to the Bodo community in compensation for the health, environmental, and economic damage. While the amount may seem trivial for so large a company, the idea that the public good has value is becoming increasingly accepted. Courts are affirming that those who depend on these natural resources should be compensated if their lives and livelihoods are threatened by man-made disasters.
+
+Reputational Risk: In additions to fines and lawsuits, there are significant reputational risks associated with human rights violations and the accompanying press coverage. Thanks to social media, nongovernmental organizations (NGOs) and the press can disseminate information about violations more quickly and widely than ever before. This can be disastrous for companies that become associated with human rights abuses.
+
+As a case in point: The Rana Plaza factory collapse in Bangladesh in 2013 generated a huge public outcry. The companies outsourcing garment production to the factory suffered when their names were exposed. Many thought twice about shopping at certain retailers after their labels were found in the rubble.
+
+The Opportunities
+Investors and firms can certainly lose money if they ignore human rights issues. But how can they gain by factoring them in?
+
+Cost of Capital in the Equity Markets: Studies indicate that companies that pay attention to corporate social responsibility (CSR) and ESG factors have a lower level of stand-alone risk. In exchange for this, investors are willing take a lower return. This also suggests that these human rights risks are recognized by the markets and are priced in accordingly.
+Government Contracts and Trade Markets: Governments are often the largest buyers of goods and services and generally have purchasing guidelines to ensure that their supply chains are free of human rights infractions. Similarly, trade zones, such as the European Union, reject products suspected of being produced with slave labor.
+
+Employee Motivation: Safe labor practices lead to higher retention rates, increased productivity, and better overall product quality.
+Market Share: This may be the most important but often overlooked benefit of incorporating sustainable practices into an investment strategy. Sales feed the bottom line. Customers are more loyal to companies whose values they share. They are even willing to pay a premium — often a substantial one — for products they feel good about buying, whether fair trade coffee or Tom’s shoes.
+Human rights issues are in the supply chain.
+
+In this day and age, the $8 t-shirt we purchase probably has exploitation involved somewhere in its production, distribution, or both. Some are choosing to avoid buying disposable fashion altogether. As consumers, we should understand the concept of voting with our wallets.
+
+Investors own more than half of everything. This represents a huge opportunity. Collectively we can bring about change, whether our motives are based on financial or ethical considerations.
+
+Many in the developed world feel powerless in the face of anti-globalization efforts and antipathy towards immigration. For those who believe in the economic benefits of trade, it is imperative to effectively encourage free markets across borders. By strengthening ties to the developing world where many human rights violations occur, we make trade more integral to the global economy and thus can wield greater influence.
+
+What better time to vote with our portfolios?
+
+Special thanks to the UNPRI and KnowtheChain.org for their work on this subject.
+
+FTX: Crypto Is the Cure, Not the Cause
+
+FTX is simultaneously the biggest fraud and the culmination of the largest banking crisis in the history of the crypto industry. But the FTX debacle has very little to do with crypto itself: It is merely another episode in global finance’s long history of such catastrophes.
+
+Despite extensive regulation and central bank activity, traditional finance is littered with shocks, panics, bank runs, and other disasters of which FTX is just the latest iteration. But unlike traditional finance, crypto offers a pathway to a sounder financial system. If crypto is going to deliver on this, the principles of decentralization, immutability, and verifiability need to be adopted by more centralized institutions.
+
+Financial Crises Are Symptoms of the Opaque Fractional Reserve Banking System
+Fraud is as old as humanity, and banking crises are as old as banking itself. But the ubiquity of such excesses has increased ever since banks evolved from depository institutions that held client deposits on reserve to fractional reserve banks.
+
+Fractional reserve banks only keep a small share of client deposits on hand. Hungry for returns, they prioritize profits over client safety, leveraging up their balance sheets by investing client capital in longer-duration, less-liquid, and less-credit-worthy assets. This dramatically boosts the sector’s profitability, but it makes banks susceptible to runs and insolvency.* If clients seek to redeem their deposits en masse, the banks won’t have the necessary capital available to meet the demand.
+
+The FTX collapse is an outgrowth of this system. FTX CEO Sam Bankman-Fried allegedly bailed out his own trading firm, Alameda Research, with FTX client capital, effectively turning FTX into a fractional reserve bank and executing the typical financial fraud.
+
+Regulation and Monetary Policy Don’t Fit with Crypto
+Traditional finance attempts to counteract the inevitable excesses of fractional reserve banking with regulation and monetary policy. Neither of these are likely to work effectively in crypto. Let me explain.
+
+The FTX scandal highlights crypto’s ongoing regulatory arbitrage potential. Bitcoin, Ethereum, and other crypto-assets are decentralized, internet-based financial technologies. They facilitate the movement of capital among various parties throughout the globe, no matter their jurisdiction. Exchanges are easy to set up in more far-flung jurisdictions as a means of evading restrictions and growing market share away from the hawkish eyes of developed market regulators. In fact, this is exactly the path FTX pursued, opting to conduct its operations in the Bahamas. Perversely, the stricter developed market regulators become in the wake of the FTX collapse, the greater the incentive among crypto operators to migrate to more permissive jurisdictions.
+
+Enron, Barings Bank, and Theranos all demonstrate that complex banking regulations solve neither banking crises nor frauds. In fact, FTX’s Bankman-Fried cultivated close relationships with US regulators in Congress and the SEC in recent years. He was hiding in plain sight, and regulators didn’t see a thing.
+
+Thoughtful crypto regulations may help rein in crypto intermediaries in the future, but history shows regulation is no silver bullet.
+
+Central banking does lower the risk of bank runs in traditional financial markets. A central bank’s status as lender of last resort reduces the incentive to flee insolvent institutions. But with crypto, monetary policy is both undesirable and not especially applicable.
+
+Effective monetary policy requires supply elasticity. The US Federal Reserve can manipulate the US money supply, but nobody can just print bitcoin.** An inelastic supply of the primary assets is a major constraint to any lender of last resort. Moreover, recent events demonstrate why central bank bailouts are both pernicious and undesirable.
+
+FTX itself effectively acted as a lender of last resort in the crypto space in May and June: It bailed out troubled centralized lenders BlockFi and Voyager, as well as its trading arm, Alameda. But these actions only hid the underlying risk in these institutions and led to a larger crisis down the road. Binance, crypto’s largest exchange, looked like it might step in as FTX teetered on the edge, but wisely stayed on the sidelines.
+
+Healthy Economies Reveal Failures. They Don’t Hide Them.
+Bad business practices, poor risk taking, overly leveraged companies, and outright frauds need to be uncovered and put out of business. That is how a healthy, functioning economy works. Central banks can help conceal these challenges in the short-term and delay the final reckoning, but that creates economic inefficiency and damages productivity over the long term.
+
+So, where does crypto go from here?
+
+Apply the Principles of Verifiability and Transparency to Centralized Finance
+Like any nascent technology, bitcoin is volatile, but it is robust. Bitcoin and Ethereum continue to process transactions and smart contracts, delivering financial freedom to underserved people around the world. They provide these services without the need for regulators and central banks.
+
+Centralized institutions like FTX have failed to live up to the principles that make bitcoin, Ethereum, and other cryptoassets valuable: transparency, openness, decentralization, etc. To take this industry to the next level, crypto advocates need to impose these principles on centralized financial institutions. Crypto intermediaries like FTX cannot be allowed to succumb to the age-old shenanigans of traditional finance.
+
+Self-custody of assets and decentralized exchanges are two great solutions because they don’t expose users to the vagaries of centralized custodians and their penchant for fractional reserve banking.
+
+Proof of reserves can also make centralized institutions more transparent. After all, centralized intermediaries aren’t going away. Not everyone has the wherewithal to fully transition into crypto’s decentralized universe. Traditional financial institutions need to integrate crypto’s first principles into their operations. A simple on-chain proof of reserves that allows the public to view company assets and liabilities would be a good first step. It wouldn’t prevent all malfeasance, but it would dramatically reduce risks by fostering accountability, openness, and transparency. Regulators wouldn’t be required to audit exchange balance sheets. Instead, crypto can automate the audits through code and on-chain transparency. That information could be disseminated in real-time and be available to everyone.
+
+Crypto Isn’t Going Anywhere
+Bitcoin has declined 78% since its October 2021 peak. It also fell 92% in 2010 and 2011, 85% in 2014 and 2015, and 83% in 2018. None of these crashes hampered its functionality or the rapid pace of adoption of the related technology. In fact, crypto has advanced during each subsequent cycle, and its adoption rate is among the fastest of any technology.
+
+So, while the FTX fiasco has shaken the industry, a return to first principles will see crypto reemerge once more as a viable alternative to increasing global monetary disorder. The question is, Can the principles of decentralization, resistance to censorship, immutability, transparency, and verifiability expand beyond the protocols and into centralized intermediaries across the world?
+
+More Than Just Oil: Saudi Arabia’s Improved Credit Rating
+
+The Russia–Ukraine war has thrown the commodities markets into chaos. At the beginning of March, oil hit $123 per barrel — up a staggering 68% this year.
+
+Since many assume the health of the Saudi economy is tied almost exclusively to this black gold, it came as little surprise when Standard & Poor’s (S&P) upgraded the country’s outlook from “stable” to “positive.” But contrary to the popular narrative, oil isn’t all that matters to the Saudi economy.
+
+As S&P stated, Saudi Arabia survived the “twin shocks” of the pandemic and the drop in oil demand and prices. As it guided OPEC through this volatile period, it stayed focused on achieving its Vision 2030 objectives despite the prevailing economic challenges.
+
+So, what has changed? And is the Saudi economy on track to diversify away from oil?
+
+Oil Remains Central to the Saudi Economy, but Not Its Vision
+Vision 2030’s goal is to reduce Saudi dependence on oil by directing investment toward other vital economic pillars and emerging sectors. This requires fundamental shifts in how businesses operate.
+
+Saudi Arabia’s crude petroleum and natural gas sector accounted for 28.1% of GDP in 2021. Real GDP expanded by 3.2% in 2021 after contracting by 4.1% in 2020. For Saudi Arabia to break even on its 2022 budget, the International Monetary Fund (IMF) estimates the price of oil needs to average $72.40 per barrel. The S&P projects an average price of $85 per barrel in 2022. That could mean a government budget surplus of 2.5% of GDP in 2022 — the first surplus since 2013.
+
+Break-Even Oil Price per Barrel to Balance 2022 National Budget
+
+The country can’t take current oil prices for granted. That’s why it is financing and developing these other sectors and building a more resilient and sustainable economy. In the past, such expenditures were highly correlated with oil prices, but with its current plan, the government has adopted the long view and is looking beyond short-term oil price movements.
+
+Managing the Sovereign Debt
+Saudi Arabia established the National Debt Management Center in late 2015 to help ensure the country’s access to global debt markets as a means of achieving the best possible cost structure to fund its budget deficit. Its efforts thus far have succeeded.
+
+Six years on, as of year-end 2021, around 60% of the SAR 938 billion in debt is SAR-denominated, while 40% is non-SAR. The Saudi public debt to GDP ratio is expected to continue its downward trend from 32.5% in 2019 to 25.4% in 2024, according to a Ministry of Finance (MoF) report. The MoF plans to build a unified sovereign asset and liability management framework to integrate the country’s financial and non-financial assets and liabilities.
+
+Looking ahead, the Saudi debt picture is likely to improve further. On 30 September 2021, FTSE Russell announced that the local currency Sukuk would be added to the FTSE Emerging Markets Government Bond Index (EMGBI), effective April 2022. Around a third of Saudi Arabia’s current outstanding debt will be included on the index, which will make Saudi debt more investable and attractive while improving market liquidity.
+
+Improving International Investor Access
+Saudi Arabia introduced its National Investment Strategy (NIS) in October 2021. A vital aspect of Vision 2030, the NIS seeks to make Saudi Arabia an investment hub through regulation and legislation, among other improvements to the investment landscape.
+
+The strategy seems to be working. Foreign direct investment (FDI) net inflows grew by 257.2% in 2021. The first half of fiscal 2021 broke records; the second half achieved 23.7% year-over-year gains.
+
+Among the NIS’s key goals is to increase FDI’s share of GDP from 1.5% in 2021 to 5.7% by 2030 and to accelerate overall domestic investment to SAR 1.65 trillion ($44 billion) by 2030 from SAR 600 billion ($16 billion) in 2021. From 2021 to 2030, the cumulative gross fixed capital foundation (GFCF) is expected to reach SAR 12.4 trillion ($3.3 trillion).
+
+In another major milestone, Clearstream, the post-trading services provider of Deutsche Börse Group, connected the Saudi capital markets to its network. Eligible clients no longer need to obtain “Qualified Foreign Investor” status to invest in the Saudi capital market — Sukuk/bonds and listed exchange-traded funds (ETFs).
+
+Spearheading ESG Initiatives
+Moody’s current environmental, social, and governance (ESG) score for Saudi Arabia is moderately negative. The Saudi ESG Credit Impact Score (CIS-3) should improve, however, as the country expands its ESG coverage, implementation, and transparency.
+
+After all, the accelerating global momentum behind ESG measures has not gone unnoticed in Saudi Arabia. The Saudi Exchange (Tadawul) has issued ESG disclosure guidelines that set a clear, top-down tone. Given the global focus and increased ESG due diligence and regulations, the scope should widen materially. The Public Investment Fund (PIF) also unveiled its ESG strategy, which focuses on investing in renewable energy, water, and carbon management projects.
+
+Transforming the Financial Sector with Open Banking
+Saudi Arabia is also revolutionizing its banking sector. In the past, stability was the main priority. But the Saudi Central Bank (SAMA) “Open Banking Policy” will allow the country’s digitally literate population to safely share their banking data with third party companies, thus expanding their access to integrated financial products and opening the door to fintech development in the country.
+
+SAMA will also launch the Open Data Platform, which will feature Saudi economic, financial, and monetary statistics and indicators. Users — business owners, researchers, entrepreneurs, and institutions — can export this data in various formats. The move should further improve the business climate and financial transparency in Saudi Arabia and increase the country’s appeal to investors.
+
+Creating Seedbeds for SMEs and Fintech
+To spur innovation, Saudi Arabia is empowering domestic small and medium enterprises (SMEs) and fintechs. The General Authority for Small and Medium Enterprises — “Monsha’at” — is building a competitive and healthy business environment to attract new entrants to the SME sector. To complement this ecosystem, it has developed various financing programs. “Kafala,” for example, is a loan guarantee initiative that helped more than 5,000 enterprises with SAR 10.2 billion ($2.7 billion) in guarantees in 2021. Vision 2030 seeks to raise the SME contribution to GDP from 20% to 35% by 2030.
+
+During the Global Entrepreneurship Congress (GEC) held in Riyadh last March, Saudi Arabia announced agreements and investment initiatives worth SAR 51.8 billion ($13.8 billion) across various industries. These initiatives, along with the establishment of the new SME Bank, will help the industry become an engine for economic growth. Indeed, according to the Global Competitiveness Center, Saudi Arabia is ranked 12th on the Availability of Venture Capital Index, which is among the most prominent sub-indicators.
+
+The fintech sector has lately enjoyed a concentrated push from the government. SAMA has licensed three digital banks during the past few months as well as three new fintech companies, issuing the first granted debt-based crowdfunding license and payment license. The country now boasts 17 fintech payment companies. Indeed, Saudi Arabia was recently ranked second in digital competitiveness among the G20 countries in 2021.
+
+Enhancing Strategic Support through the Public Investment Fund (PIF)
+The Saudi sovereign wealth fund provides strategic support to the economy, and with a diversified investment portfolio of more than $500 billion in assets, it serves as a national safety net.
+
+By 2025, the PIF hopes to expand its asset base to $1.1 trillion. Earlier this year, demonstrating its economic resilience and credit-worthiness, the PIF received its first international credit ratings, earning an A1 issuer rating from Moody’s and a long-term issuer rating of A from Fitch.
+
+The PIF is also the primary force keeping Saudi Arabia’s “giga-projects” on track and partners with local businesses, establishing ventures, and founding enterprises to upgrade the standards of business conduct.
+
+Tapping Natural Resources and Mining Opportunities
+Oil may still dominate the Saudi commodities sector, but exploration for other natural resources is ongoing. Forty-eight minerals have been found so far, including such important energy transition metals as copper and zinc.
+
+Saudi Arabia recently emphasized just how central mining investment is to its future. “[Mining is] becoming more and more essential for the advancement of manufacturing [and] energy” industries, according to Saudi industry and mineral resources minister Bandar Alkhorayef. And with an estimated $1.3 trillion in untapped minerals in Saudi Arabia, the goal is to scale the sector’s contributions to GDP from $17 billion in 2021 to $64 billion by 2030.
+
+Last January, Saudi Arabia hosted the debut Future Minerals Forum in Riyadh as part of its effort to become a regional leader in the mining sector.
+
+Saudi’s Grand Goals Are Finding Recognition
+Amid its multifaceted campaign to diversify its economy, Saudi Arabia is at last earning recognition for its efforts. As the S&P report stated:
+
+“The positive outlook reflects our expectation of improving GDP growth and fiscal dynamics over the medium term, tied to the country’s emergence from the Covid-19 pandemic, improved oil sector prospects, and the government’s reform programs.”
+
+Moody’s upgraded the country’s outlook from “negative” to “stable” in November 2021. More such upgrades are likely on the way. But more important than the improved ratings themselves are the reasons behind them, specifically the country’s fiscal reforms.
+
+As the report stated, Moody’s view came down to the “government’s improving track record of fiscal policy effectiveness, evidenced by policy responses in periods of both low and high oil prices, that consistently demonstrate a commitment to fiscal consolidation and longer-term fiscal sustainability.”
+
+And if that wasn’t sufficient, the Vision framework helped grow non-oil revenues from less than 10% in 2015 to more than 18% in 2020 and helped reduce non-interest expenditures from 56% in 2015 to 53% in 2020. The growth of non-oil activities increased by 6.1% in 2021.
+
+While the recent spike in oil prices may be good news for Saudi Arabia’s balance sheet, the country has demonstrated through its commitment to the Vision 2030 framework that its economic future will not be defined by the petroleum sector.
+
+Improving Interest Rate Risk Hedging Strategies through Regularization
+
+A relatively recent strand of the portfolio selection literature has shown that regularization methods play a central role in the successful implementation of Markowitz (1952) mean-variance analysis. In particular, it has been shown that performing shrinkage of the input risk and return parameters can satisfactorily address the lack of robustness plaguing optimization models documented by Michaud (1989) or DeMiguel, Garlappi, and Uppal (2009). In a nutshell, this approach, applied to expected return estimates by Stein (1956) and Black and Litterman (1992) and to covariance matrix estimates by Ledoit and Wolf (2003, 2004), combines a structured but biased target for a parameter estimator with the unbiased but low convergence sample estimator. In parallel, other authors have documented the positive impact on out-of-sample performance of regularizing the model outputs, i.e., restricting portfolio weights. For instance, Frost and Savarino (1986), and Jagannathan and Ma (2003) show that excluding short sales reduces the gap between ex-ante and ex-post performance, and substantially decreases the out-of-sample volatility for the minimum variance portfolio. These two approaches are actually connected, as the regularization of output weights is under certain conditions equivalent to the regularization of input parameter estimates (see Jagannathan and Ma 2003; DeMiguel et al. 2009).
+
+While this strand of research provides compelling theoretical and empirical arguments in favor of the introduction of regularization constraints in portfolio optimization, its focus has been mostly restricted to mean-variance analysis in equity markets. Our paper extends this literature by showing that regularization also has a fundamental role to play in the construction of robust interest rate hedging portfolios. From a theoretical standpoint the foundational work of Merton (1969, 1971, 1973) has highlighted the importance for long-term investors to hedge against unexpected changes in key state variables impacting the investment opportunity set, including notably interest rates. From a practical standpoint, interest rate hedging is particularly relevant for institutional investors endowed with long-term liabilities, such as pension funds or insurance companies. Furthermore, interest rate hedging portfolios also constitute a fundamental building-block in retirement investing solutions for individuals and households (e.g., Martellini and Milhau 2010, 2012; Martellini, Milhau, and Mulvey 2019, 2020).
+
+Historically the first factor-based approach to interest rate hedging was focused on matching Macaulay’s (1938) duration, introduced in seminal papers by Samuelson (1945), Redington (1952), Fisher and Weil (1971) and Bierwag and Khang (1979).1 This widely used hedging strategy and its well-known extension to convexity matching are designed to protect against parallel shifts of the term structure of interest rates. However, there is ample evidence that changes in the shape of the yield curve, such as slope and curvature movements, can also be substantial (see Diebold and Li 2006), and can have a strong negative impact on the hedging quality of standard duration and convexity matching strategies (Ingersoll, Skelton, and Weil 1978; Fong and Vasicek 1984). Early papers have proposed to relax the pure parallel shift assumption, starting with Khang (1979) who derived a hedging strategy that accounts for changes in the slope of the yield curve, and Fong and Vasicek (1984) who proposed an immunization strategy to hedge a single future cash flow under general movements of the yield curve. Immunization strategies were then generalized to hedge multiple cash flows in a multifactor (or “multi-directional”) setting in Reitano (1991) and implemented using principal components analysis (PCA) in Barber and Copper (1996). The three principal components that best capture variations in interest rates, estimated from historical yields, are routinely identified with the level, slope and curvature factors of the popular Nelson and Siegel (1987) model.
+
+Multifactor hedging strategies that account for changes in the shape of the yield curve present, however, an important robustness challenge. In the absence of regularization restrictions, multifactor bond portfolio immunization strategies often result in hedging portfolios with extreme weights and high leverage, leading to poor out-of-sample hedging performance.2 As confirmed in our empirical analysis, an unconstrained multifactor immunization strategy can lead to inferior hedging performance compared to simple Duration-matching strategies. Investors are thus left with the following dilemma, typical of a bias-variance trade-off. On the one hand, Duration-Convexity strategies that present persistent biases in their exposures to slope and curvature factors leave portfolios exposed to changes in the shape of the yield curve. On the other hand, multifactor strategies that match exposures to the level, slope and curvature factors present important instability in those factor sensitivities, i.e., large variance in their factor exposures, as well as extremely high levels of leverage.
+
+We propose to address this conundrum using techniques borrowed from the machine learning literature. More specifically we recast the factor hedging problem in a flexible regularization framework incorporating an explicit control of the portfolio leverage that presents several key advantages over the unconstrained factor-matching approach. First, the proposed immunization strategies are designed to achieve a superior bias-variance trade-off, because they minimize exposure biases to any number of yield factors considered (such as level, slope, and curvature) but also present stable out-of-sample factor exposures due to the regularization and control of the hedging portfolio weights and leverage. Our empirical analysis confirms that these regularized general immunization strategies offer a remarkable improvement in terms of out-of-sample robustness. Additionally, our proposed strategies do not require a pre-selection of a specific subset of the hedging instruments, so that all available assets can be considered to form the hedging portfolio. This latter feature, together with the type of regularization constraints that we use, result in portfolios with much lower turnover and weight concentration levels compared to unrestricted factor-matching strategies. Overall, the proposed strategies dominate unconstrained immunization strategies in terms of out-of-sample performance, robustness, and portfolio turnover.
+
+A Regularization Approach to Multifactor Interest Rate Immunization
+In this section, we begin with a description of the Nelson and Siegel (1987) term structure model and we discuss different factor immunization approaches. Readers not interested in technical details could skip this section and directly move to the next section, which provides a self-contained empirical analysis of the benefits of the regularization approach to interest rate risk management.
+
+Yield Curve and Bond Return Approximation in Nelson–Siegel Model
+Motivated by the observation that three factors, namely, level, slope, and curvature, explain almost all the time variation in sovereign interest rates, Nelson and Siegel (1987) postulate that the yields on zero-coupon bonds can be written as linear combinations of three factors. Specifically, the zero-coupon yield of maturity u at time t is given by
+
+Here τ is a constant parameter, and the coefficients βit represent the three factor values at time t. β0t can be interpreted as the long-term yield or level factor. β1t, the negative of the spread between the long- and the short-maturity yields, is the slope factor in the sense that an increase in β1t implies a flatter yield curve. Finally, β2t can be regarded as a curvature factor in the sense that an increase in β2t leads to a more concave or less convex yield curve.
+
+The price of a coupon-paying bond, given by the sum of its future cash flows discounted with the zero-coupon yields of the appropriate maturities, is a function of the three factors at each point in time. If CFs denotes the cash flow paid at time s, the (dirty) price at time t is
+
+where the summation is over all payment dates after time t. Note that the function F is twice differentiable with respect to the three factor values and is differentiable with respect to time except on coupon payment dates.3
+
+From time t to time t + h, the total return on the bond, that is the return with any intermediate payment reinvested in the bond, can be approximated with the following Taylor expansion:
+
+where F0, F1, and F2 are short-hand notations for the derivatives of F with respect to β0t, β1t, and β2t, and F3 is the right derivative with respect to time. A more accurate approximation is obtained by introducing the second-order partial derivatives, including the cross derivatives:4
+
+Detailed expressions for the derivatives are provided in Appendix A. It should be noted that the quantity −F0/F bears a close resemblance to the modified duration indicator in that it is a weighted average of the cash flow maturities. The difference is that in the standard expression for duration, all cash flows are discounted with the same rate, namely, the yield-to-maturity, while in the expression for F0, every cash flow has its own discount rate, which depends on maturity. Similarly, F00/F is a weighted average of squared cash flow maturities, similar to the standard convexity indicator except that it involves maturity-dependent discount rates.
+
+Bond Portfolio Immunization Strategies
+Let n denote the total number of constituents in a bond portfolio and wit be the weight of constituent i at time t. Applying the Taylor expansion (2) to the pricing function of each constituent, F(i), we have the following approximation for the portfolio return:
+
+To immunize a given stream of liability cash flows with respect to unexpected changes in factor values, an investor needs to hold a bond portfolio with factor exposures matching those of the target liability portfolio to the first-order, and possibly to the second-order in case larger changes in factor values can occur within the trading interval.5
+
+Different immunization strategies have a focus on matching different factor exposures. While the level factor is the most important factor to hedge because it explains the largest fraction of bond returns, an investor may also decide to match slope and/or curvature exposures to be better immunized with respect to non-parallel shifts of the yield curve. Assume that a subset of k exposures to match has been selected and denote the exposures of the liability portfolio as D1, …, Dk. Collect the exposures of the hedging portfolio constituents in k row vectors H1, …, Hk, so that the ith element of Hp is the pth exposure of constituent i, and stack portfolio weights in the column vector x. All exposures and weights depend on time, but we drop the time subscript to alleviate notation. A factor-matching portfolio must by construction have the same exposures as the target liability portfolio, and it must also be fully invested in its constituents, implying that x must satisfy the following system of linear equations:
+
+H is the matrix whose first k rows are the vectors H1, …, Hk and the last row is filled with ones, and D is the column vector of length k + 1 whose elements are the target exposures D1, …, Dk and 1. Since k is the number of exposures that the strategy aims to match, for Duration-matching k is 1 and H has two rows, and for Duration-Convexity matching k is 2, and H has three rows. If one wanted to match the first-order sensitivities to the yield curve level, slope and curvature factors of the liability portfolio, then H would have four rows (k = 3).
+
+The system (4) has a unique solution if the matrix H is square and non-singular. Hence, a first approach to bond portfolio immunization, consists in selecting k + 1 bonds, so that the system in Equation (4) has a unique exact solution, given by6
+
+The weights of hedging strategies are set back to the target allocation x* in discrete time and not necessarily rebalanced at every possible trading date, to limit transaction costs. Hence, between rebalancing dates, hedging strategies do not always have an exact match of the target bond factor exposures. This implies possibly non-zero deviations between the sensitivities of the hedging portfolio and the ones of the replication target, i.e., ε=D−Hx with ε≠0.
+
+Replication errors ε can be caused by discrete hedging or by the presence of factor exposures not explicitly accounted for by the hedging strategy. For example, a strategy aiming to match only the first-order sensitivity to the level factor can present a persistent deviation or bias in its exposure to the slope factor. Indeed, in the empirical analysis presented in the next section, we find that the strategies matching only duration or duration and convexity can present significant and persistent biases in their exposures to the slope and curvature factors (even on rebalancing dates). On the other hand, while the strategy matching the first-order sensitivities to the three Nelson–Siegel (NS) factors using the exact-solution approach in Equation (5) allows by construction for a perfect match of all three first-order factor exposures on any trading date, it exhibits extreme weights and high leverage levels, which results in very unstable factor exposures between rebalancing dates and ultimately leads to poor out-of-sample hedging performance.7
+
+A Regularization Method
+To address the problems posed by extreme weights and highly leveraged positions, we introduce a regularization approach to interest rate multifactor hedging, which is designed to match a higher number of factor sensitivities (hence reduce the biases in factor exposures), and at the same time produce stable factor exposures (i.e., reduce variance in their factor exposures). It also allows us to relax the restriction in the exact-solution approach (Equation (5)) of having as many hedging instruments as linear constraints, that is k + 1, where k is the number of factor sensitivities to match. Hence, the portfolio weights vector x has length n, where n is the total number of available bonds, which can be different from (greater than) the number of constraints. The vector of the instruments’ sensitivities now has n elements, i.e., Hi=[hi1,hi2, … hin], and the matrix H has k + 1 rows and n columns.
+
+The objective is to find the weights of the hedging portfolio, x, that minimize the mean squared error (MSE) in yield curve factor exposures:
+
+This program is equivalent to
+
+Deriving Equation (6) with respect to x and equating the gradient to zero yields the following solution to this unconstrained program:
+
+This unrestricted solution is not feasible in general, because the matrix H'H in Equation (7) is not invertible whenever the number of bonds n exceeds k+1.8 On the other hand, it is possible to find other solutions to the MSE minimization problem in Equation (6), using a standard approach in the machine learning literature to address the bias-variance trade-off in MSE programs such as Equation (6). This consists of adding to the objective function a penalization on the norms of the output vector. The first norm of vector x is:
+
+which coincides with the gross leverage of the portfolio. A fully invested portfolio with no leverage has L(x)=1. Denoting Λ=H'H and Θ=H'D, the program with leverage penalization is:9
+
+where the norm penalization coefficient λ can be set such that the leverage of the portfolio is below a given leverage budget δ¯. The optimization program in Equation (9) is similar to a lasso regression with an additional constraint, which is that weights should add up to 1. For this reason, we refer to the resulting portfolio x* as a lasso hedging strategy.
+
+Given that short-selling of long-dated coupon-paying bonds can be operationally very cumbersome in practice, we restrict short-selling to the bond with the shortest duration, i.e., “cash” (see Appendix B for more details on the optimization program implemented).10 We also consider a similar approach to the optimization program in Equation (9) but using a penalization on the second norm, which can be labeled a ridge hedging strategy. To determine the penalization coefficient of the second norm in that case, we used a heuristic to determine the coefficient that would cap the leverage of the portfolio to the leverage budget δ¯. In our empirical tests, we found that the ridge approach presents a very similar improvement in terms of hedging performance as the lasso approach when δ¯=3. However, we found that the ridge approach is not well adapted when a long-only constraint is required, i.e., for δ¯=1, which requires large penalization coefficients. Intuitively, and as formally shown in Appendix C, the ridge approach converges toward an equal-weighted portfolio when the penalization coefficient tends to infinity. Naturally, an equal-weighted strategy implies large deviations in factor exposures and a deterioration in hedging performance. For this reason, in the empirical tests presented in the following section, we focus on the lasso regularization.11
+
+Empirical Analysis
+It is well-known that three factors, namely, level, slope, and curvature, which value can be obtained by calibration of the NS model with respect to observed bond prices, explain a large fraction of sovereign bond returns. Hereafter we present an empirical analysis of factor-based interest rate immunization strategies and discuss how the introduction of regularization techniques aiming at penalizing large weights improves the robustness and out-of-sample hedging efficiency of these strategies. In a nutshell, investors have a choice between a narrow single-factor focus on hedging changes in the level of the yield curve and a broader multifactor focus on hedging changes in the level, slope and curvature of the yield curve. While it intuitively represents a more comprehensive and effective immunization strategy, the latter approach unfortunately typically involves unstable and exceedingly large portfolio weights that lead to poor out-of-sample hedging performance. In what follow, we demonstrate that regularization techniques can solve this conundrum via the introduction of leverage constraints allowing for better behaved hedging portfolios in a multifactor setting. We first present the liability stream to be replicated, the dataset and the empirical protocol that we use. Then, we present the results of the out-of-sample analysis for the hedging strategies considered.
+
+Liability Stream to Be Replicated
+One of the most important applications of bond portfolio immunization strategies is pension liability-hedging, where the focus is on securing replacement income. In this context, the target liability stream to hedge is taken to be the payoff of a retirement bond, a fictitious financial security that pays fixed monthly cash flows starting at a future (retirement) date T. After this date, the stream of monthly cash flows continue for 20 years, which roughly correspond to average life expectancy in retirement.12 The series of 240 (12×20) monthly cash flows starts at a normalized $1 value and grow at a monthly rate g to incorporate an annualized cost-of-living adjustment of 2%.13 We refer the interested reader to Martellini and Milhau (2020) for a detailed analysis of the benefits of retirement bonds, or replicating portfolios for retirement bonds, in retirement investing strategies. A retirement bond is in fact a simplified version of a non-redundant security called retirement SeLFIES (see Merton and Muralidhar 2017, 2020, for arguments in favor of the issuance of such securities), which features an indexation of the cash flows with respect to aggregate per capita consumption to hedge standard-of-living risk.
+
+In the absence of arbitrage opportunities, the fair price for the retirement bond can be obtained as the discounted value of its promised cash flows based on the current sovereign yield curve. Let t denote the current date and g be the growth rate in cash flows representing the cost-of-living adjustment. The N = 240 cash flows occur at dates T, T + 1…,T + N-1 and are discounted at the zero-coupon rates yt,T+h−t, which corresponds to the yield of a zero bond paying $1 T + h-t periods ahead from current time t. With this notation, the no-arbitrage price of the retirement bond at date t is:
+
+Dataset and Empirical Protocol
+In our empirical analysis, we use individual bond price data from the US sovereign debt market. Specifically, we download from Bloomberg historical daily prices for all US Treasury bonds (“T” bond series), along with issuance date, maturity date, coupon rate, coupon frequency, nominal value and name of the issuer.14 Over the sample period, the number of US Treasury bonds is 1,183 in total, and the number of available bonds in a given day ranges from 112 to 312. The minimum time-to-maturity of the bonds available at any point in time ranges from 1 to 31 days, and the maximum time-to-maturity ranges from 25 to 30 years.
+
+To estimate the yield curve, we proceed as follows. Following Diebold and Li (2006) we set the parameter τ in NS model equal to 1.37 = 1/(12 × 0.0609) at all dates, and choose the three remaining parameters that minimize the weighted sum of the absolute deviations between market prices of the US Treasuries and prices implied by the model. Following Gürkaynak, Sack, and Wright (2007), the weights chosen in the objective function are inversely proportional to the duration of each individual security. The reason is that the deviation between the actual and predicted prices of an individual security is approximately equal to its duration multiplied by the deviation between the actual and model implied yields. Thus, this procedure aims to minimize the (unweighted) sum of the absolute deviations between the actual and model implied yields on all of the securities. The resulting yield curve parameters are presented in Figure 1, which are then used to estimate the retirement bond price, its sensitivities relative to the three NS factors, as well as the sensitivities of the bonds used as hedging instruments.
+
+Figure 1. Yield Curve’s Level (Left Panel), Slope (Middle) and Curvature (Right Panel) Nelson–Siegel Model Parameters Estimated from Bond Prices, Assuming a Fixed Shape Parameter Equal to τ = 1.37 = 1/(12 × 0.0609) as in Diebold and Li (2006)
+
+We consider a retirement bond with an initial time-to-maturity of 25 years, with a 5-year accumulation phase, during which no coupons are paid, and a 20-year decumulation period during which income is paid every month.15 Our sample period covers 25 years of historical data from July 3, 1995, to June 30, 2020.
+
+To build the hedging portfolios, on each rebalancing date, we pick the bonds with over one month of remaining time-to-maturity to avoid having to drop bonds in between rebalancing dates. To remove redundant bonds, and try to avoid matrix singularity problems, we sort bonds by duration on each rebalancing date, then we round the duration figures to two digits and remove duplicates (i.e., we remove bonds with almost the same duration). All hedging strategies are rebalanced monthly.
+
+Hedging Performance Measures
+In this exercise, we aim to build a liability-hedging portfolio that replicates as closely as possible the value of the aforementioned retirement bond. To measure the quality of replication by a given hedging strategy, we first measure for each hedging strategy the time variations of its funding ratio, defined as the value of the cumulative total return of the replicating portfolio divided by the cumulative total return of the retirement bond portfolio to be replicated. Intuitively the funding ratio provides an estimate for the coverage level of the liability stream with the assets held in the portfolio. Setting both portfolios to have the same initial value, the initial funding ratio is equal to 100%. A perfect replication would lead to a funding ratio staying constant at 100%, and large changes in the funding ratio indicate the presence of large residual risk in hedging strategies. More generally, a change of x% in the funding ratio implies the same percentage change in terms of the affordable retirement income generated by the hedging portfolio relative to what would be affordable with perfect replication, i.e., with the retirement bond itself. We thus measure the out-of-sample quality of replication with the following indicators:
+
+FR.MEAD: median absolute deviation (with respect to 100%) of the daily funding ratio of the strategy, in percentage points, a measure of average risk.
+
+FR.MAAD: maximum absolute deviation (with respect to 100%) of the daily funding ratio of the strategy, in percentage points, a measure of extreme risk.
+
+Besides measuring deviations in funding ratios, we also characterize the out-of-sample deviations in yield curve factor sensitivities of the hedging strategies relative to the sensitivities of the retirement bond. In particular, we report for all strategies the median and the maximum absolute deviations in the first- and second-order NS factor sensitivities with respect to the corresponding sensitivities for the retirement bond. Intuitively, the first-order sensitivity of a bond portfolio with respect to a given factor (say the slope of the yield curve) represents an estimate of the approximate (positive or negative) change in value of the bond portfolio following a small change in the corresponding factor (say a small steepening or flattening move). In the same spirit, the second-order sensitivity of a bond portfolio with respect to the slope of the yield curve represents an estimate of the approximate change in the first-order sensitivity value of the bond portfolio following a small steepening or flattening move. Incorporating second-order sensitivities in interest rate immunization strategies allows one to obtain a better hedging efficiency in case of a larger change in the value of underlying factors.
+
+We divide the absolute deviations series by the median absolute value of the corresponding sensitivity of the retirement bond, to express them as percentages, thus controlling for differences in scale. In the tables, these median and maximum deviations in first-order factor exposures are denoted as Di.MEAD and Di.MAAD, respectively (for i = 0,1,2), when they apply to the ith factor in NS model. For the deviations in second-order exposures they are denoted DiDj.MEAD and DiDj.MAAD, respectively (for i,j = 0,1,2).
+
+In addition, we report the median and maximum leverage of each strategy over the sample period (denoted Med Lev and Max Lev in the tables). The (gross) leverage of the portfolio x on each date is calculated as in Equation (8). We also report the average one-way monthly turnover (TO), and the average number of constituents (NC) of each hedging portfolio.
+
+Out-of-Sample Performance of Hedging Strategies
+For comparison purposes, first consider two simple single-factor strategies aiming at immunizing changes in portfolio values with respect to changes in the level of interest rates without regularization constraints.16 The first strategy only aims to match the duration of the retirement bond. This “Duration Barbell” strategy is implemented by selecting the bond with the longest duration available at each rebalancing date and the shortest duration bond (“cash”) to make the balance, and its weights are chosen to match the duration of the retirement bond Duration (hence H in Equation (5) is a 2 by 2 matrix in this case). The second strategy matches the Duration and Convexity of the retirement bond at each rebalancing date (see the exact-solution approach in Equation (5)), which requires selecting three bonds. This Duration-Convexity strategy is implemented by selecting the bond with the longest duration, the bond with the median duration, and the bond with the shortest duration (“cash”) among the set available at each rebalancing date. Technically, the weights are calculated on each month end by Equation (5), w
+
+here H is a 3 by 3 matrix containing the Duration and Convexity of the three bonds (stacked with a vector of ones to ensure that the sum of weights equals 1), and the vector D contains the Duration and Convexity of the retirement bond, and the constant 1 (the sum of weights).
+
+Figures 2 and 3 present the time series of the first- and second-order sensitivities to the NS factors of the retirement bond, and of the Duration Barbell and Duration-Convexity strategies. As expected, in the upper-right panel of Figure 2 we observe that these strategies do not exhibit significant deviations in terms of the first-order (FO) sensitivity to the level factor (denoted D0=Fβ0F) at any point in time. Furthermore, in the left panel of Figure 3 we can see that the Duration-Convexity strategy does not present any noticeable deviations in the second-order (SO) sensitivity to the level factor (denoted D0D0), as expected. On the other hand, we observe that the Duration Barbell strategy does present a significant and persistent bias in its second-order sensitivity to the level factor. This can also be observed in Table 2, where we see that the median absolute deviation to the level factor, D0.MEAD, is equal to 1.9% for the Duration Barbell strategy, compared to 0.6% for the Duration-Convexity strategy. Moreover, the maximum absolute deviation in first-order sensitivities to the level factor, D0.MAAD, is 18% for the Duration Barbell strategy compared to 5.2% for the Duration-Convexity strategy.
+
+Figure 2. Funding Ratio and First-Order Sensitivities to the NS Factors of the Retirement Bond (Continuous Line), the Duration Barbell (Dashed Line), and the Duration-Convexity (Dotted Line) strategies implemented with k + 1 Bonds, Where k Is the Number of Factor Sensitivities Matched by the Strategy (2 and 3 for the Duration and Duration-Convexity Strategies, Respectively)
+
+The upper-left panel presents the time series of the funding ratios, the upper-right panel presents the first-order sensitivities to the level factor (D0), the bottom-left panel the first-order sensitivities to the slope factor (D1), and the bottom-right panel presents the first-order sensitivities to the curvature factor (D2).
+
+Figure 3. Second-Order Sensitivities to the NS Factors of the Retirement Bond (Continuous Line), the Duration Barbell (Dashed Line) and the Duration-Convexity (Dotted Line) Strategies Implemented with k + 1 Bonds, Where k Is the Number of Factor Sensitivities Matched by the Strategy (2 and 3 for the Duration and Duration-Convexity Strategies, Respectively)
+
+The left panel presents the time series of the second-order sensitivities to the level factor (D0D0), the middle panel the second-order sensitivities to the slope factor (D1D1), and the bottom-right panel presents the first-order sensitivities to the curvature factor (D2D2).
+
+The larger deviations in the second-order sensitivity to β0 of the Duration Barbell strategy is expected to negatively impact the out-of-sample hedging performance of the strategy in case of large changes in the level of the yield curve between rebalancing dates. Our analysis confirms this intuition since it shows that the Duration-Convexity strategy, which exhibits lower bias in its second-order sensitivity to the level factor, presents a median and a maximum absolute deviation in funding ratio of 11.27% and 14.28%, while the Duration Barbell strategy exhibits a median and maximum deviation of 11.73% and 22.46%, respectively (see Table 1, panel A). The latter imply large levels of uncertainty in the purchasing power of the retirement assets in terms of retirement income.
+
+The lower panels of Figure 2 also show that the Duration Barbell and Duration-Convexity strategies present large and persistent deviations in the first-order (FO) sensitivities to the slope and curvature factors (denoted by D1 and D2), as expected for single-factor immunization strategies that solely focus on changes in the level of interest rates. Indeed, in the first two columns of Table 2 we see that the (scaled) median absolute deviation and maximum absolute deviation in the FO sensitivity to the slope factor (D1.MEAD and D1.MAAD) of the Duration Barbell strategy are 47.0% and 71.1%, respectively, and the corresponding numbers for the Duration-Convexity are 38.8% and 102.4%. Moreover, the median and maximum absolute deviations in the FO sensitivity to the curvature factor (D2.MEAD and D2.MAAD) of the Duration Barbell strategy are 46.1% and 66%, respectively, and 32.9% and 70.1% for the Duration-Convexity strategy. Furthermore, Figure 3 shows that both strategies also present important biases in the second-order sensitivities relative to the slope, and curvature factors, D1D1 and D2D2. Besides, from Figures 2 and 3, note that the biases in all factor sensitivities of the Duration Barbell and Duration-Convexity strategies have opposite signs during most of the sample, and their deviations in terms of funding ratio from the retirement bond, observed in the upper-left panel of Figure 2, also have opposite signs.
+
+The key insight in this analysis is that these single-factor immunization strategies can imply very significant levels of unintended biases in the first- and second-order sensitivities to the slope and curvature factors, as expected since the exposure to these factors are not controlled for by the Duration and Convexity strategies. In contrast, we confirm that a multifactor “NS k + 1” strategy presents relatively low biases in the first-order sensitivities to the three NS factors. As Table 2 shows, the median absolute deviations in its FO sensitivity to the level factors (D0.MEAD) is 1.8% (slightly lower than the respective figure of 1.9% for the Duration Barbell strategy), and the median absolute deviations in its FO sensitivities to the slope and curvature factors are 0.9% and 0.8%, which are significantly lower than the corresponding figures for the Duration Barbell and Duration-Convexity strategies (see the D1.MEAD and D2.MEAD in Table 2 for these two strategies, which are 47%, 38.8%, and 46.1%, 32.9%, respectively).
+
+These results suggest that strategies aiming to match factor exposures beyond the level factor could a priori improve hedging performance. However, we also find that using the exact-solution approach (see Equation 5) to match the FO sensitivities to the three NS factors results in a strategy with an extreme leverage level (see panel A of Table 1). Indeed, the strategy is found to exhibit extremely large deviations from its well-aimed median sensitivities, as reflected in its maximum deviations relative to all the NS factor exposures. Indeed, all the MAAD figures in Table 2 that correspond to the NS k + 1 strategy, are above 161,461, contrasting with the corresponding figures of the other strategies. The extreme variability in its factor exposures is caused by the extreme weights and leverage that results for this strategy using the exact-solution approach. This large instability in factor exposures results in very poor hedging performance (see the NS k + 1 row in Table 1).
+
+To address the conundrum of having either uncontrolled biases in slope and curvature factors exposures, as with Duration and Duration-Convexity strategies, or the extreme instability in factor exposures of the NS k + 1 strategy, we now analyze the performance of a regularization approach (that we call the lasso strategies) which minimize the squared deviations in first- and second-order NS factor exposures under leverage constraints. As observed in Table 2, panel B, the NS lasso strategy implemented with a maximum gross leverage limit (δ¯) of 3, presents lower median and maximum absolute deviations in all NS factor sensitivities than the Duration Barbell strategy and in 16 out of the 18 MEAD and MAAD metrics compared to the Duration-Convexity strategy. The enhanced control in factor exposures implied by leverage constraints translates into an economically significant improvement in hedging performance. As observed in Table 1, the maximum absolute deviations in funding ratio for the Duration Barbell and Duration-Convexity strategies are 22.46% and 14.28%, respectively, while it is only 3.39% for the NS lasso strategy. This represents a remarkable low level of risk, leaving investors with a funding ratio that stays in a narrow (96.61%–103.39%) range. In practice, the improvement in hedging performance net of transaction costs would actually be higher given that the average monthly turnover of the NS lasso strategy is almost four times lower than the turnover of the Duration Barbell strategy, and almost nine times lower than the turnover of the Duration-Convexity strategy.17
+
+We also simulate the NS lasso strategy with a limit on gross leverage (δ¯) of 1, effectively corresponding to a long-only constraint. Comparing panels B and C of Table 1, we can observe that tightening the leverage constraint to its maximum, produced some slight improvement in hedging performance for the strategy. The maximum absolute deviation in funding ratio decreases from 3.39% to 2.92%. These results are in stark contrast with the corresponding numbers obtained for the Duration and Duration-Convexity, of 22.46% and 14.28%. The conclusion from this analysis is that limiting leverage to a reasonable and controlled level in NS factor immunization strategies can induce large improvements in out-of-sample hedging performance. Interestingly, the NS lasso strategy under the leverage limit of 3 does not use all the available leverage budget, since it exhibits a maximum leverage over the period of only 1.53, a number higher than 1 but much lower than the maximum leverage level of 3.48 obtained with the unrestricted Duration-Convexity strategy (see Max Lev column in panel A of Table 1).
+
+Regularized Duration and Convexity Hedging
+To assess the marginal improvement generated by hedging slope and curvature factors, we next consider a regularized version of the single-factor hedging strategies, namely, the Duration-Matching and Duration-Convexity matching strategies. The goal here is to minimize the squared difference between the duration (or duration and convexity) of the hedging portfolio and the retirement bond liability to be replicated, under the constraints of keeping the gross portfolio leverage under 3, and shorting allowed only in “cash”. One key difference between these regularized strategies and the duration strategy (respectively, duration and convexity) tested before, is that the latter requires the selection of a basket of two bonds (respectively, three bonds) to avoid an over-specified problem. On the other hand, in the regularized optimization setting, the strategy can potentially allocate to all the bonds available. As can be observed in Table 2, this so-called Duration lasso strategy presents lower median and maximum absolute deviations in all NS factor sensitivities than the unconstrained Duration Barbell strategy. This reduction in bias and variance of factor exposures is expected to reflect in lower replication error. Indeed, the maximum absolute deviation in funding ratio of the Duration lasso strategy is 3.80% compared to 22.46% for the Duration Barbell strategy (see panels A and B of Table 1), which represents a reduction of almost 6 times the uncertainty around the level of retirement income secured with the bond portfolio. In practice, this improvement in hedging performance would be higher because the strategy involves a remarkable reduction in turnover. The average monthly turnover of the Duration lasso strategy is 8.58% compared to 68.1% for the Duration Barbell strategy.
+
+A similar improvement is observed when comparing the Duration-Convexity lasso strategy (with δ¯=3) with the unrestricted Duration-Convexity strategy. The regularized strategy presents a median and maximum absolute deviation in funding ratio of 2.37% and 3.77%, compared to 11.27% and 14.28% for the unrestricted Duration-Convexity strategy. Furthermore, the Duration-Convexity lasso strategy generates an average turnover of 12.6% compared to 159.93% for the unrestricted strategy. The notable improvement in hedging performance can be explained by the significant decrease in the median and maximum deviations in exposures to the slope and curvature factors. For instance, the median absolute deviation in exposures to the slope and curvature factors for the unrestricted Duration-Convexity strategy are 38.8% and 32.9%, compared to 4.1% and 4.2% for the Duration-Convexity lasso strategy (see Table 2, columns DurConv k + 1 and DurConv lasso, rows D1.MEAD and D2.MEAD). More generally, this regularized strategy presents lower values in all the MEAD and MAAD factor exposure metrics, compared to the unrestricted Duration-Convexity strategy.
+
+It is interesting to notice that the regularized Duration lasso and Duration-Convexity lasso strategies implemented with leverage constraints allow for such a significant improvement in terms of their deviations in factor exposures to the slope and curvature factors, even though they do not explicitly aim to minimize these deviations in their design. Given that the lasso strategies are not restricted to use a subset of the bonds available, they are much less conditioned by the individual characteristics (i.e., yield factor exposures) of the constituent bonds than the unrestricted exact-solution version of the strategy, which leads to enhanced robustness. However, we expect that explicitly targeting factor exposure matching for all 3 factors, as done with the NS lasso strategy, should lead to improved hedging performance. To analyze this, we report in Figures 4 and 5 the time series of first- and second-order sensitivities of the three lasso strategies matching Duration, Duration-Convexity and the NS factor sensitivities. Indeed, the latter strategy presents factor sensitivities that are consistently closer to the ones of the retirement bond liability. Moreover, as observed in Table 2, the NS lasso strategy presents lower values in 13 and 14 out of the 18 MEAD and MAAD metrics compared to the Duration lasso and Duration-Convexity lasso strategies. As expected, this better matching of factor exposures results in an improvement in terms of hedging performance. Indeed, the maximum absolute deviations of the funding ratio for Duration lasso and Duration-Convexity lasso strategies, with a value reaching 3.80% and 3.77%, respectively, are higher than the corresponding measure for the NS lasso strategy at 3.39%, and this for the same leverage limit of 3. Moreover, the median absolute deviations in funding ratio of the Duration lasso and Duration-Convexity lasso strategies, reaching, respectively, 2.05% and 2.37%, is also higher in an economic sense, than the 1.74% value obtained with the NS lasso strategy (see panel B in Table 2).
+
+Figure 4. Funding Ratio and First-Order Sensitivities to the NS Factors of the Retirement Bond (Continuous Line), and the Hedging Strategies Implemented with All the Bonds Available and with a Lasso Regularization that Restricts the Gross Leverage below Three at All Times
+
+Strategies matching Duration, Duration and Convexity, and the strategy matching the first- and second-order sensitivities to the three NS factors. The upper-left panel presents the time series of the funding ratios, the upper-right panel presents the first-order sensitivities to the level factor (D0), the bottom-left panel the first-order sensitivities to the slope factor (D1), and the bottom-right panel presents the first-order sensitivities to the curvature factor (D2).
+
+Figure 5. Second-Order Sensitivities to the Three NS Factors of the Retirement Bond, and of the Hedging Strategies Implemented with All the Bonds Available and with a Lasso Regularization that Restricts the Gross Leverage below Three at All Times
+
+Strategies matching Duration, Duration and Convexity, and the strategy matching the first- and second-order sensitivities to the three NS factors. The left panel presents the time series of the second-order sensitivities to the level factor (D0D0), the middle panel the second-order sensitivities to the slope factor (D1D1), and the right panel presents the second-order sensitivities to the curvature factor (D2D2).
+
+Panel C of Table 1 presents the performance summary for the Duration lasso and Duration-Convexity lasso strategies implemented with the long-only constraint (δ¯=1). In comparison with the long-only NS lasso strategy, we observe a similar pattern, that is, we find that the latter strategy presents an economically meaningful improvement in hedging performance relative to the strategies that only take into account Duration or Duration and Convexity under the same regularized framework. Indeed, the long-only NS lasso presents a FR.MEAD of 0.61% compared to 1.54% and 1.48% for the long-only Duration-Convexity lasso and Duration lasso strategies, respectively. This improvement in hedging performance is also consistent with the lower deviations in factor exposures. We report in Table 3 the median and maximum absolute deviations in the factor sensitives of the lasso strategies matching Duration, Duration-Convexity and NS factors implemented with the long-only constraint (δ¯=1). We find that the long-only NS lasso strategy presents lower or equal values in 14 out of the 18 MEAD and MAAD measurements than the Duration lasso and Duration-Convexity lasso strategies, respectively.
+
+Comparing the corresponding columns in Tables 2 and 3, we note that the Duration lasso strategy implemented with a leverage limit of 3 has lower values in all of the MEAD and MAAD factor exposure deviations compared to the corresponding Duration lasso strategy implemented with zero tolerance for leverage (i.e., δ¯=1). This suggests that a reasonable degree of leverage, if limited and controlled, is expected to improve hedging performance.
+
+Finally, we have also simulated strategies minimizing the squared deviations in the first- and second-order sensitivities of the NS bond price with respect to time. These results suggest that matching the time sensitivities has a negligible effect on the hedging performance of the lasso strategy that takes into account the three NS factors. This is presumably because matching the exposure to a relatively exhaustive set of risk factors implies by the absence of arbitrage a reasonably good matching of expected return components. On the other hand, we find that adding the minimization of deviations in the time sensitivities to strategies matching only Duration or Duration-Convexity with the lasso approach significantly decreases deviations in slope and curvature sensitivities and improves the hedging performance to an economically meaningful extent.18
+
+Conclusion
+Hedging against non-parallel shifts in the yield curve is of major practical importance for institutions like pension funds or insurance companies endowed with long-term liabilities. Indeed, the fair value of a long-term stream of liability cash flows, such as promised pension payments for the beneficiaries of a defined-benefit pension fund, can be obtained as the discounted value of the cash flows. Thus being a complex function of the whole yield curve, an infinite-dimensional risk factor. Fortunately, it has been shown that three main factors, namely, the level, slope, and curvature of the yield curve, explain a large fraction of the changes in the term structure of interest rates. In this context, efficient immunization strategies can be obtained in principle by holding liability-hedging bond portfolios matching at every trading date the exposure of the stream of liability cash flows with respect to changes in these three risk factors to the first and possibly second-order.
+
+In implementation, however, the weights of these hedging portfolios obtained as unconstrained solutions to the yield curve multifactor exposure matching problem, results in extremely large portfolio weights. The latter implies exceedingly high levels of leverage, turnover, and unstable factor exposures between portfolio rebalancing dates.
+
+This paper proposes to address this issue with regularization procedures in the factor exposure matching problem, based on the introduction of a lasso penalty and leverage constraints. These procedures, borrowed from the machine learning literature, have proven effective in addressing the lack of robustness of mean-variance portfolio optimization in equity markets, and this paper shows that they are also helpful in the construction of interest rate hedging strategies. In out-of-sample empirical backtests, we confirm that these generalized immunization strategies offer both a substantial improvement in hedging performance and a strong reduction in leverage and turnover compared to an unconstrained approach to bond portfolio immunization.
+
+Litigation Risk and Stock Return Anomaly
+
+Introduction
+Security class-action litigation grants shareholders the right to sue the company for damages caused by managers’ misconduct.1 The lawsuit is found to be associated with reputation costs (Deng, Willis, and Xu 2014) and inferior stock performances (Gande and Lewis 2009). Ferris et al. (2007) find that, on average, defendant firms experience a significant decline in stock price during the time of the shareholder litigation filing. In this paper, instead of investigating stock market reactions to lawsuits, we focus on how stock performance is associated with ex-ante litigation risk. Litigation risk can affect a firm’s long-term return from different perspectives. On the one hand, if investors demand compensation for holding firms with greater litigation risk, we would expect a priced litigation-risk premium in such securities’ returns. On the other hand, investors may flock to firms with low litigation risk as litigations are value-destroying events that eventually result in abnormal returns among such stocks. Therefore, we seek to provide empirical evidence to answer the question of whether litigation risk represents a systematic risk demanding compensation or an anomalous return that investors can take advantage of.
+
+Previous studies use firm characteristics to predict ex-ante litigation risk. We build our litigation proxy based on the work of Kim and Skinner (2012) in which they find that a linear model consisting of FPS industry dummy (Francis, Philbrick, and Schipper 1994), total assets, sales growth, stock return, return skewness, standard deviation, and share turnover best predicts the realization of a lawsuit. We use the same set of variables and construct the litigation proxy by adopting a dynamic logistic model similar to that of Campbell, Hilscher, and Szilagyi (2008). Figure 1 illustrates the efficacy of our litigation proxies as the litigation-risk measure matches up well with the real lawsuit probability in each year.
+
+Figure 1. Litigation-Risk Measure vs. Real Lawsuit Probability
+
+We then examine the stock performance of the firms with different levels of litigation risk based on the estimated litigation-risk proxy. We find that low-litigation-risk firms significantly outperform high-litigation-risk firms. When firms’ litigation risk decreases by one standard deviation, the stock return on average increases by 6.8% per year. In addition, as shown in Figure 2, a $1 investment in a portfolio of low-litigation-risk firms in 1997 yields $27 at the end of 2018. Meanwhile, a $1 investment in high-litigation-risk firms results in <$6. Moreover, we find that stock returns monotonically decrease as litigation risk increases. The results are inconsistent with the risk-compensation hypothesis and instead suggest an anomalous return similar to the bankruptcy-risk anomaly documented in Campbell, Hilscher, and Szilagyi (2008) and Dichev (1998). Both papers find that future stock returns are inversely related to the bankruptcy or distress risk, while our paper documents a similar relationship for litigation risk.
+
+Figure 2. The Cumulative Wealth of $1 Investment in Different Litigation-Risk Portfolios
+
+Given such a large spread in returns, we further examine the out-of-sample performance for a litigation risk-based trading strategy. We sort stocks into quintiles based on the litigation risk measured at the beginning of the year and rebalance the portfolios every year.2 The monthly alphas from low-litigation-risk portfolios are about 64–71 bps and are highly significant, while the alphas from high-litigation-risk portfolios are statistically indifferent from zero. The arbitrage portfolio that longs low-litigation-risk firms and shorts high-litigation-risk firms delivers an annual alpha of over 8%.3 Moreover, the alpha of long-short portfolios comes mostly from the long leg; hence, the long-short portfolio alpha is less likely to be explained by limits of arbitrage, such as short-sell constraints.
+
+It is reasonable to suspect that the litigation-risk return anomaly is not related to the estimated litigation risk but instead is solely driven by the individual components that we use to construct the litigation-risk proxy. For example, Kim (2013) discovers that the anomaly behind Ohlson (1980)’s O-score is entirely driven by one variable, Funds from Operations divided by Total Liabilities (FFO/TL), and none of the other variables contribute to the prediction of future stock return. To alleviate such concern, we follow Kim (2013) and investigate if any individual variable we use at the litigation-risk estimate stage contributes to the resultant anomalous return. We first calculate the correlation between the seven constructing variables and the future stock returns. We find that all variables except the FPS industry dummy are significantly correlated with stock returns. In addition, all variables appear to equally contribute to the construction of litigation risk, as they are all highly significant in the litigation-risk regression model. The results suggest that our anomalous return is not driven by any single factor but rather is a result of a complex composite of litigation risk. We further test how each constructing variable affects the return anomaly by double-sorting quintile portfolios with each of the seven constructing variables first and then on litigation risk. Within the quintile portfolios for each constructing variable, we then calculate the alpha of the low-minus high-litigation-risk portfolio. On average, the long-short portfolios generate significant alphas, further supporting that the anomalous return is not driven by any individual component.
+
+It is also reasonable to suspect that the inferior performance of a high-litigation-risk portfolio is driven by firms that eventually suffer from actual filings of lawsuits. Therefore we exclude the firms with realizations of lawsuits and we still find highly significant and consistent anomalous returns. Furthermore, we examine whether the litigation-risk anomaly can be explained by existing anomaly factors, such as mispricing, performance, and management factors by Stambaugh, Yu, and Yuan (2015) and Stambaugh and Yuan (2017). We find that those factors can explain only a small portion of litigation-risk anomalous return. The litigation-risk portfolio alphas remain highly significant after controlling for several known anomalies.
+
+Given the finding that the anomalous return of the long-short portfolio comes mainly from the long leg, we then seek to explain the anomalous return for the portfolio of low-litigation-risk firms. Firm litigation risk is not a static measure that remains stable across the sample period; instead, it is a dynamic measure that is updated when additional information set arrives. In other words, firms that are classified as low litigation risk might not always fall into the same category throughout the whole sample period. Migrations into and out of low-(high-)-litigation-risk portfolios are possible. It is then reasonable to question if the anomalous return on the low litigation-risk portfolio could be explained by an investment behavioral bias, such as investor underreaction when firms shift from high litigation risk to low litigation risk quintile. To test this hypothesis, we examine the portfolio performance of firms with consistent low litigation risk.4 We find that the portfolio of consistent low-litigation-risk firms delivers much lower alpha. In addition, firms that are in the bottom litigation-risk quintile throughout the whole sample period do not generate significant alpha at all.
+
+This paper contributes to the literature in three ways. First, our results complement the stream of literature that investigates the impact of litigation on firms’ performance. Shareholder litigation reduces corporate takeover efficiency (Chu and Zhao 2021), discourages firms’ innovation activities (Lin, Liu, and Manso 2016), and leads to a decline in corporate reputation and higher external financing costs (Deng, Willis, and Xu 2014). Instead of focusing on the governance impact of lawsuit filings, we focus on their impact on asset pricing. Thus, this study improves investors’ understanding of litigation risk. We find a negative relation between firms’ stock return and their estimated litigation risk and show that investors may benefit from such an anomaly by constructing an arbitrage long-short portfolio.
+
+Second, our paper provides new insights into the estimations of litigation risk. Existing literature employs industry membership (Francis, Philbrick, and Schipper 1994) or ex-ante firm characteristics (Kim and Skinner 2012) to predict litigation risk. However, these methodologies are subject to measurement error as they fail to address the potential lookahead bias. Building on prior studies, we adopt a dynamic logic model to estimate litigation risk. By augmenting the measure and relying only on data available in the in-sample period,5 this methodology addresses the concerns of lookahead bias and yields more accurate predictions in the out-of-sample test.
+
+Third, contributing to the existing literature on return anomalies, such as bankruptcy risk anomaly (Dichev 1998) and idiosyncratic volatility (Ang et al. 2006), we discover a new anomaly that is related to litigation risk. We find that the litigation risk anomaly is entirely driven by low-risk firms and the long-short portfolio profits mainly from the long leg (low-litigation-risk firms). We provide evidence that investor underreaction might explain the litigation-risk anomalous return, as the shift from high-litigation-risk to the low-litigation-risk group is the main driving force behind the anomalies and such anomalous return diminishes in two years.
+
+More importantly, in this study, we propose a simple methodology to estimate the litigation risk of a firm. Investors may benefit from our model to identify high- and low-litigation-risk firms. We further provide evidence that high-litigation-risk firms do not deliver superior performance. Therefore, investors might not be compensated by investing in firms with additional litigation risks. We then examine the arbitrage opportunity for investors who wish to exploit this litigation-risk anomaly. This anomalous return can be captured with a simple long-short portfolio strategy. We examine the out-of-sample performance of this long-short portfolio. In our sample, this tradeable and executable arbitrage strategy only requires annual rebalancing and it capitalizes on an annual alpha of 8%.
+
+Data and Litigation-Risk Measure
+Data
+The filings on securities-class action lawsuits are obtained from the Stanford Securities Class Action Clearing House (SCAC) and Cornerstone Research. These databases contain abundant information related to class-action lawsuits, including defendants, class period, lawsuit filing dates, lawsuit status, and settlement amounts.
+
+To construct the control variables, we retrieve financial statement items from Compustat and stock return information from the Center for Research in Security Prices (CRSP). After the initial merge, our sample comprises 87,762 observations for 9,738 unique publicly listed U.S. firms in our baseline regressions, with 1,491 firms that have been sued at least once. The sample covers periods from 1997 to 2018. In our sample, 23.8% of these defendant firms belong to the biotechnology, computers, electronics, and retail industries (FPS dummy).
+
+The summary statistics of all firms in our sample are reported in Panel A of Table 1. 1.7% of the firms are sued at some point in our sample, and around one-quarter of the firms being sued is in the FPS sectors. In Panel B, we confirm that our data are similar to that of Kim and Skinner (2012). Compared to non-sued firms, sued firms are more likely to be in the FPS sectors. Sued firms tend to be bigger and have much greater recent sales growth, this is consistent with the argument that large firms and firms with strong growth are more likely to become targets for litigation as such lawsuits are more likely to be settled with high payments. In terms of stock return-based variables, before the lawsuit, sued firms have lower stock returns, lower return skewness, higher return standard deviations, and higher shares turnovers. The result is consistent with the expectation that shareholder damages and unusual turnover related to fraud could potentially trigger security class-action lawsuits.
+
+Litigation-Risk Measure
+Litigation costs have increased in recent years and litigation risk has evolved into a major source of risks to firms. Therefore, a proper estimation of the litigation risk is paramount to study the effect of litigation risk on corporate decisions and stock performance.
+
+There is a large body of research investigating proxies of litigation risk and the predictive power of various litigation-risk measures. Kim and Skinner (2012) compare the predictive power of different models based on variables developed in prior literature and find that a linear model consisting of the FPS industry dummy and the six firm-specific variables identified in Table 1 best predicts lawsuit events. The authors show that the addition of these firm-specific variables to the traditional FPS dummy considerably improves the power in predicting future litigation events.
+
+Following Kim and Skinner (2012), we create a litigation-risk measure by estimating the predicted probability using a logistic regression of lawsuit indicator on the FPS industry dummy and firm-specific variables. Using all firm-year observations in our sample period, we create a security class-action lawsuit indicator (Sued) that equals one in a year in which a firm is sued and zero otherwise. We use the lawsuit indicator as to the dependent variable in the following binomial logistic model:
+The explanatory variables consist of the firm characteristics and stock return-based variables identified as being related to the incidence of the lawsuit. Specifically, we include the FPS industry dummy, firm size (log of total assets), sales growth (change in total sales scaled by total assets), stock return, return skewness, return standard deviation, and share turnover. All variables except the FPS dummy are lagged (measured in the year before the lawsuit filing) as we seek to measure the ex-ante litigation risk, while the contemporaneous variables capture the effects that coincide with the lawsuit and may misrepresent the factors associated with litigation risk.
+
+Finally, we use the predicted probability estimated by the logistic model as the measure of litigation risk. Table 2 reports summary statistics of the litigation-risk measure.
+
+In Panel A, the average litigation-risk measure is 1.7% for firms that are not sued and 3.7% for firms that are sued. The mean and median litigation-risk measures for sued firms are more than double those for non-sued firms. In Panel B, we sort firms into the quintiles on the litigation-risk measure and report summary statistics of the relevant variables. With respect to the realized lawsuits, 0.4% of the firms in the low litigation risk quintile are actually sued in our sample while 4.5% of the firms in the top litigation risk quintile experience lawsuits. This suggests the efficacy of our litigation risk measure. To better understand how well our measure correlates with the actual lawsuit events, we calculate the annual average litigation-risk measure and the percentage of actual lawsuits in each year and plot those values in Figure 1. In Figure 1, we observe that the distributions between the actual and predicted litigation measures are very similar. The litigation risk is underestimated in 2001 and overestimated in 2009 and slightly underestimated in the last few years in our sample period. Overall, we argue that the model successfully captures the broad variation in litigation.
+
+In addition, Panel B of Table 2 shows that about half of high-litigation-risk firms (46%) are in the FPS industries. The average number of firms in the quintile portfolio each year is around 836. Consistent with the literature, we find that high-litigation-risk firms are larger, and they have higher growth, lower contemporary returns, lower return skewness, higher return volatility, and higher turnover. More importantly, we find that firms in the highest risk quintile deliver much lower stock returns than firms in the lowest quintile in the subsequent period. In the next section, we formally test whether litigation risk can predict future stock performance in a cross-sectional and a time-series setting.
+
+Results
+Stock Return and Litigation-Risk Measure
+Instead of examining the ex-post market reaction to actual lawsuit events, we seek to investigate whether the ex-ante litigation risk is associated with future stock performance. We first conduct ordinary least squares (OLS) regressions on the panel data.
+
+The dependent variable in these regressions is the annual Stock Return, and the independent variable of interest is the Litigation Risk Measure estimated by the logistic model. We also sort firms into quintiles based on the level of litigation risk and use the Litigation Risk Quintile indicator, High Risk quintile dummy (which takes a value of 1 if the firms are in the top risk quintile and 0 otherwise), and Low Risk quintile dummy (which takes a value of 1 if the firms are in bottom risk quintile and 0 otherwise) in alternative specifications. In addition to the litigation-risk measure and litigation quintile indicator, we include other stock characteristics to capture the in-sample variation in stock returns. Market beta captures the stock’s systematic risk exposures.6 Size is the market equity controlling for the size effect. Book-to-Market is the book equity-to-market equity ratio capturing the value effect. Return is the annual stock return. Standard Deviation is the standard deviation of return representing volatility. Liquidity is Amihud’s (2002) liquidity measure. All specifications include fixed effects for the firm and year. We cluster the standard errors at both the firm and year levels. Results of this series of regressions are reported in Table 3.
+
+Model 1 indicates that litigation risk is inversely and significantly associated with future stock returns. When firms’ litigation risk reduces by one standard deviation, stock return on average increases by about 9% per year. The litigation-risk quintile indicator in model 2 yields similar results. The coefficient of the quintile indicator is negative and highly significant. In models 3 and 4, the significant coefficients of high-risk and low-risk quintile dummies also suggest that high litigation risk is associated with the low stock return, and low litigation risk leads to high stock return. We find that market beta is negatively related to the future stock return. We also find that past stock return positively predicts future returns on an annual basis which is consistent with stock return momentum.
+
+The Performance of Litigation-Risk Portfolios
+The cross-sectional regressions suggest that litigation risk is inversely associated with future stock performance. We then form tradable portfolios and perform out-of-sample analysis to examine if this anomalous return can be capitalized.
+
+Previously, we construct the litigation-risk measure by running a logit model using data for the whole sample period, and such an approach might suffer from the lookahead bias as all observations are considered in the sample. To eliminate the lookahead bias and examine the out-of-sample portfolio performance of this strategy, we augment the measure and rely only on data available at the time before running the logit model. For example, to estimate the litigation risk for one specific firm at the beginning of 2010, we use all variables, including lawsuit events, available before 2010. Specifically, we first run a logit regression of lawsuit dummy at the year 2009 on the independent variables in a two-year window from the year 2007 to 20087 and record the beta coefficients and constant term from the regressions.8 We then compute the odds ratio by multiplying the betas with the independent variables from the year 2009 and adding back the constant term. We further convert the odds ratio to the predicted probability and assign this probability as the new litigation-risk measure for the stock at the beginning of the year 2010. This measure is lookahead bias-free and it creates a more realistic executable strategy that investors can follow, therefore we rely on this methodology for the rest of the analyses.9
+
+We then sort stocks into quintiles on the litigation-risk measure and examine the out-of-sample portfolio performance, which reflects the economic profits of this litigation risk-based trading strategy that is fully executable from the investor perspective. In Figure 2, we plot the annual cumulative returns based on a $1 investment in each value-weighted portfolio sorted on litigation risk. We find that the return monotonically increases as we move to low litigation- risk-quintiles. The highest litigation-risk portfolio delivers an end value of $6 at the end of the sample period, while the lowest risk firms yield about $27, a return about 4.5 times that for the highest risk firms.
+
+We further calculate the out-of-sample performance of this strategy on a risk-adjusted basis. Specifically, at the beginning of each year, we form quintile portfolios based on the litigation-risk measure. We then hold the portfolio for one year and rebalance the portfolio based on the updated measure at the end of the year. We perform the out-of-sample test on both value-weighted and equal-weighted portfolios. To examine the risk and return profiles, we estimate the risk factor loadings and alphas with respect to the four-factor model proposed by Fama and French (1993) and Carhart (1997) which includes a momentum factor.10 The factor regression results are reported in Table 4.
+
+Columns 1–6 report the value-weighted portfolio results of the four-factor model regressions. In general, the portfolio alpha decreases in a roughly monotonic manner with the increase of litigation risk. The alpha for the lowest risk portfolio is significantly positive at 71 bps per month, while the alpha for the highest risk portfolio is an insignificant 4 bps per month. The long-short portfolio that longs low-risk stocks and shorts high-risk stocks delivers a significant monthly alpha of 67 bps, which converts to an 8% annual alpha. The portfolio alphas are robust with the adjustment for transaction costs. We follow Bessembinder (2003) and estimate the transaction costs using bid-ask spreads as a percentage of the share price. We further calculate the portfolio alpha net of transaction costs. With annual rebalancing, the low-litigation-risk portfolio delivers a significant alpha of 51 bps per month and the high-litigation-risk portfolio generates an insignificant monthly alpha of 2 bps. The monthly net-of-transaction-costs alpha for the long-short portfolio is 49 bps, which converts to a 6% annual alpha.11
+
+In terms of factor loadings, both the lowest and highest litigation risk portfolios have positive and significant loadings on the market factor, but the bottom quintile litigation-risk portfolio has much lower market beta exposures. All except the top litigation risk portfolios have significantly positive loadings on the size factor. All portfolios have significantly positive loadings on the value factor. Last, all portfolios have negative loadings on the momentum factor.
+
+Columns 7–12 report consistent results for equal-weighted portfolios. The bottom litigation risk quintile portfolio delivers a significant alpha of 82 bps per month, and the top quintile generates an insignificant monthly alpha of −2 bps. The long-short portfolio yields a significant alpha of 84 bps per month (an annual alpha of about 10%). We observe similar patterns on the factor loadings as well.
+
+To summarize, we find that the litigation-risk anomaly is pronounced and robust under different model specifications.12 The factor model could not fully explain the anomalous return. The results are robust and the portfolios still deliver significant alphas after considering potential transaction costs. Equal-weighted portfolios present stronger anomalous returns.
+
+Litigation Risk and Constructing Variables
+In previous sections, we follow Kim and Skinner (2012) and use seven firm-specific variables to construct the litigation-risk measure. We find that the out-of-sample long-short portfolio formed on the litigation risk delivers an annual alpha of over 8%, and the anomalous return could not be corrected by the Fama and French (1993) and Carhart (1997) four-factor model. However, there might be concerns that the anomalous return is not driven by the litigation risk but instead stems from a single variable among the seven individual components that are used to construct the litigation-risk measure. A similar argument is made by Kim (2013), which discovers that the anomalous return associated with Dichev (1998)’s bankruptcy risk is entirely driven by one component variable constructing the bankruptcy risk. Dichev (1998) uses Ohlson (1980)’s measure of bankruptcy risk (O-score) and finds that firms with high bankruptcy risk have lower future returns. Given the negative relation between bankruptcy risk and stock return, Dichev (1998) suggests that bankruptcy information is not properly incorporated into the market prices. However, by examining the nine individual components of O-score, Kim (2013) demonstrates that Funds from Operations divided by Total Liabilities (FFO/TL) is the only component that is associated with returns, and none of the other variables contribute to the prediction of future stock returns.13 Therefore, Kim (2013) suggests that the anomaly documented in Dichev (1998) is entirely driven by one individual component constructing the bankruptcy risk instead of the bankruptcy risk itself.
+
+To alleviate such concern, we first adopt a similar setting as in Kim (2013) and examine the correlation between stock returns and the seven variables constructing litigation risk. We then run OLS regressions of stock returns on the seven component variables and report the results in Table 5, Model 1.
+
+We find that all component variables, except for the FPS industry dummy, are significantly related to future stock returns, as all variables except the FPS dummy have significant coefficients. Furthermore, to explore the relative importance of the component variables in predicting litigation risk, we regress the litigation-risk measure on the component variables and report the results in Model 2. All variables including the FPS dummy appear to equally contribute to the construction of litigation risk, as they are all highly significant.
+
+Specifically, we find that firm size, sales growth, and shares turnover are positively and significantly related to litigation risk in Model 2, consistent with the argument that such firms are more susceptible to litigation. Meanwhile, the signs of the coefficients are negative in the return regression in Model 1, which suggests a mechanism that all variables contribute to the low returns on high-litigation-risk stocks. In addition, the coefficient of return skewness is significantly negative in Model 2, which is consistent with the finding that negative skewness is associated with a high probability of litigation. The coefficient sign turns positive in Model 1, this indicates that stocks with negative skewness deliver low average returns.
+
+The regression results confirm that most of the variables in our litigation-risk estimation model contribute to the anomalous return. This litigation-risk return anomaly is not driven by any single factor alone; rather, it is a result of a complex composite of litigation risk.
+
+We construct double-sorting portfolios to further alleviate this concern. We form portfolios by sorting each of the seven constructing variables first and then sorting the litigation-risk measure. Within each quintile portfolio of the seven variables, we calculate the four-factor model alphas for portfolios that long the bottom litigation-risk stocks and short the top litigation-risk stocks. We report the alphas for each quintile in Table 6.14
+
+Panel A reports the alphas for the double-sorting value-weighted portfolios. We find that among the total of 32 long-short litigation-risk portfolios, 30 portfolios consistently produce positive alphas, and 20 portfolios produce statistically positive and significant alphas. For FPS portfolios, the litigation-risk anomalous return is strong for both non-FPS and FPS firms, as both portfolios deliver highly significant long-short litigation-risk portfolio alphas. The non-FPS portfolio produces a monthly alpha of 78 bps, and the FPS portfolio generates a monthly alpha of 68 bps. For the double-sorting portfolios based on sales growth, past return, return skewness, and return standard deviation, we find consistent and significant anomalous returns among many of the portfolios. Specifically, we find that the anomalous return exists regardless of standard deviation as it is equally strong for stocks with low standard deviation and stocks with high standard deviation; the anomaly effect is stronger for stocks with high return skewness, high past return, and low shares turnover. One exception is for quintile portfolios sorted on firm size.
+
+In Panel B of Table 6, we report the double-sorting portfolio alphas using equal-weighted portfolio returns. All portfolios produce positive alphas and 26 of 32 long-short portfolios deliver positive and significant alpha. The results are stronger when using equal-weighted portfolio returns.
+
+Overall, the results provide further evidence that the anomalous return documented in this paper cannot be fully explained by any single constructing variable alone but is a product of a more complex measure that is associated with litigation risk.
+
+Factors That Do Not Explain the Anomalous Return
+Given that security-class action lawsuits could impose significant financial costs and a negative reputational impact on firms, a natural question is whether the anomalous return found in this paper can be explained by the realization of lawsuit events. In particular, if the low performance of a high-litigation-risk portfolio is driven by firms that eventually suffer from actual lawsuits, then we should expect a low or no anomalous return among firms without experiencing actual lawsuits.
+
+To understand how actual lawsuits can affect the anomalous return, we exclude firms that experience actual lawsuits and repeat the factor-model regression analysis in Table 4. We report the out-of-sample value-weighted and equal-weighted portfolio alphas in Table 7. The loadings on risk factors are omitted for brevity.
+
+We still find significant anomalous returns after excluding firms with lawsuits. The alpha of the lowest litigation-risk portfolio remains statistically significant under the four-factor model. The value-weighted long-short litigation-risk portfolio delivers an alpha of 54 bps (6.5%) per month (annum), and the equal-weighted long-short litigation-risk portfolio delivers a highly significant alpha of 74 bps (8.9%) per month (annum). Therefore, our results are not affected by the realization of lawsuit events. Even though the realization of lawsuits could cause a negative stock market reaction, it alone cannot explain this anomalous return.15
+
+Furthermore, we examine whether the litigation-risk anomalous return can be explained by existing anomaly factors. If the source of our anomalous return stems from other existing anomalies, the litigation risk anomalous return should disappear after controlling for other known anomaly factors. We repeat our empirical analysis by including additional anomaly factors, such as mispricing, accrual, and betting against beta factors.
+
+The use of mispricing factors is motivated by Stambaugh, Yu, and Yuan (2012, 2014), Stambaugh, Yu, and Yuan (2015), and Stambaugh and Yuan (2017). The authors point out that the return anomaly literature links anomalous returns to mispricing, and propose using mispricing factors to explain expected returns and anomalous returns. Specifically, Stambaugh and Yuan (2017) construct a Mispricing factor by utilizing a set of 11 anomalies based on Stambaugh, Yu, and Yuan (2012, 2014, 2015).16 Instead of using an individual factor to account for a single anomaly, they aggregate the information across multiple anomalies and find that the aggregated factor represents a less noisy measure of mispricing and could better explain known anomalies. Moreover, Stambaugh and Yuan (2017) take an alternative approach and construct two separate mispricing factors by grouping the 11 anomalies into two clusters based on similarity among anomalies. They denote the first mispricing factor as the Management factor and the second mispricing factor as the Performance factor.17 The authors show that a factor model including the single Mispricing factor or the two separate mispricing factors (Management and Performance) outperforms the existing models (the four-factor model of Hou, Xue, and Zhang 2015 and the five-factor model of Fama and French 2015) in explaining anomalous returns. The models with the addition of mispricing factors can better accommodate a large set of known anomalies and capture return variance. When examining a substantially larger set of 73 anomalies,18 the mispricing models still outperform the Hou, Xue, and Zhang (2015) four-factor model and the Fama and French (2015) five-factor model in explaining anomalies.19
+
+Therefore, we add the mispricing factors to the previous models. We form long-short value-weighted portfolios that long low-litigation-risk firms and short high-litigation-risk firms. We regress the portfolio returns on conventional risk factors and the additional Mispricing factors. The results are reported in Table 8.
+
+We find that the known anomaly factors could not explain the anomalous returns associated with litigation risk. All portfolio alphas remain highly significant after controlling for a large number of known anomalies. When the Mispricing factor is added to the four-factor model, the alpha remains statistically and economically significant at 77 bps for value-weighted portfolio and 79 bps for equal-weighted portfolio. When we add the Performance factor or the Management factor, the portfolio alphas are still statistically and economically significant regardless of weighting methods.
+
+In accounting literature, accruals are found to be associated with litigation risk. Abnormal accruals might link to higher auditor litigation (Heninger 2001) and a higher incidence of shareholder lawsuits (DuCharme, Malatesta, and Sefcik 2004). Additionally, Hirshleifer, Hou, and Teoh (2012) and Wu, Zhang, and Zhang (2010) have documented that accrual is associated with anomalous stock return. There could be concerns that anomalous returns we document with litigation risk might stem from accruals. Therefore, we add an Accrual factor which is the return of the portfolio that longs low accrual firms and shorts the high accrual firms.20 We include this accrual factor in the portfolio factor regressions and the results are reported in Table 8. We find that the litigation risk anomalous return still exists after controlling for the accrual factor. The alphas for the long-short litigation risk portfolio are positive and highly significant. We interpret this result as accruals that could not explain our anomalous return.
+
+In addition, we consider another factor based on beta arbitrage, Betting Against Beta (BAB) factor. BAB is a factor return that long low-beta stocks and short high-beta stocks (Frazzini and Pedersen 2014). We add the factor as an additional risk factor and repeat the litigation risk portfolio factor regressions. The results are also reported in Table 8. We find that the long-short litigation portfolio still generates positive and significant alpha.
+
+To summarize, after controlling for the mispricing factors which account for a large set of anomalies, as well as the accrual factor and the BAB factor, we still find robust anomalous returns driven by litigation risk.21
+
+Discussion
+We find that litigation-risk measures are negatively associated with future stock performance. Investors are not compensated with additional premiums by holding high-litigation-risk firms. In contrast, a portfolio that longs low litigation-risk firms and shorts high litigation-risk firms generates significant anomalous returns. This finding expands the extant literature on return anomalies, such as the failure probability anomaly proposed by Campbell, Hilscher, and Szilagyi (2008) and the bankruptcy risk anomaly proposed by Dichev (1998), in which they find high- (low-) risk firms are associated with low (high) future stock performance. In the literature, the anomalous returns are mainly driven by the short legs and can be explained by the limit of arbitrage theory. Since shorting is costly, these anomalous returns persist over a long horizon. However, in our paper, the litigation-risk anomalous return mainly comes from the long side, as the low-risk firms deliver significant alphas and high-risk firms do not produce negative alphas. Therefore, for investors, this litigation risk anomalous return could be capitalized without having many concerns about short-sell constraints.
+
+We hypothesize that this litigation risk anomalous return is associated with investor awareness. On the one hand, class-action lawsuits occurred 1.7% of the time during our sample period, a relatively less frequent event. Besides, the damage caused by litigation is much smaller than the bankruptcy cost. It is possible that lawsuit events might not catch too much attention of an average investor.22 Therefore, investors’ awareness of litigation risk is low and they might underreact to the anomalous return opportunities associated with low-risk firms.
+
+On the other hand, the litigation-risk literature evolves significantly from using a single industry dummy to proxy for litigation risk (Francis, Philbrick, and Schipper 1994) to using various accounting and financial variables to predict litigation (Johnson, Kasznik, and Nelson 2000; Kim and Skinner 2012). The evolving literature help improves investors’ awareness of litigation risk and possibly contributes to the correction of anomalous return. Therefore, it is also possible that the anomalous returns associated with litigation risk would disappear over time, especially after 2012.
+
+We then test empirically if the litigation risk anomalous return is related to investors' awareness. When a firm’s litigation risk fluctuates, it tends to capture more attention, while investor’s awareness might be low when there is no change in risks. Therefore, we test if the anomalous returns stemming from litigation risk vary between firms that stay at the same level of litigation risk and firms that switch from high (or low) to low (high) litigation risk. If investors tend to underreact to litigation risk and the changes in litigation risk are more likely to capture invests’ attention, then we expect higher anomalous returns to come from firms switching between different risk quintiles, and lower anomalous returns when firms stay in the same risk quintile.
+
+In Model 1 of Table 9, we report the long-short portfolio alpha for a subsample of firms that remain in the same risk quintile during a consecutive two-year period.23 In Model 2, we report the results for firms that are in a different litigation risk quintile compared to the prior year. We report both value-weighted and equal-weighted results and find that the alphas in Model 1 are lower than those in Model 2. The portfolio alphas drop from 67 bps and 84 bps for the full sample (in Table 4) to 52 bps and 51 bps in Model 1 when we only consider firms with a consistent level of litigation risk as the previous year. The results indicate that investors partially correct the mispricing of the stocks over an extended two-year period. When firms shift into a new risk quintile that is different from the previous year, we observe stronger anomalous returns (71 and 106 bps in Model 2 vs. 67 and 84 bps for the full sample in Table 4). Models 3 and 4 present similar results. The long-short portfolio alpha is highly significant when the firms’ risk level changes over time, while the alpha is insignificant if the firms are in the same risk quintile across the whole sample period. Therefore, the results lend support to the argument of investor underreaction as they underreact to litigation risk and take time to partially correct the mispricing due to underreaction.24 In addition, though the evolving literature improves investors’ awareness of litigation risk, we confirm that the anomalous returns do not disappear over our sample period, especially after 2012.25
+
+Robustness Tests
+In this section, we present two robustness tests to mitigate the concerns that our results might be driven by small-firm effects and affected by rare events bias. Panel A of Table 10 reports the results using the sample that excludes firms whose size falls below the 5th percentile.26 We find that the results are similar to those reported in Table 4 and are even larger in scale.
+
+Furthermore, King and Zeng (2001) raise concerns about using logistic regression in event studies when the event probability is low. Compared to the sample in King and Zeng (2001) where the event probability is only 0.3%, our litigation event probability of 1.7% might be less of a concern. Nevertheless, we follow their methodology and test whether the rare event bias could affect our results. Instead of using the regular logistic regression model to estimate litigation risk, we follow King and Zeng (2001) and apply the Firth (1993) logit model in the analysis. The results based on the Firth (1993) logit model are presented in Panel B of Table 10. We find that our results hold after adjusting for rare event bias regardless of the weighting method. Overall, our results confirm that the anomalous returns associated with litigation risk are robust after controlling for size effect and the rare event bias.
+
+Conclusion
+Using a dynamic logistic regression model, we develop a measure that quantifies firm litigation risk. We find that the portfolio of firms with low litigation risk outperforms the portfolio of high litigation-risk firms both in-sample and out-of-sample. The stock returns monotonically decrease as litigation risk increases.
+
+In addition, we report ample evidence that the litigation-risk anomalous return is not driven solely by any single variable that we use to estimate the litigation risk. Instead, all variables used in the litigation-risk estimation model equally contribute to the litigation-risk anomaly.
+
+Furthermore, we investigate if the litigation-risk anomalous return can be explained by existing anomaly factors. After controlling for the accrual factor, the BAB factor, and the mispricing factors which account for a large set of anomalies, we still find robust anomalous returns driven by litigation risk.
+
+Our results expand the extant literature of return anomalies as existing factors fail to explain this litigation risk anomalous return. Investors may benefit from our methodology to identify high litigation risk firms. Investing in high litigation risk firms does not generate satisfying performance. Therefore, investors might not be compensated with additional risk-taking in high litigation risk firm investments. More importantly, we identify an arbitrage opportunity for investors as the out-of-sample portfolio delivers an annual alpha of over 8%. Investors may construct a simple long-short portfolio to exploit this anomalous return. This executable strategy only requires annual rebalancing and the profit mainly derives from the long leg. This strategy delivers a positive and significant annual alpha of 6% if transaction costs are considered. While a risk-based explanation cannot fully explain this anomalous return, we conjecture that investor underreaction might play a role. This finding further improves investors’ understanding of the litigation risk anomaly.
+
+Acknowledgments
+We would like to thank William Goetzmann (executive editor), Luis Garcia-Feijoo (editor), and two anonymous referees for their valuable comments. We also thank Laure de Batz, Vicente Bermejo, Jian Chen, and seminar participants at the 28th Finance Forum, the 37th International Conference of the French Finance Association, and the 3rd Greater China Area Finance Conference for their valuable comments and suggestions. This research is supported through a grant received from the College of Business and Economics at Boise State University. All errors remain our own.
+
+Which Corporate ESG News Does the Market React To?
+
+Introduction
+Every day, environmental, social, and governance (ESG) related news can be found for hundreds of companies as events unfold, and as the media, analysts, regulators, and other stakeholders uncover information. In this paper, we use a unique dataset that creates an ESG news sentiment score by tracking daily ESG news across thousands of companies and examine whether and how investors react to the release of different ESG-related information. This question is an important one as more investors are integrating ESG information in their portfolio management and as ESG news can have a major impact on companies. In addition, more companies are investing resources in improving their performance on ESG issues, and regulators are placing an increasing emphasis on understanding how ESG information flows to the market, seeking to learn how capital-market participants react to this information.
+
+Prior literature examined the market reaction to ESG regulations, eco-friendly initiatives, and engagements (e.g., Flammer 2013; Dimson, Karakaş, and Li 2015; Gloßner 2018; Grewal, Riedl and Serafeim 2019; Naughton, Wang, and Yeung 2019; Gantchev, Giannetti, and Li 2021). In addition, papers such as Krüger (2015) and Capelle-Blancard and Petit (2019) documented that market reacts negatively to both positive and negative ESG news as ESG is dictated by agency motives of captured managers (Cheng, Hong, and Shue 2016). In this paper, we extend the prior literature by providing new evidence on which ESG news the market reacts to and why. We examine this question because we do not know much about which specific ESG news the market would react to, and it is ex-ante unclear whether any prior evidence would be generalizable in recent years for the following reasons. First, prior research conducted small sample analyses on periods when capital markets did not pay nearly as much attention to ESG issues or viewed such issues through an agency-cost lens (Krüger 2015; Ioannou and Serafeim 2015). Indicatively, investment associations such as the United Nations Principles for Responsible Investment (UN PRI) was set up in 2006 and at the time of initiation UN PRI signatories only had a few hundred billion dollars in assets under management in the first few years, but by 2020 the assets under management had surpassed $100 trillion. Therefore, investor awareness around ESG issues was very limited during the sample period of prior work. Second, past research did not differentiate between news on ESG issues that are likely to be financially material for a given industry as there is an increasing buy-in that ESG issues use firm resources and therefore should be related to shareholder value (Khan, Serafeim, and Yoon 2016). Third, the samples analyzed in most of prior work were events identified by human analysts and more limited in range. We use a dataset that uses natural language processing and allows us with a much larger set of companies and events.
+
+We examine whether and how investors react to different types of ESG news using much more recent sample that is orders-of-magnitude larger than those used in prior studies and separate the sample using materiality classifications from the Sustainability Accounting Standards Board (SASB). Our total sample includes 109,014 unique firm–day observations for 3,109 companies with ESG news score between January 2010 and June 2018. The data from Factset TruValue Labs (TVL) track ESG-related information every day across thousands of companies, classify news from different sources to positive or negative, and creates a sentiment score to provide insights on how positive or negative the news is for a firm-day and whether the news is financially material. It draws its data from a wide variety of sources—including reports by analysts, media, advocacy groups, and government regulators—and emphasizes that the measures focus on vetted, reputable, and credible sources that are likely to generate new information and insights for investors. In essence, we are using the ESG news score from TVL data as a proxy for ESG news.
+
+Our primary research design is on a firm-day panel where the dependent variable is the daily market-adjusted stock return, and our key independent variables of interest are indicator variables for positive and negative news on that day based on the news score created by TVL. In addition, we consider the industry-adjusted return as an alternative dependent variable. This daily structure allows us to implement an event-study research design, measuring short-term price reactions to ESG news every day, which helps alleviate reverse-causality concerns and other confounding events unlike the studies that examine long-term returns and corporate performance.
+
+We split the sample according to SASB’s industry-specific materiality classification to test whether investors react more strongly to news that is likely to provide financially material information. The literature has proposed multiple explanations on why investors might react to ESG news. One explanation is that investors react because of their own reputational or nonpecuniary reasons (Baker, Bergstresser, Serafeim, and Wurgler 2018). Under this explanation, ESG information is value irrelevant and therefore financially immaterial. In such a case, we expect the reaction to be significant for any ESG issue regardless of its financial materiality. On the other hand, some papers argued that ESG news convey value-relevant information about a firm’s future growth, risk, and competitive positioning (Khan, Serafeim, and Yoon 2016). In such a case, investors may react to ESG news that could convey financially material information and differently from what the prior literature documented (e.g., Krüger 2015) and positively (negatively) react to positive (negative) ESG news.
+
+Our first set of analyses shows that not all events are associated with significant price reactions. We find significant market reaction only to news classified as financially material based on a company’s industry membership. Specifically, when we examine the firm-dates with at least three news articles, we find significant and positive price reactions for positive ESG news only for the sample classified as financially material ESG issues according to SASB standards.1 On average, the price reaction is 46 basis points on the day of the news and 58 basis points during the 2-day window from the day prior to the day of the news.
+
+Our results increase in economic significance when we restrict the sample to material news that receive more news coverage as identified by TVL (e.g., having more than five ESG articles on that day). We now find that negative news is accompanied by negative price reactions. For example, the market reaction to positive news increases to 192 basis points and the market reaction to negative news increases to 99 basis points. In contrast, we find no price reaction for the sample of ESG news that are not classified as material according to SASB standards regardless of how we restrict our sample. We find results that are just as strong when using the industry-adjusted return as an alternate dependent variable. Overall, our results are supportive of the view that investors differentiate in their reactions based on whether the news is likely to affect a company’s fundamentals, and therefore their reactions are motivated by a financial rather than a nonpecuniary motive.2
+
+When we evaluate the themes of ESG news, we find that news classified under social capital (i.e., news that primarily relates to product impact; the positive and negative impacts that organizations have on customers due to issues such as product safety, quality, affordability, and access) generate the largest and most significant market reactions for both positive and negative news. On average, the price reaction to positive news is 155 basis points on the day of the news and 190 basis points during the 3-day window around the day of the news. This is a particularly interesting finding given that ESG data and ratings contain little information about product impacts with most metrics reflecting operational activities (Serafeim and Trinh 2020). Among other themes, we find smaller but significant reactions for negative natural capital-related news and positive human capital and business model innovation-related news.
+
+Finally, we note that despite significant research efforts have been devoted to analyzing a firm’s ESG activities, the literature has not yet examined how investors react to ESG news after accounting for the existing expectations about a firm’s ESG activities. As a result, we examine whether ESG scores that rate a firm’s ESG performance are associated with future ESG news. Ex-ante, we view that it is unclear whether ESG scores will predict future ESG news because ESG scores may be ignored by investors. This is plausible given the evidence in the literature which casts doubt on the accuracy and validity of ESG scores (Chatterji, Durand, Levine, and Touboul 2016; Berg, Koelbel, and Rigobon 2019). On the other hand, there is a possibility for a positive relationship if the ESG performance scores somewhat accurately capture a firm’s activities and strategies to limit negative ESG events and promote positive ESG events (Serafeim and Yoon 2021).
+
+To operationalize the above, we use MSCI ESG score, which is one of the most widely used ESG performance scores by investors, to proxy for investor expectations about future ESG news and examine its association with future ESG news. We find a strong positive relation between the latest ESG performance score of day t − 1 and ESG news of day t. We then use this prediction model to separate the positive and negative news into predicted and residual components as a function of a firm’s ESG performance score to examine whether stock prices react to unexpected news or also to news predicted by a firm’s ESG score. If the former is true, then investors expect future news to be in line with a firm’s ESG score and impound future news in prices. If the latter is true, either investors do not fully impound future news (which is in line with a firm’s ESG score) in prices, as future news might play a confirmatory role, or investors do not view ESG scores as predictive of future news. We find that investors react to the unexpected component of positive news. Specifically, market reaction to predicted positive news is 37 basis points on the day of the news. Taken together with the results from the prediction model, this set of results suggest that ESG performance scores have predictive ability about future ESG news, and that investors incorporate the predictive component into prices.
+
+We add to the prior literature in the following ways. First and foremost, although some of our results are consistent with the prior literature (i.e., documenting negative reactions to negative news), our overall results paint a different picture about how investors react to ESG news. For example, Krüger (2015) found that investors react negatively to both negative and positive ESG news and Capelle-Blancard and Petit (2019) found that investors react negatively only to negative news. In contrast, we show that investors react positively to positive news and that the reaction is much stronger for positive rather than negative news. We believe the difference in findings is because we examine a period when ESG became much more prevalent than the prior studies and rely on technological advancements that systematically measure ESG news using natural language processing which is an improvement in measurement quality and selection bias compared to papers that relied on a human analyst subjectively codifying ESG news. We view that we contribute to the prior literature by showing that investors react very differently to different ESG news.
+
+Second, our research approach allows us to control for investor expectations about future news based on a firm’s preexisting ESG performance score. We separate the predicted and residual components of ESG news by modeling future news based on a firm’s ESG performance score. The former is the information content that one would expect based on the firm’s ESG performance score, and the latter is the unexpected component of news. The predictive power of ESG performance scores about future ESG news provides new insights into the usefulness of these scores for market participants.
+
+Finally, our paper extends the literature that examined the financial materiality of ESG issues. For example, Khan, Serafeim, and Yoon (2016) found that firms with good ratings on material sustainability issues exhibit superior long term stock returns than firms with poor ratings on these issues but do not find firms with good ratings on immaterial issues outperform firms with poor ratings. We add to this stream of literature by showing that market reacts to financially material information even during a short-term window. In addition, our results suggest that some ESG news contain more value-relevant information than other news and that this information is utilized by market participants. We are able to this via using the TruValue Labs data that provides daily ESG news data as well as classifies ESG news according to financial materiality.
+
+Overall, we view that our results are informative for investment analysis for the following reasons. First, as an increasing number of investors seek to integrate ESG issues in portfolio allocations analysis, news related to ESG issues are likely to generate increasingly meaningful stock price reactions. However, we still know little about which specific issues generate the most meaningful reactions in the presence of news. Our results point to the types of news that generate the largest price reactions, conditional on investor preferences and beliefs over the period of the sample.
+
+Second, and equally importantly, we document that for a large part of our sample, there are no meaningful reactions to corporate ESG news. This is an intriguing finding for the following reasons. First, because this sample is characterized by emerging sustainability accounting standards relating to ESG issues that are not financially material. Thereby, it seems that investor beliefs of the financially materiality of ESG issues overlap with the judgements made by accounting standard setters. This could be interpreted as a validation of the accounting standard setting process, if investor beliefs are exogenous to standards, or as standards shaping investor beliefs, if investor beliefs are endogenous to standards. Second, to the extent that an investor believes that the market is underappreciating the importance of some of those news, this represents an opportunity for further investment analysis, due diligence, and capital deployment. Finally, we consider the analysis by type of news as it reveals important information that investors need as it relates to social capital issues. Such issues could become fertile grounds for deeper investment analysis and product development.
+
+Literature Review and Motivation
+ESG issues in business has been a fast-growing phenomenon and much attention has been paid by companies in recent years. For example, there were a handful of companies that issued reports that included ESG data in the early 1990s. By now, this number has increased to cover most large companies listed around the world. This growing salience of ESG is not unique just to companies but also prevalent in the asset management industry (Kim and Yoon, forthcoming). For example, UN PRI signatories only had a few hundred billion dollars in AUM in the first few years starting in 2006, but the AUM reached $80 trillion by 2019. As such, more companies are investing resources in better communicating their ESG efforts and regulators are placing an increasing emphasis on understanding how ESG information flows to the market, seeking to learn how capital-market participants react to this information.3
+
+There are multiple viewpoints that may lead to different predictions as to how the market would react to ESG news. The first viewpoint is that a firm’s ESG efforts are associated with agency costs because managers enhance their reputation at the expense of shareholders (Friedman 1970; Jensen 2002). The second viewpoint suggests that there may be no reaction to ESG news, because investors may not update their beliefs post ESG news because much is already known through already existing channels (Griffin and Sun 2013). The final viewpoint suggests that ESG information may be related to shareholder value because it may lead to better resources, higher-quality employees, marketing success, but also mitigate the likelihood of stock price crash risk and enhance firm reputation (e.g., Moskowitz 1972; Cochran and Wood 1984; Fombrun 1996; Turban and Greening 1997; Hoepner, Oikonomou, Sautner, Starks, and Zhou 2019). Under this viewpoint, we should expect the market should not only react to ESG news but react positively (negatively) to positive (negative) ESG news.
+
+We argue that market reaction would not only react to ESG news but that this reaction could vary depending on the type of news. For example, Khan, Serafeim, and Yoon (2016) found only a small subset of financially material ESG issues are associated with future stock returns and accounting performance. Similarly, Welch and Yoon (forthcoming) found that ESG enhances shareholder value when there are more satisfied employees. Lastly, Mitchell, Agle, and Wood (1997) suggested that different stakeholders may have varying salience to company operations and Agle, Mitchell, and Sonnenfeld (1999) found that primary stakeholders (e.g., customers transacting directly with the firm) are more salient to shareholders than more distant stakeholders (e.g., natural environment or local communities). Overall, arguments put forward in such papers suggest a possibility that different ESG news in different industries may convey more value-relevant information about a firm’s future growth, risk, and competitive positioning than other information.
+
+Data and Sample
+ESG News Data
+We use TVL data that tracks ESG-related information every day across thousands of companies and classify that news as positive or negative. TVL is used by some of the largest asset managers (e.g., State Street) and asset owners (e.g., Government Pension Investment Fund of Japan) and employs big data and artificial intelligence to capture and analyze unstructured data (Serafeim 2020). Every day, TVL uses artificial-intelligence algorithms to find ESG-relevant articles for each company categorized by ESG-specific issue. SASB has issued industry-specific disclosure standards identifying, for 79 industries, which ESG issues are financially material. In doing so, SASB has identified evidence of interest and financial impact from emerging regulations, disruptions in the environment, changes in consumer preferences, and supply-chain pressures that might generate effects on costs, revenues, assets, liabilities, or costs of financing. TVL uses SASB’s classification of 30 ESG issues to determine whether the news is material or not. We view that this feature of capturing news that are related to financial materiality uniquely complements existing news datasets (e.g., RepRisk and Ravenpack).
+
+TVL does not source news that is coming directly from the company, such as press releases or company reports. Rather, TVL sources news from outside the organization including a wide variety of sources such as analyst reports, various media, advocacy groups, and government regulators to create its news score construct. TVL emphasizes that its measures focus on vetted, reputable, and credible sources that are likely to generate new information and therefore insights for investors. To increase transparency and validate the data, the TVL platform allows a user to track the original source of the articles and events that inform the sentiment analysis for each specific issue. The platform aggregates unstructured data from over 100,000 sources into a continuous stream of ESG data for monitored companies. The cognitive computing system uses natural language processing (NLP) to interpret semantic content and generate analytics scoring data points on performance, using a scale of 0 to 100. A News Score of 50 represents a neutral impact. Scores above 50 indicate positive sentiment, and scores below 50 reflect negative sentiment. For example, Ingersoll Land had positive sentiment following news on the firm’s investments to improve waste and hazardous-materials management, materials sourcing, and product safety. In contrast, Facebook had negative sentiment following news on the firm’s data-privacy issues, concerns about regulatory pressure, and user rights.
+
+The analysis performed by TVL is capable of codifying not only positive versus negative in a binary way, but also degrees of positivity or negativity. For example, the algorithms assign a more negative score to a catastrophic oil spill affecting several workers and communities and a less negative score to a workplace incident that leads to a minor injury for one worker. The algorithms assign such scores in a consistent manner based on the semantic content across data points, so that if there is hypothetically an identical event such as the catastrophic oil spill and an identical discussion of the event in a textual document, the sentiment-based score for such an event would be the same. We view that the capturing of both positive and negative news is also another feature in which TVL data complements existing news datasets that mainly captures negative ESG news as risk events.
+
+ESG Performance Data
+Data on firms’ ESG performance comes from MSCI ESG Ratings. MSCI aggregates the issue data to an overall score, where each issue is weighted according to its assessed materiality in each industry. MSCI ESG Ratings are based on 37 key issues, which correspond to one of ten macro themes that MSCI identifies as concerns to investors. The ten macro themes are climate change, natural capital, pollution and waste, environmental opportunities, human capital, product liability, stakeholder opposition, social opportunities, corporate governance, and corporate behavior. Key issues are annually selected for each of the 156 GICS Subindustries and weighted according to MSCI’s materiality-mapping framework.
+
+We use the MSCI ESG rating as a proxy for the market’s view of ESG performance because it is the most widely used by the investment community. Of the 50 largest asset managers, ranked by assets under management, 46 use the MSCI performance score, with the total number of clients being 1,200+ investment firms. MSCI defines the purpose of its ratings as follows: “to help investors to understand ESG risks and opportunities and integrate these factors into their portfolio construction and management process.” The MSCI-coverage universe is based on major MSCI indices (e.g., the MSCI World Index, the MSCI Emerging Markets Index, MSCI country-specific Investible Market Indices), which include the world’s largest and most liquid stocks.
+
+Other Data
+We use Compustat and CRSP to construct the following variables. We consider the following dates with respect to the news: (1) t − 5 to 5 − 2, (2) t − 1, (3) t, (4) t + 1, and (5) t + 2 to t + 5. This approach enables us to understand when the market reaction occurs—and to detect whether there is any leakage of information during the days preceding the news or any under- or overreaction during the days following it. MA Return is the market-adjusted return during the days relative to the date of the news. For example, MA Return −5, −2 is the cumulative market return between 5 and 2 days before the news minus the cumulative value-weighted market returns during the same period. MA Return −1 is the cumulative market return during the day before the news minus the cumulative value-weighted market return during the same day. IA Return is the industry adjusted return over the days relative to the date of the news (i.e., −5, −2 is cumulative firm returns between 5 and 2 days before the news minus cumulative value-weighted industry returns). Market Capitalization is the beginning-of-day market capitalization for a firm on the day the news article is published.
+
+Sample
+Table 1 Panel A presents the summary statistics for all observations with at least three news articles from TVL. Our total sample includes 109,014 unique firm–day observations with ESG news between January 2010 and June 2018. This sample excludes those firm-dates around earnings announcements (i.e., 5 days around earnings announcement) as earnings announcements could coincide with major news stories that are used in the TVL Data.4 Average MA Return −5, −2, MA Return −1, MA Return 0, MA Return +1, and MA Return +2, +5 are 0.034%, 0.033%, 0.086%, −0.012%, and −0.009%, respectively. Average IA Return −5, −2, IA Return −1, IA Return 0, IA Return +1, and IA Return +2, +5 are −0.003%, 0.024%, 0.077%, −0.022%, and −0.042%, respectively. Average News Score, Article Volume, and Market Cap are 58, 6, and $70 billion, respectively.
+
+Panel B presents the summary statistics for observations with at least three news articles from TVL and classified as material for their respective industry by SASB. Our sample includes 45,578 unique firm–day observations. Average MA Return −5, −2, MA Return −1, MA Return 0, MA Return +1, and MA Return +2, +5 are 0.041%, 0.035%, 0.143%, −0.014%, and −0.009%, respectively, showing that the market reactions are larger for material issues. Average IA Return −5, −2, IA Return −1, IA Return 0, IA Return +1, and IA Return +2, +5 are 0.008%, 0.025%, 0.135%, −0.025%, and −0.042%, respectively. Average News Score, Article Volume, and Market Cap are 57, 5, and $84 billion, respectively.
+
+Table 2 presents the frequency table for all observations with at least three news articles from TVL. Panel A presents the table by year.5 In addition, we provide the observation breakdown by ESG theme as defined by the SASB: (1) social capital, (2) human capital, (3) natural capital, (4) sustainability leadership and governance, and (5) business model and social innovation. Overall, there generally is an increasing trend in the number of observations. Panel B presents the breakdown of observations by industry. We use two-digit GICS industry code for energy, materials, industrials, consumer discretionary, consumer staples, health care, financials, information technology, communication services, utilities, and real estate, respectively. Panel C presents the breakdown of observations by ESG Theme and TVL Classification.
+
+Research Design, Results, and Discussions
+Market Reaction to ESG News
+To examine the market’s reaction to ESG news, we estimate the following firm–day panel:
+
+The dependent variable is daily market-adjusted stock return relative to the news. We consider five separate windows of MA Return as dependent variables. We use four-digit GICS codes to create industry fixed effect and also control for date fixed effect.6 Our key independent variables of interest are Positive News, which indicates the firm-date with News Score above 75, and Negative News, which indicates the firm-date with News Score below 25.7 We choose these thresholds as they represent the top and bottom quartiles of scoring in the TVL method. Control variables are as follows. Log(Market Cap) is the log of beginning-of-day market capitalization for a firm on the day the news article is published. MTB is beginning-of-day market value over book value of equity. ROE is defined as net income over average shareholder equity. Leverage is long-term debt plus current debt over the average of total assets of the current and previous year. Capex/PPE is capital expenditure divided by property plant and equipment. SG&A/Sales is selling, general, and administrative expense over sales. Adv Exp/Sales is advertising expense over sales. R&D/Sales is R&D expense over sales.
+
+Table 3 presents the results from Equation (1). We first consider all observations with at least three news articles from TVL. We use this threshold to ensure that there is a minimum number of articles, because the algorithm used in TVL’s sentiment analysis requires at least a few articles to be accurate. In Panel A, we find that not all events are associated with a significant price reaction. Specifically, we find significant positive price reactions for positive ESG news. On average, the price reaction to positive news is 24 basis points on day zero. However, we do not find significant price reactions for negative ESG news.
+
+Panel B includes observations classified as material by the SASB and with at least three news articles from TVL. We also find significant positive price reactions for positive ESG news, but the economic magnitude of the reactions is much larger than for those presented in Panel A. On average, the price reaction to positive news is 46 basis points on day zero and 58 basis points during the 2-day window between the day prior to the news and the day of. We do not find significant price reactions for negative ESG news, as in Panel A. In Panel C, we take the observations from Panel A but exclude the firm–dates in Panel B that are classified as material by SASB. We find little to no market reaction. Overall, the evidence in Table 3 shows that the market reaction is strongest for material issues.8
+
+In Panel A, we restrict the sample to firm–dates with at least five ESG articles (instead of the three articles in Table 3) that are classified as material by the SASB. We find a much stronger market reaction than in the previous results, presented in Table 3 Panel B. In the first five columns, we assign equal weights to each observation. On average, the price reaction to positive news is 191 basis points on day zero. In addition, we find a market reaction to negative news: the price reaction to negative news is minus 99 basis points on day zero. It is interesting to note that the magnitude of reaction on negative news (i.e., 99 basis points) is significantly greater than the 27 basis points presented in Capelle-Blancard and Petit (2019), which may be due to the growing saliency of ESG information in the recent years in addition to much our larger sample size. In the last five columns, we weigh each observation by its beginning of date market capitalization. On average, the price reaction to positive news is 25 basis points on day zero. Also, the price reaction to negative news is minus 31 basis points on day zero. Overall, we confirm the phenomenon from Table 3 and observe that negative news tends to trigger significant negative reactions for firms that receive more news coverage (i.e., measured as a higher ESG article volume on that day).
+
+In Table 4 Panel B, we further restrict our sample to only include the firm–date observations with more than seven material ESG articles. Not surprisingly, our results are even stronger than those presented in Table 4 Panel A. When we assign equal weights to each observation, we find that positive news generates 1-day market-adjusted reactions of 279 basis points. We find that negative news generates a market reaction of minus 149 basis points, but fails to achieve strong statistical significance (t-stat: −1.46). When we value-weigh each observation using the beginning-of-day market cap, we find that positive news generates 1-day market-adjusted reactions of 42 basis points and that negative news generates 1-day reactions of minus 52 basis points.
+
+Market Reaction to ESG News by ESG Theme
+In Table 5, we segment the sample by ESG theme (i.e., social capital, human capital, natural capital, sustainability governance and leadership, and business model and social innovation) as defined by SASB and estimate our main specification (Equation (1)) for each theme separately. We find that the largest reactions are generated by news related to social-capital issues. These news primarily relate to product impact; the positive and negative impacts that organizations have on customers due to issues such as product safety, quality, affordability and access (see Table 2 Panel C). This is a particularly interesting finding given that ESG data and ratings contain little information about product impacts with most metrics reflecting operational activities (Serafeim and Trinh 2020). Specifically, positive social-capital news generates 1-day market-adjusted reactions of 155 basis points and 191 basis points during the 3-day window around the day of the news. On the other hand, negative social-capital news generates a 1-day reaction of minus 125 basis points.
+
+For positive human-capital issues, we find aggregate positive reactions of 18 basis points during 1 day before to 1 day after the news event. We do not find a significant market reaction to negative human capital issues. For natural capital issues, negative news generates negative 18 basis points of market reaction on the day of the news. The negative reaction is in line with the topic covered in natural capital news (e.g., news related to air quality, waste and hazardous materials, and emission: see Table 2 Panel C for details). Reactions to news related to sustainability governance and leadership are insignificant. For positive news on business model and social innovation, we find 1-day market-adjusted reactions of 37 basis points, but we do not find any market reactions to negative news on the day of the news.
+
+We use the most granular TVL classification (see Table 2, Panel C) and investigate specific which news topics drive the market reaction. Figure 1 tabulates the market reactions for day zero for those topics that are statistically significant, both for positive and negative news. Positive news related to product quality and safety (human rights and community relations) are associated with positive market reaction of 4.5% (3.2%). Negative news related to customer welfare (product quality and safety) is associated with a negative market reaction of −3.9 (−2.6%). Negative news about GHG emissions (Scope 1 emissions) or Energy Management (Scope 2 emissions) are associated with a market reaction of −1.0 and −1.6% respectively, but we observe offsetting market reactions before the event, so we interpret this result with caution as they could be attributed to short-term price reversals.
+
+Figure 1. Market Adjusted Stock Price Reactions by TVL Classification
+
+Market Reaction to Expected and Unexpected News
+In this section, we follow the prior literature and control for the market expectation of ESG. Specifically, we follow Serafeim and Yoon (2021) and examine News Score as a function of a firm’s previous-day ESG performance score. We separate the positive and negative news into predicted and residual components and examine each components’ association to the market reaction. We estimate the following model as the first stage:
+
+where ESG Scorei,t−1 is the latest ESG performance score from MSCI and all other variables are as in Equation (1). Then, we take the predicted and residual components of positive and negative news and estimate the following second-stage model:
+
+Positive News Predicted takes the value of one for a firm–date if the news relates to positive ESG news and if the predicted news score from Equation (2) is in the top quartile. Positive News Residual takes the value of one for a firm–date if the news relates to positive ESG news and if the residual news score from Equation (2) is in the top quartile. As for the negative scores, Negative News Predicted takes the value of one for a firm–date if the news relates to negative ESG news and the predicted news score from Equation (2) is in the bottom quartile, and Negative News Residual takes the value of one for a firm–date if the news relates to negative ESG news and the residual news score from the same equation is in the bottom quartile.
+
+Table 6 presents the results from above two equations. Table 6 Panel A considers Equation (2) on the firm–date observations with at least three news articles on material issues. We find that the latest ESG Score from MSCI predicts future ESG news. We then take the predicted and residual components of positive and negative news as in the previous paragraph and consider Equation (3). Table 6 Panel B presents the results where we find that market does not react to news that are predicted by latest ESG performance score but only react to unexpected news. Specifically, unexpected positive news generates 1-day market-adjusted reactions of 37 basis points and 2-day market adjusted reaction of 49 basis points during the day prior and the day of the news. This suggests that the market already has a good understanding of ESG news that relates to firm ESG performance as proxied by ESG rating and respond only to the incremental information in ESG news. 9
+
+Industry Adjusted Returns
+So far, we have used market-adjusted returns to measure abnormal price reactions. However, it could be the case that industry membership might be confounding the relation between ESG news and market reactions. To assess how our results might be influenced when we adjust for industry membership, we use industry-adjusted returns as an alternate dependent variable. We note that the downside of this approach is that if the news for a focal firm also affects other firms in the industry, we might be controlling for the effect we are trying to document. We consider the following specification:
+
+The dependent variable is the daily industry-adjusted stock return relative to the news. As in Equation (1), we consider five separate dependent variables that relates to different time windows around the news. The difference from Equation (1) is that this specification excludes industry fixed effects and adjusts the return directly.
+
+In Appendix Table 1 Panel A, we consider all observations with at least three news articles and use industry-adjusted returns as the dependent variable. Like Table 3, our main table using market adjusted return, we find significant positive price reactions for positive ESG news. On average, the price reaction to positive news is 25 basis points on day zero and 31 basis points in the 2-day window comprising the previous day and day zero. However, we do not find significant price reactions for negative ESG news. Panel B includes observations classified as material by the SASB. We also find significant positive price reactions for positive ESG news, but the economic magnitude of the reactions is much larger than that in Panel A. On average, the price reaction to positive news is 49 basis points on day zero and 63 basis points during the 2-day window between the day prior to and the day of the news. In Panel C, we take observations from Panel A, excluding the firm-dates that are classified as material by SASB, and we find little to no market reaction. On average the price reaction to positive news is 6 basis points during the 2-day window between the day prior to and the day of the news.
+
+In Appendix Table 2, we restrict the sample to firm–date observations with five ESG articles (instead of three articles) that are classified as material by SASB. We find a much stronger market reaction than in the results presented in Appendix Table 1. In the first five columns, we assign equal weights to each observation. On average the price reaction to positive news is 195 basis points on day zero and 225 basis points during the 2-day window between the day prior to and the day of the news. In addition, we find a market reaction to negative news: the price reaction to negative news is minus 102 basis points on day zero. In the last five columns, we weigh each observation by its beginning-of-date market capitalization. On average, the price reaction to positive news is 33 basis points on day zero and the price reaction to negative news is minus 21 basis points on day zero. Overall, the above results corroborate significant market reactions to ESG news.
+
+Conclusion
+In this paper, we examine stock-price reactions to ESG news and whether the news can be predicted by firm-specific ESG performance scores. This is an important question because more investors are integrating ESG information in their portfolio, more companies are investing resources in improving their performance on ESG issues, and regulators are placing an increasing emphasis on understanding how ESG information is flowing to the market and seeking evidence to understand how capital-market participants react to this information. To answer this question, we use a unique dataset from TVL that tracks ESG-related information every day across thousands of companies, and we classify news as positive or negative.
+
+This dataset provides us with the following advantages over important recent literature. First, the recent technological advancements that systematically measure ESG-related news allow us to mitigate concerns about measurement quality and selection bias. Second, we can implement an event-study research design, measuring short-term price reactions to ESG news every day, which helps us to mitigate reverse-causality concerns and other confounding events. Third, our sample is orders-of-magnitude larger in size compared to prior studies, increasing the generalizability of our results. Fourth, we conduct our analyses during a recent time period, which helps generalize our results. Fifth, our dataset classifies ESG news into those that are financially material or not.
+
+Our findings can be summarized as follows. Stock prices only react to the news on ESG issues that are classified as financially material for a given industry by the SASB, suggesting that investors respond selectively to news. This price reaction is larger for ESG news that is positive, receives more news coverage, and relates to social capital issues relative to natural or human capital issues. This last point is of particular importance given the relative lack of ESG data related to social capital issues. Finally, we use a prediction model based on preexisting ESG ratings and separate ESG news into expected and unexpected components. We find that the market reaction comes from unexpected news.
+
+Future research could examine several important questions. How do the results we document here vary around the world? Do country institutions shape how markets react to ESG news? What is the relationship between firm disclosures and ESG news? How do firms respond in the presence of significant ESG news? Answering these questions is likely to generate useful insights.
+
+Investment Professional of the Future
+
+As the investment industry undergoes accelerating change, the investment professional of
+the future must adapt and embrace new challenges and opportunities for career success.
+This report considers how investment industry roles, skills, and careers (the employee’s
+lens) and the organizational context and culture (the employer’s lens) are shaping the
+attributes of the investment professional of the future.
+
+We look out over the next 5-10 years, and define “core investment professionals” as
+those working in investment industry roles involved with making investment decisions
+and understanding client needs.
+More than 4,000 individuals provided input to this report. Quantitative inputs are
+described in About the Report, and qualitative inputs came from more than 100
+participants in industry roundtables held in Abu Dhabi, Dubai, Hong Kong, London,
+Mumbai, and Shanghai and individual interviews.
+
+Industry Trends and Size
+• The total number of core investment professionals is estimated to be approximately
+1.05 million.
+• Expectations are for a 1.5% compound annual growth rate (CAGR) in head count over
+the next 10 years. India is expected to have the highest growth rate—2.9% CAGR
+versus 2.3% in China, 1.0% in the United Kingdom, and 0.9% in the United States.
+• The pipeline of CFA Program candidates remains strong, with an 18% CAGR over the
+last three years, driven primarily by growth in Asia. There are currently more than
+300,000 CFA Program candidates globally.
+• Globally, 75% of survey participants are proud to be associated with their industry
+(70% of members and 78% of candidates). However, only 40% of members and 46%
+of candidates are committed to a career in the investment industry.
+• Compensation levels are expected to be relatively stable in real terms over the next
+5–10 years.
+• The two trends most cited as driving change in the roles of investment
+professionals are (1) machine learning, AI methods, and alternative data for portfolio
+construction and (2) solutions investing and greater customer need integration.
+
+About the Report
+Unless otherwise noted, data in the
+report are from surveys conducted from
+18 January 2019 to 1 March 2019.
+The CFA Institute member/candidate
+survey on skills, experience, and
+motivations includes 3,832 responses
+with a margin of error of +/-1.6%. The
+respondents have 23 different funtional
+roles. Overall, respondents come from
+the Americas (29%), Asia Pacific (33%),
+and Europe, Middle East and Africa
+(38%); 72% are men and 27% are women
+with 1% unspecified. In terms of client
+base, 46% work with institutions, 39%
+work with individuals, and for 15%, it is
+not applicable.
+CFA Institute members are 24% of the
+total, and 96% are currently working in
+the investment industry.
+CFA candidates represent 76% of the
+total, and 75% are currently working in
+the investment industry.
+The industry leader opinion survey
+includes 133 responses, with a margin
+of error of +/-8%. Respondents come
+from the Americas (43%), Asia Pacific
+(21%), and Europe, Middle East and
+Africa (36%).
+
+Changing Roles
+Adaptability is essential: 89% of industry
+leaders agree that “individuals’ roles will
+be transformed multiple times during their
+careers; adaptability and lifelong learning
+will be the most essential skills.”
+Change is anticipated: 43% of investment
+professionals think the role they perform
+today will be substantially different in 5–10
+years’ time.
+AI+HI will become the norm: Significant
+professional roles at the investment firms
+of the future will include investment roles,
+technology roles, and innovation roles.
+“AI+HI” denotes the interaction of artificial
+intelligence (AI) and human intelligence
+(HI). For certain interactions, the combined
+model adds more value than either
+component alone because it leverages
+the benefits of both. Ethical orientation,
+transparency, communication, empathy,
+tacit knowledge, and trust interaction are
+the key human elements that technology
+cannot (yet) reproduce.
+Teams will dominate: A preference for
+portfolio management teams and a
+reduced reliance on star portfolio managers
+have prompted a focus on workforce
+diversity to improve decision making.
+Work–life integration is the goal:
+Technology blurs boundaries between
+“work” and “life,” and professionals seek to
+move beyond work–life balance to work–
+life integration.
+Asia Pacific growth continues: Asia will
+exhibit higher demand for investment
+professionals. China will experience
+multinationals establishing foreign
+majority–owned asset management firms
+and large international asset managers
+forming wholly owned subsidiaries.
+India—because of the increasing demand
+for financial services, its strong economic
+growth, and its number of capable
+engineers—could become the world’s
+investment hub
+
+Changing Skills and Careers
+More investment professionals
+are motivated by learning than by
+compensation: Investment professionals
+are motivated most by having interesting
+work (65%), learning new things (63%), and
+having competitive compensation and
+benefits (51%). Key reasons to leave an
+employer are compensation and benefits
+(61%), not working for a good team or
+supervisor (58%), and not having
+interesting work (51%).
+Soft skills is the topic most pursued
+across all career phases: Early career
+professionals also favor portfolio risk
+optimization and data interpretation. In
+later-career phases, sustainability and
+alternative investments are prioritized
+more highly.
+T-shaped skills are valued: T-shaped
+people are subject matter experts, they
+adapt to changing environments, and they
+can work across disciplines, which includes
+being at ease with technology. Traditional
+learning and learning by doing both
+contribute. Investment industry leaders
+rank T-shaped skills as the most important
+future skill category (49% rank these first),
+followed by leadership skills (21%), soft
+skills (16%), and technical skills (14%).
+Many important skills are difficult to find:
+The most important skills in each category
+are solutions skills, creativity/innovation
+skills, ability to articulate mission and
+vision, and situational fluency/adaptability.
+Creativity/innovation skills, ability to
+connect across disciplines, and solutions
+skills are the most difficult to find.
+Time spent in on-the-job learning is
+high: CFA candidates spend 38% of their
+working time learning new things. More
+experienced CFA Institute members still
+spend 25% of their time on new work.
+Career catalysts exist: These include
+mentors and sponsors, career roadmaps,
+acquired diversity, and a network of
+contacts.
+
+Changing Cultures and
+Organizational Context
+The world of work is changing: 77% of
+investment leaders expect the industry’s
+world of work to change more than it did
+in the past 10 years. We define the world
+of work as overall workplace features,
+roles and skills, work methods, and
+compensation and incentives.
+Firms are managing the employee
+experience more: Employee experience
+will become a more common lever for
+organizations to differentiate themselves,
+including a commitment to an increased
+per-employee investment in training
+programs.
+Workplace design is an enabler of
+culture: Workplace design focuses
+on functional elements (e.g., the
+environment, layout, and the quality of
+any enhancements in the workplace) but
+influences all aspects of the employee
+experience.
+Technology will change cultures:
+Because a group’s collective intelligence
+will matter more than individual
+intelligence, investment firms will
+increasingly favor teams supported by
+technology. Organizations will seek to
+use technology to enhance human roles
+with some net cost and efficiency gains.
+Technology opportunities will cause role
+displacement, creating challenges as
+leaders manage the cultural transition.
+Training will increase: 60% of industry
+leaders surveyed expect firms to increase
+training and development. Organizations
+recognize the need to continuously upskill
+professionals to remain effective. Benefits
+of providing ongoing learning opportunities
+include higher-quality analytical work,
+deeper client engagements, retention of a
+firm’s best people, and a stronger bench
+of talent. People who develop a deep
+expertise stay longer because their key
+development needs are being met.
+
+A Roadmap for Investment
+Professionals
+KEEP LEARNING AND ADAPTING
+Use the career flywheel. An effective career flywheel sustains its momentum through
+a series of well-executed and well-timed interventions and adaptations on the career
+journey. Career paths today vary more than in the past, and employers are less likely to
+prescribe a preferred path. The critical success factors are maintaining a learning and
+growth mindset, building a “give and get” alliance with each employer, and having healthy
+work–life integration.
+INVEST IN NEW ERA SKILLS
+Apply the skills pathway. At the start of a career, build a technical edge. Blend in
+soft skills for mid-career effectiveness. Add leadership skills that produce value from
+influences on others. Make connections, and develop lateral thinking (i.e., T-shaped skills).
+Think of a portfolio of these skills, and take career planning to more detailed and forwardthinking levels.
+BE TECH-SAVVY
+Navigate and harness technology. The ability to work with technology is a necessity for
+all professionals. The success of AI+HI applications will be dependent on T-shaped teams
+with shared team space and shared language. The opportunities for specialist roles in
+technology to build financial context into technology development and deployment are
+particularly significant.
+
+A Roadmap for Investment
+Organizations
+ENHANCE EMPLOYEE EXPERIENCE
+Cultivate stronger culture. The view that a company can take specific actions that both
+increase profits and improve the economic and social conditions in the communities
+where it operates is a new societal norm that is likely to progress further in the next 5–10
+years. Managing culture involves deliberate strategy and leadership action to establish
+cultural signatures that are particularly motivational and sustainable.
+INVEST IN EMPOWERING LEADERSHIP
+Communicate. The workplace of the future must respect the whole-life considerations of
+employees and calls for greater emotional intelligence than has ever been needed before.
+This change will require openness and for the communication abilities of organizations to
+become more authentic, inclusive, and empathetic.
+BE CHANGE-SAVVY
+Transform your worldview. There is only one way to progress—become a firm that
+uses technology and innovation effectively alongside talent and strong culture. The
+opportunities for innovation in the workplace are considerable when leaders broaden their
+frame of reference and become more T-shaped in their understanding of technology.

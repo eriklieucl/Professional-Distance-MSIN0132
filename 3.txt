@@ -1,0 +1,848 @@
+Statistics, Biostatistics Degree Growth Continued in 2021
+
+Surge in Master’s in Business Statistics Accentuates Demand for Data Science, Analytics Skills
+
+The number of master’s degrees in business statistics awarded annually increased from 37 in 2010 to nearly 3,000 in 2021, paralleling the growth in bachelor’s and master’s degrees in statistics and biostatistics over the last couple decades. Similarly, the number of universities awarding the business statistics degree increased from 4 to 55 in the same period, according to the latest preliminary data release for 2021 degree completions from the National Center for Education Statistics.
+
+The NCES 2021 degree data also shows the growth in undergraduate and master’s degrees in statistics and biostatistics over the last decades continues strong. For 2020 to 2021, bachelor’s degrees grew 7 percent to 5,340 (49 of which are for biostatistics) and master’s degrees grew 5 percent to 5,128 (917 for biostatistics), as seen in Figure 1. Doctoral degrees in statistics and biostatistics declined 6 percent to 689 (222 for biostatistics), consistent with the National Center for Science and Engineering Statistics finding that “the total number of doctorate recipients in the 2020–21 academic year declined by 5.4 percent from previous years.”
+
+Figure 1: Statistics and biostatistics degrees at the bachelor’s, master’s, and doctoral levels in the United States for 1990–2021
+
+Figure 2: Biostatistics degrees by degree level awarded in the United States
+
+Figure 3: Statistics degrees by degree level awarded in the United States
+
+While the growth of bachelor’s degrees is dominated by statistics—and the overall number of master’s and doctoral degrees is two to five times greater for statistics than biostatistics—the percentage growth in graduate degrees for both fields has been roughly similar since 2010, as seen in Figures 2 and 3.
+
+The orders-of-magnitude growth in master’s degrees in business statistics is also seen by two other NCES Classification of Instructional Programs (CIP) codes used for master’s programs in data science and analytics since before the introduction of a CIP code specific to data science in 2020. As shown in Figure 4, the number of master’s degrees in data modeling/warehousing and database administration and in computational science has grown markedly over the last seven years.
+
+The nascent data science CIP code, also shown in Figure 4, does not seem to have substantially affected the number of master’s degrees reported in the other three categories since its introduction for the 2020 degree reporting. A possible mitigating factor is that the Department of Homeland Security did not include the data science CIP code in its STEM Designated Degree Program List until early 2022. The list is used by DHS to determine eligibility for the 24-month STEM optional practical training extension.
+
+The number of universities using the CIP code for data science is still modest. For bachelor’s degrees, the number increased from 13 in 2020 to 31 in 2021. For master’s, it increased from 12 in 2020 to 17 in 2021. The number of bachelor’s degrees awarded in data science was 84 in 2020 and 165 in 2021.
+
+Figure 4: Master’s degrees awarded from 2010 to 2021 for three Classification of Instructional Programs categories commonly used by new data science/analytics programs. The graph also shows the number of master’s degrees awarded in 2020 and 2021 using the new classification code for data science.
+
+Figure 5: The number of universities granting statistics and biostatistics master’s and bachelor’s degrees
+Compiled from NCES IPEDS data
+
+Figure 6: The number of universities granting statistics and biostatistics PhDs
+Compiled from NCES IPEDS data
+
+The increase in the number of universities granting statistics and biostatistics degrees also continues steadily, as seen in Figures 5 and 6. From 2020 to 2021, those granting bachelor’s degrees in statistics increased from 159 to 176, master’s degrees in statistics increased from 159 to 162, and doctoral degrees in statistics increased from 72 to 75. Master’s degrees in biostatistics increased from 47 to 51, and doctoral degrees in biostatistics increased from 67 to 70. Eight universities granted biostatistics degrees at the bachelor’s level in 2021.
+
+The following 31 universities granted statistics and biostatistics degrees for the first time (at least since 2003) in 2021:
+
+Bachelor’s degrees in statistics (14): Bradley University; Brigham Young University-Idaho; Eastern Washington University; Edinboro University of Pennsylvania; Husson University; Lake Forest College; High Point University; Northern Illinois University; The Ohio State University-Main Campus; University of Missouri-Kansas City; Villanova University; Washington University in St. Louis; Wayne State University; and William & Mary
+
+Bachelor’s degrees in biostatistics (1): Indiana University-Purdue University-Indianapolis
+
+Master’s degrees in statistics (5): Saint John Fisher College; University of Missouri-Kansas City; University of North Carolina at Greensboro; San Francisco State University; and Thomas Edison State University
+
+Master’s degrees in biostatistics (3): University of Memphis; University of Nevada-Reno; University of Wisconsin-Milwaukee
+
+PhD in statistics (3): Harrisburg University of Science and Technology; New York University; and University of Nevada-Reno
+
+PhD in biostatistics (5): University of California-San Diego; Georgetown University; Saint Louis University; The University of Tennessee Health Science Center; and University of Delaware
+
+Tables 1–5—Top Five Universities Granting Statistics and Biostatistics Degrees for 2017–2021
+* The University of Michigan master’s in statistics number in 2021 includes 86 in applied statistics.
+Click on the tables to enlarge.
+
+Demographics
+Following our practice of alternating demographics updates, we look at the breakdown of degrees for race and ethnicity data and by nonresident aliens and US citizens or residents this year. Last year’s update, which was based on 2020 degree data, had figures for the percentage of statistics and biostatistics degrees earned by gender. The degree data files with degrees by gender have been updated with the 2021 data.
+
+As shown in Figure 6, the percentage of master’s and doctoral degrees in statistics awarded in recent years to nonresident aliens is near 60 percent and 70 percent, respectively. For the same degree levels in biostatistics, it is in the range of 50–55 percent. The percentage for bachelor’s degrees in statistics ticked up a couple percentage points to 33 percent for 2020 and 2021 over the previous several years.
+
+Figure 7: Percentage of statistics and biostatistics degrees earned by nonresident aliens
+Source: NCES IPED
+
+The NCES has race and ethnicity data for the degrees granted to US citizens or residents but not for nonresident aliens. Table 6 shows the race and ethnicity breakdown of the US citizens and residents averaged for 2011–2021. For the five degrees—not including biostatistics bachelor’s, for which the numbers are small—the percentage of degrees earned by those who report their race as American Indian or Alaska Native (AIAN) is essentially 0 percent. For those identifying as Asian (ASIA), the percentage is in the range of 18–27 percent. It is 3–6 percent for those identifying as Black or African American (BKAA). The percentage for individuals of Native Hawaiian or Other Pacific Islander (NHPI) descent is 0–1 percent. The percentage for those individuals who identify as white (WHIT) is 55–62 percent and, for individuals who report two or more races (2MOR), it is 1–4 percent. For those identifying ethnicity as Hispanic or Latino (HISP), the percentage is 4–8 percent. Finally, the percentage for those reporting race/ethnicity as unknown (UNKN) is 3–9 percent.
+
+Table 6—Degrees Earned by NCES Race/Ethnicity Group and Degree Level, Averaged Over 2011–2021, as a Percentage of Degrees Earned by US Citizens or Residents
+Source: NCES IPED
+Click on the table to enlarge.
+
+Table 7—Number of Degrees Awarded to African Americans or Blacks Who Are US Citizens or Permanent Residents by Degree Level, Along with Percentage of Such Degrees to US Citizens or Residents
+Click on the table to enlarge.
+
+Table 8—Degrees Awarded to Hispanics or Latinos Who Are US Citizens or Permanent Residents by Degree Level, Along with Percentage of Such Degrees to US Citizens or Residents
+Click on the table to enlarge.
+
+To better understand the percentages in Table 6, consider Tables 7 and 8, which are time series for two under-represented minorities by degree level. For African Americans or Blacks who are US citizens or permanent residents, the number of doctoral degrees earned are in the single digits and seemingly a declining percentage of overall degrees awarded to US citizens or permanent residents. For the bachelor’s level, there seems to be an increase in the number of degrees, but not an increase in the percentage of overall degrees earned by US citizens or permanent residents. See Figures 8 and 9.
+
+Figure 8: Number of statistics bachelor’s degrees earned by African Americans/Blacks, Hispanics/Latinos who are US citizens or permanent residents
+Source: NCES IPED
+
+Figure 9: Percentage of statistics bachelor’s degrees awarded to US citizens/residents who are African American/Black or Hispanic/Latino
+Source: NCES IPED
+
+For Hispanics or Latinos, the doctoral numbers are generally in the single digits with little or no movement over the decade. For bachelor’s and master’s in statistics, the numbers seem to be increasing and, as a percentage, also seemingly increased over 2011–2013, as shown in Figures 8 and 9 for bachelor’s degrees.
+
+Comments and questions may be sent to ASA Director of Science Policy Steve Pierson.
+
+New Report on US Data Infrastructure: An Interview with Robert Groves
+
+A new report from a National Academies Committee on National Statistics panel, “Toward a Vision for a New Data Infrastructure for Federal Statistics and Social and Economic Research in the 21st Century: Mobilizing Information for the Common Good,” deems the “US statistical agencies’ reliance on sample-survey data and census data is unsustainable” and presents an expansive vision for a new data infrastructure to produce “more timely, better quality, and more granular statistics that could answer questions of national interest, support more rigorous research, and facilitate evidence-based policymaking.” Blending data from a variety of sources—federal statistical, program, and administrative agencies; state, tribal, territory, and local governments; private sector enterprises; nonprofits and academic institutions; and crowdsourced or citizen-science data holders—is the central mechanism for the new infrastructure.
+
+In its first of three reports, the panel explains why the US needs a revamped infrastructure and describes its output, needs, attributes, and challenges, as well as how it might be organized. The second and third reports, respectively, will assess the “implications of using multiple data sources for survey programs” and explore the “technology, tools, and capabilities needed for data sharing, use, and analysis.”
+To learn more about the panel’s vision, ASA Director of Science Policy Steve Pierson posed the following questions to panel chair Robert M. Groves on behalf of Amstat News.
+
+Please describe what the panel means by “data infrastructure.” What is the relationship of the federal statistical system, including the chief statistician, to it?
+First, Steve, thank you for setting up this interview; I hope it will be interesting to Amstat News readers.
+
+The panel chose the word “infrastructure” because the data resources of a country resemble its highways, bridges, and internet backbone. They are absolutely necessary for a functioning, modern society. Inattention to them often produces disasters. These disasters can be avoided through intentional modernization.
+
+The panel envisions a multi-faceted data infrastructure. The key components include the following:
+
+Data assets
+Technologies used to discover, access, share, use, manage, and secure those assets
+Expertise needed to use the data
+Rules that govern data access, use, and protection
+Organizations that manage the data infrastructure
+Communities whose data is shared and used for statistical purposes
+The panel’s vision assumes statistical agencies and other approved users will use data assets for the common good. It viewed the collective data of the country as a national resource, not unlike other infrastructure. Relevant data from federal, state, tribal, territorial, and local governments; private sector enterprises; nonprofits and academic institutions; and crowdsourced and citizen-science data holders would be available only for statistical purposes. The blending of cross-sector data can improve the quality, timeliness, and granularity of statistics, promote research, and support evidence-based policymaking.
+
+The federal statistical system will play a critical role in the envisioned new data infrastructure. Federal statistical agencies will be important data holders, supplying data for approved statistical uses and important data users. The federal statistical system also plays an important role in supporting the research infrastructure for empirical social and economic sciences through the Federal Statistical Research Data Center network. We expect the federal statistical system and chief statistician to be important leaders in a new data infrastructure, but specific roles and responsibilities await further evolution of the vision and the existing federal data ecosystem.
+
+The panel makes a compelling, rigorous case for why the US needs a new data infrastructure in Chapter 2. How would you summarize the need to a member of Congress?
+In the panel’s judgment, the current national data infrastructure is ill-equipped to meet the data needs of the 21st century. Today, paradoxically, national statistics face both grave threats but also a historic opportunity.
+
+Throughout our lives, the federal statistical system relied on statistical surveys, but declining survey participation poses a severe threat to national statistics. Yet, at the same time, the country produces unprecedented amounts of digital data about the activities of individuals and businesses.
+
+To meet the demands for credible and timely statistical information, the US needs to mobilize the nation’s ever-expanding data assets. It needs to facilitate statistics that blend data from multiple sources. This can improve the nation’s information resources on which Congress, the executive branch, and thousands of state and local officials make decisions. With modern computational techniques, this can be accomplished without new threats to privacy.
+
+Currently, data acquisition, access, and use are siloed, inefficient, and largely uncoordinated. Data is being collected that cannot be effectively used to inform policymakers. Laws and regulations remain major obstacles to accessing and using federal statistical, program, and administrative data, as well as state, local, territorial, and tribal government data. Private-sector data use is bespoke and often costly, with no inherent sustainability. Most data holders have no incentives to contribute or share their data for the common good. Privacy-protecting behaviors of data holders are highly variable and largely unregulated; there is little transparency and accountability regarding data use, and data subjects, data holders, and data users are rarely engaged in data use and data governance decisions.
+
+Is it accurate to describe the envisioned data infrastructure as one that produces the blended data from a variety of sources for enhanced statistical information and evidence-building using new statistical methods and designs, new partnerships, state-of-the-art data management capabilities, and a new entity?
+Yes, that’s how the panel sees it. The vision is a necessary first step, but a vision alone is insufficient. The panel recognizes the daunting challenges and obstacles we face and understands implementing the vision will take time and resources. But engaging key stakeholders, forging new partnerships, working toward a shared vision, and reaching consensus on short- and medium-term activities that move us toward the vision is crucial.
+
+Expanding available data assets beyond the federal government raises new challenges, and the panel suggests consideration of different organizational options to facilitate cross-sector blending and identifies unanswered questions related to data governance and data entity roles and responsibilities. These and other components require further study. We expect additional workshops and reports beyond the first three will be needed to fully implement the vision.
+
+How does this report build on important work of the Commission on Evidence-Based Policymaking, Advisory Committee on Data for Evidence Building, 2017 CNSTAT reports, Evidence Act, National Secure Data Service, and other reports or activities?
+The panel saw a remarkable synergy among these various developments. These initiatives provided the initial building blocks for a new data infrastructure. The panel’s aim was to complement, build on, and extend their work to inform a vision for a new national data infrastructure for national statistics and social and economic research in the 21st century.
+
+The Evidence Act provided federal statistical agencies with a statutory basis for accessing and using data assets of federal nonstatistical agencies, as well as expanding secure access to statistical agency data assets, unless prohibited by law. The panel supports these provisions and, like the Advisory Committee on Data for Evidence Building, calls for the Office of Management and Budget to implement needed Evidence Act regulations and rulemaking.
+
+The Commission on Evidence-Based Policymaking recommended that state earnings data and state-collected data acquired by federal departments be shared for evidence-building purposes, but the Evidence Act did not address these recommendations. The panel, like the Advisory Committee on Data for Evidence Building, supports these recommendations. But the panel concludes that expanding access beyond just state data to include also tribal, territory, and local government data for statistical purposes can benefit the nation and government entities. All the logic that supports blending of administrative data with statistical survey data to construct better statistical information applies to state and local government data, as well.
+
+Supplementing the Commission on Evidence-Based Policymaking and Evidence Act, the panel sees the merit of blending federal statistical and administrative data with private-sector data. The blending of statistical agency data with private-sector data sources, as well as state and local government, nonprofit and academic institutions, and crowdsourced or citizen-science data, can produce more granular, timely, and relevant statistical information and enhance social and economic research.
+
+The Commission on Evidence-Based Policymaking recommended establishing the National Secure Data Service to facilitate access to and use of information for evidence-building. The Evidence Act was silent regarding the National Secure Data Service. The Advisory Committee on Data for Evidence Building year one report presented a vision for the National Secure Data Service, but in January 2022, OMB suggested a demonstration project be established.
+
+President Biden recently signed the CHIPS and Science Act of 2022, which authorized a National Secure Data Service demonstration project at the National Science Foundation. The demonstration project represents progress, but the panel sees a further value of the service beyond evidence-building for facilitating the blending of diverse data sources, including data from private enterprises. Broadening the scope of data assets complicates decisions related to organizational structures and governance. The panel concludes there are multiple structures that can support a new data infrastructure and different options should be considered.
+
+The development of a consensus vision for a new data infrastructure requires that the country leverages all the expertise and learnings we have accumulated over the past six years. These reports have much in common. Building on, learning from, and extending these initiatives to mobilize information for the common good will be critical in achieving a shared vision and building a new national data infrastructure.
+
+The panel heard reports of work underway by the statistical agencies toward the new data infrastructure, including record linkage and use of private and administrative data sources. What most impressed or encouraged you?
+This was one of the great joys of the panel—to see how much energy exists within the agencies to build this new infrastructure!
+
+The panel had two important takeaways. First, the US is not unique. The 2021 December workshop described current efforts by Statistics Canada, the UK Office for National Statistics, and Statistics Netherlands to leverage private-sector and other data assets to improve national statistics. The European Commission recently issued a call for evidence and feedback regarding a proposal to make new data sources available for official statistics and statistical purposes consistent with the panel’s conclusions.
+
+Second, federal statistical agencies already are actively engaged in using private-sector data. At the December 2021 workshops, we learned all but one of the 13 designated statistical agencies are using private-sector data assets.
+
+Workshop participants noted that private-sector data utilization for national purposes might greatly improve the quality, timeliness, and granularity of national statistics, as well as improve knowledge of groups that are not well represented in existing surveys. Private-sector data, of course, has limitations, and workshop participants discussed the challenges and limitations of blending private-sector data with administrative and survey data. But to meet these challenges, statistical agencies are actively sharing best practices and lessons learned.
+
+The panel’s vision emphasizes the broadening role of the statistical system beyond enhanced statistical information to also support research and evidence-building. Do you put these latter roles on equal footing as production of statistical information?
+No, not given the focus of the panel. The panel’s charge was to produce three reports “that will help guide the development of a vision for a new data infrastructure for federal statistics and social and economic research in the 21st century.” While the panel acknowledges a new data infrastructure will enhance evidence-building, the primary focus was on improving national statistics and enhanced research. The panel intentionally did not duplicate the Advisory Committee on Data for Evidence Building’s excellent work on evidence-building.
+
+Federal statistical agencies’ primary responsibility will remain unchanged: “to produce and disseminate relevant and timely information; conduct credible, accurate, and objective statistical activities; and protect the trust of information providers by ensuring confidentiality and exclusive statistical use of their responses.” A new data infrastructure supports statistical agencies blending data from multiple sources to improve existing statistical products and create new ones. But the federal statistical system also contributes to a large research infrastructure that provides access to restricted statistical agency and other data assets for approved social and economic research. The Federal Statistical Research Data Center network—an established and sustained model of collaboration between statistical agencies, the Federal Reserve System, and universities—has facilitated research that has illuminated issues of national interest.
+
+Statistical agencies’ data assets can be used for approved evidence-building purposes, when permitted by law. The National Secure Data Service will likely have responsibility for services and capabilities facilitating evidence-building.
+
+The panel provides short- and medium-term activities for achieving the seven attributes of the envisioned data infrastructure and the options for supporting a data infrastructure.
+
+Who will carry out the activities, and is there a lead entity in driving or coordinating the activities?
+The panel was a creation of the Committee on National Statistics of the National Academies. It sought to paint a vision of a better world, with full knowledge that building this new world has challenges. It took this step to prompt a wider discussion and deliberation.
+
+Our immediate goal is to share the report with interested stakeholders in the statistical system, Congress, research communities, state and local governments, and the private sector. The report suggests 25 short-term and 40 medium-term activities that could help achieve the full vision, but no entity or organization is currently charged with carrying out these activities. Our goal is to start a discussion about the vision, build support, and identify important next steps to move ahead.
+
+The statistical community served by Amstat News will be key stakeholders in shaping future data infrastructure. The panel encourages independent actions to bring the vision into reality. How can readers contribute to fulfilling the panel’s vision for a new infrastructure?
+First, we encourage folks to read the report and view the recording of our October 13 public seminar. That session highlighted key takeaways from the report and plans for future data infrastructure–related activities. Also, read the full report, as well as report highlights and a brief for policymakers. Finally, visit the project’s interactive website, which provides report content in an easily digestible and accessible format and offers an opportunity to give feedback and suggestions.
+
+Real World Recommendation System – Part 1
+
+Training a collaborative filtering based recommendation system on a toy dataset is a sophomore-year project in colleges these days. But where the rubber meets the road is building such a system at scale, deploying in production, and serving live requests within a few hundred milliseconds while the user is waiting for the page to load. To build a system like this, engineers have to make decisions spanning multiple moving layers like:
+
+High-level paradigms (like collaborative filtering, content based recommendations, vector search, model based recommendations)
+ML algorithms (e.g., GBDTs, SVD, Multi tower neural networks, etc.)
+Modeling libraries (e.g., PyTorch, Tensorflow, XGBoost)
+Data management (e.g., choice of DB, caching strategy, reuse primary database or copy all the data in another system optimized for recommendation workload, etc.) [1]
+Feature management (e.g., offline vs online, precompute vs serve live)
+Serving systems (performance, query latency, distribution model, fault tolerance, etc.)
+Deployment system (e.g., how does new code get updated, build steps, keeping caches working after processes restart, etc.)
+Hardware (e.g., GPUs, SSDs)
+No wonder architecting a system like this is a daunting task. Thankfully though, after years of trial and error, FAANG and other top tech companies have independently converged on a common architecture for building/deploying production-grade recommendation systems. Further, this architecture is domain/vertical agnostic and can power all sorts of applications under the sun — from e-commerce and feeds to search, notifications, email marketing, etc.
+
+The goal of this publication is to start from the basics, explain nuances of all the moving layers, and describe this universal recommendation system architecture.
+
+We will start with a post to explain the serving side of this architecture at a high level, quickly followed by a post about the training side — these two posts will mostly outline the structure and identify the key scaling problems in serving and training, respectively. (Edit, we ended up writing two follow-ups to this post — part 2 about training data generation here and part 3 about modeling here). Future posts will go through these scaling issues one by one and describe how they are typically solved, along with the best practices developed over years of learning. So let’s get started:
+
+Modern recommendation systems are composed of eight (somewhat overlapping) logical stages:
+
+Retrieval
+Filtering
+Feature Extraction
+Scoring
+Ranking
+Feature Logging
+Training Data Generation
+Model Training
+The first five of these are related to serving, and the last three are related to training.
+
+Let’s go through all the serving layers one by one:
+
+1. Retrieval
+Products like Facebook have millions of things to show in any recommendation unit - so many that it’s physically impossible to score all of them using any ML model while the user is waiting for their feed to load. So instead of scoring each item in the inventory, a more manageable subset of the inventory is first obtained via a process called Retrieval or “Candidate Generation” (since it generates candidates for ranking).
+
+Retrieval is not just a FAANG scale problem — since the user is waiting for the “page” to load, most recommendation requests have a budget of only 500ms or so, and it is only possible to score a few hundred items in a request. As a result, whenever the inventory is a couple thousand items or more (which covers a large % of all real-world systems), a retrieval phase is needed.
+
+How does Retrieval work? Retrieval is done by writing a few heuristics, also called as “candidate generators” or simply “generators”, each of which selects, say a dozen or so distinct candidates. Some common examples of generators are:
+
+Content that is trending in a user’s geography in the last x hours
+Recent content from authors/topics that the user explicitly “follows”
+Find 5 contents that user “liked” in the past, and for each such content, find 5 more “related” items
+Find the most relevant topics for a user and find the freshest content from each of the topics.
+Retrieval can be powered by ML (e.g., trained embeddings), but more often than not, a larger % of generators are mere heuristics that encode some “product thinking” about what content is likely to create a good recommendation experience. And by writing a few of these and taking a union of all their candidates, we ensure that the system is able to at least consider all sorts of interesting inventory. Retrieval has only two jobs — 1) get all the interesting things (or at least as many as possible) [2] and 2) get as few total things as possible so that we can score/examine each candidate using the power of ML.
+
+2. Filtering
+After retrieving a few hundred candidates, recommendation systems typically filter out “invalid inventory”. For instance, if you’re building a social network, you might want to filter out things that are likely to be spammy. Or if you are building a video OTT platform, you may have to do some geo-licensing-based filtering. Or if you’re building an e-commerce product, you may have to filter things that are out of stock. Filters can also be extremely personalized, some examples:
+
+Some products try to filter out content that the user has already seen before
+
+Some products expose some controls to the users to hide away topics or authors or other sources of content
+
+In short, most real-world recommendation systems develop a long list of filters over time, which once again encode some product thinking about what creates a good experience. [3]
+
+Filtering and retrieval have a very interesting relationship. Some filters are pushed down to the generators themselves — for instance, if you’re building a dating product, filters for location and sexual preferences may be a part of each generator itself. But more often than not, it is physically impossible to have each generator respect each filter at the source, and so a whole layer of filtering is needed.
+
+3. Feature Extraction
+After filtering, we have a slightly smaller list of candidates — but it’s still going to be a couple hundred candidates long. We somehow need to choose the top ten items to show to the user. As you can imagine, this is going to involve some sort of scoring — for instance, in a job portal, we may want to compute how close is the job’s salary range to the user’s desired salary range.
+
+But before any scoring can even begin, we need to obtain a bunch of data about each item that is going to be scored. In the job portal example, we will need the salary range of each candidate's job. Such signals about candidates are called “features”. Features are not just about the candidates but also include data about the user (e.g., user’s desired salary range). In fact, some of the most important features in literally every single recommendation system are those that capture users’ interaction behavior with potential candidates - this is so important and so nuanced that we will dedicate a whole post on this topic in this blog soon. Either way, we have a few hundred candidates, and we extract a bunch of features (which are basically just pieces of data) about the candidates and the user. Usually, we get anywhere between a few dozen to hundreds of features per candidate.
+
+It is worth pausing here and letting the scale sink in for a minute - we have a few hundred candidates, say 1000, and we get a few dozen features about each candidate, say 100 — we need to fetch 1000x100 or 100K pieces of data from some database in only 500ms (the latency budget of a recommendation request). And note that you don’t even have to be at FAANG scale to run into this problem - even if you have a small inventory (say a few thousand items) and a few dozen features, you’d still run into this problem. And fetching and computing so much data is an incredibly hard infra problem to solve and as a result, creates huge limitations on how “expressive” the features can actually be.
+
+4. Scoring
+So far, we have narrowed down the full inventory to a few hundred candidates and extracted a few dozen features about each. Now comes the bit where we use all the extracted features to assign a score to each candidate. In the simplest systems, the scoring phase is pretty rudimentary, often just a handcrafted formula that mixes a bunch of features of interest (e.g “let’s divide the number of likes by the number of impressions and give a boost by doubling the score if the user follows the content author”). But very soon, these handcrafted formulae and rules start hitting “corner cases” and creating bad experiences. That is where ML kicks in - a machine learning model is trained that takes in all these dozens of features and spits out a score (details on how such a model is trained to be covered in the next post).
+
+There are two key ideas that are very successful and present in the scoring of most real-world recommendation systems (and we’d write dedicated posts about both in the future — stay tuned):
+
+Multi-stage scoring — not all ML models are equal, and some are lot “heavier” than others. And it is usually not possible to run the heaviest ML models on hundreds of candidates. So instead, scoring itself is broken down in two substages — 1st stage scoring (which uses a relatively lighter ML model like GBDTs on all 500 candidates and emits out, say, top 100 candidates) and the 2nd stage scoring, which runs the heavy model (say deep neural network) on just the top 100 candidates.
+Combining many models — ML models can only learn whatever we teach them to learn. And typically, they are taught to predict the probability of user engaging in a single action, say like. Sorting all content by what gets clicked is a good start but has lots of issues — for instance, it might only distribute clickbaity content. To make the recommendations more balanced, usually, multiple models are trained - say, one for predicting clicks, one for predicting comments, one for user reporting the content, etc. And the final score of a candidate is a weighted average of all these models. While this makes the recommendations better, this can also increase the amount of computation that needs to be done. [4]
+5. Ranking
+Once scores have been computed for every candidate, the system moves on to the very last step — ranking. In the simplest systems, this stage is as simple as sorting all the candidates on their scores and just taking the top K. But in more complicated systems, the scores themselves are perturbed using non-ML business rules. For instance, it is a common requirement across many products to diversify the results a bit — for instance, not show content from the same publisher/author one after another. There are many algorithms for such diversification, but most of them operate in a similar fashion by adjusting the scores to respect the diversity (e.g., demote scores if successive items are not diverse enough).
+
+In addition to score perturbation, it is a common practice to run all the items against all the filters once again at this stage to avoid any embarrassing failures. For instance, maybe some of the candidate generators are a bit stale and don’t know that an item has gone out of stock — it’s better to filter it out here instead of sending an item to the user that they can’t even purchase.
+
+Finally, once top K items are chosen, they are handed to some sort of “delivery” system which is responsible for things like pagination, caching, etc.
+
+Conclusion
+That’s it! These are the five serving stages of real-world recommendation systems. As you can see, even if a recommendation system is trained, deploying that in production is incredibly hard. In the next post, we will look at the training side of the recommendation system. And in the subsequent posts, we will go through all the infra/scaling issues outlined here and share how they are typically solved — stay tuned!
+
+Managing data is surprisingly hard for real-world recommendation systems because of extreme needs on all three of write throughput, read throughput, and read latencies. As a result, primary databases (e.g., MySQL, MongoDB, etc.) almost never work out of the box (unless you put in a lot of work to scale them in a clever way) ↩︎
+
+Often bloom filters are used to filter out content already “seen” by the users ↩︎
+
+This is actually fairly true across all the stages — 80% of decisions & iterations in building a recommendation system are all about product-specific needs & business rules, not machine learning. ↩︎
+
+This technique is called “value modeling” - value model is an expression (typically weighted linear sum) of ML models with each term describing a specific kind of value to the user. ↩︎
+
+There’s more to data than distributions.
+
+This is first guest post by Deb. More to come!
+
+In “The clinician and dataset shift in artificial intelligence,” published in the New England Journal of Medicine, a set of physician-scientists describe how a popular sepsis-prediction system developed by the company Epic needed to be deactivated. “Changes in patients’ demographic characteristics associated with the coronavirus disease 2019 pandemic” supposedly caused spurious alerting arising from the system, rendering it of little value to clinicians. For the authors, this is a clear illustration of distribution shift, a change in training and test data that, in this case, made it difficult to distinguish between fevers and bacterial sepsis. They go into detail about what this means: distribution shift is a fundamental challenge in machine learning, and whenever we attempt to deploy machine learning in the real world without considering the way in which that real world environment can change (whether its changes in technology (e.g., software vendors), changes in population and setting (e.g., new demographics), or changes in behavior (e.g., new reimbursement incentives), then we fail to properly consider the ways in which the data can change or shift between train and test environments. If not considered, the model will inevitably fail.
+
+And why not? If the underlying test data diverges from the data used in the development of the model, we should expect disappointing results. But the distribution shift problem is so common that ML researchers and practitioners have started seeing it everywhere they look. In fact, in many cases, they will inappropriately characterize any failure of deployed ML models as a distribution shift. This both muddles our understanding of what exactly distribution shift means, and limits our vocabulary for the range of failures that can show up in deployment. In this blog post, I’ll use Epic’s sepsis-detector to illustrate some of the current confusion about distribution shift, and why the notion of “external validity”, a description of generalization problems used widely in other fields, is perhaps more relevant.
+
+The terminology of distribution shift is both too specific and not specific enough. A “change in distribution” could be characterized as anything from a variation in source to a re-sampling. These changes could involve changes to the input features (ie. covariate shift), changes to the labels (ie. prior probability shift) or both (ie. concept drift).
+
+The notion of “data distributions” themselves assumes data comes from an imagined data generating function. In that world of infinitely abundant independent data points samples from a bespoke probability distribution (ie. the “independent and identically distributed” i.i.d. assumption), describing data in terms of how it’s distributed makes a lot of sense. But as Breiman describes in “Statistical Modeling: The Two Cultures”, that assumption doesn’t often hold for real world data. Very rarely does one actually know the data generating function, or even a reasonable proxy - real world data is disorganized, inconsistent, and unpredictable. As a result, the term “distribution” is vague enough to not address the additional specificity necessary to direct actions and interventions. When we talk about a hypothetical distribution shift, we talk about data changes but are not specific about which data changes happen and why they happen. We’re also constraining our discourse by just looking at changes in the data in the first place, when in fact, many other changes occur between development and deployment (such as changes in interactions with the model, changes in the interpretation of model results, etc.). Specifying the type of distribution shift is one solution, but more importantly, we need to understand specific distribution shifts as part of a broader phenomenon of external validity that we need to begin to articulate as a field.
+
+The most significant consequence of the myopic obsession with distributions is how it constrains ML evaluations. The benchmarking paradigm that dominates ML at the moment is a by-product of its obsession with detecting shifts in data - the evaluation of models on static data test sets are tied to assumptions about failures being due to shifts in data distribution and not much else. A myopic view on distribution shift confuses the discourse on how to evaluate models for deployment. Several studies on regulatory approvals of ML-based tools in healthcare already demonstrate how over-emphasis on data distribution shift failures has led ML practitioners and even regulators within the healthcare space to inappropriately prioritize the use of retrospective studies (ie. evaluations on static collections of past data) rather than prospective studies (ie. examinations of the system within its context of use). Things like multi-site assessment, median evaluation sample size, demographic subgroup performance and “side-by-side comparison of clinicians’ performances with and without AI” are also exceedingly rare in the evaluation of ML-based healthcare tools, as they don’t fit our current narrow perception of what can go wrong when you throw an ML model into the real world. Of course distribution shift matters but the nature in which we focus on it to the exclusion of everything else is regrettable. For better regulation and evaluation methodology for machine learning deployments, we need to expand our thinking and align ourselves with the other fields attempting to understand performance gaps between the theory and practice of interventions.
+
+This broader notion of validity characterizes the accuracy of the claims being made in a specific context. The related notion of reliability has to do with reproducibility and the consistency of results (think of measurement precision), but validity is concerned with some notion of truthfulness and how close claims get to the target of describing the real relationship between inputs and outputs. There are various notions of validity discussed in measurement theory, evaluation science, program evaluation and experiment design literature, but there are common core concepts. For example, internal validity is about assessing a consistent causal relationship between the inputs and outputs within the experiment and construct validity is related to the evaluation of how well experimental variables represent the real world phenomena being observed. When discussing generalization issues, we are most interested in external validity, which analyzes if the causal relationship between inputs and outputs observed in experiments holds for inputs and outputs outside the experimental setting.
+
+To understand how external validity differs from the current discourse on distribution shift, let’s go back to the sepsis monitoring example. “External Validation of a Widely Implemented Proprietary Sepsis Prediction Model in Hospitalized Patients,”, published in JAMA, describes a retrospective study on the use of the sepsis tool between December 2018 and October 2019 (notably well before the pandemic began). They examined 27,697 patients undergoing 38,455 hospitalizations and found that the Epic Sepsis Model predicted the onset of sepsis with an area under the curve of 0.63, “which is substantially worse than the performance reported by its developer”. Furthermore, the tool “did not identify 1,709 patients with sepsis (67%) despite generating alerts… for 6,971 of all 38 455 hospitalized patients (18%), thus creating a large burden of alert fatigue.” These researchers rightfully describe these issues as “external validity” issues, and go into detail examining a range of problems far beyond the data-related “shifts” described in the “Clinician and Dataset Shift” oped. They don’t pretend that this doesn’t have to do with changes in the data - of course it does. Epic’s system evaluation was on data from 3 US health systems from 2013 to 2015, and that’s certainly a different dataset than University of Michigan’s 2018-2019 patient records. But they also comment on changes to the interactions doctors had with the model and how that modified outcomes, as well as other external validity factors that had very little to do with data at all, much less “data distribution shift.” Even when discussing substantive data changes, they are specific in characterizing what it is and breaking down the differences that occurred upon deployment at their hospital.
+
+As this study shows, machine learning needs some clean guidelines for evaluating external validity. To begin scaffolding such frameworks, we can learn from the social sciences. For example, Erin Hartman, a UC Berkeley colleague in political science, and her co-author Naoki Egami propose a taxonomy that provides an interesting start to this discussion. Their interest is in assessing external validity in scenarios where a population is given a policy treatment (eg. sending out voting reminders, updating the tax code, giving out free vaccines, etc.) and the impact of this treatment as measured within the experiment and also once implemented in the real world. If we consider the treatment to be an ML model’s integration into a broader system, we can begin to articulate what external validity could mean in the algorithmic context. In my next blog post, I’ll try to work through Hartman and Egami’s framework and other specific proposals from other fields on how we could begin to taxonomize external validity issues, and see which of the external validity problems they describe are actually quite relevant to machine learning.
+
+σ-driven project management: when is the optimal time to give up?
+
+Hi! It's your friendly project management theorician. You might remember me from blog posts such as Why software projects take longer than you think, which is a blog post I wrote a long time ago positing that software projects completion time follow a log-normal distribution.
+
+Just a bit of a refresher if you don't want to re-read that whole post. What does it mean that project completion time has a log-normal distribution? If a project is estimated to take one month to complete, it will sometimes take half a month, sometimes two months. We can define the “blowup factor” to be the ratio of actual vs estimated. Then the assumption is basically that the logarithm of the blowup factor will follow a normal distribution. and in particular, it's a normal distribution with zero mean and some standard deviation σ (which is the Greek letter “sigma”).
+
+We can plot a normal distribution in terms of its cumulative density function. What does this mean? It means the probability that the project has finished, as a function of time. See the chart below:
+
+You can see that it's 50-50 (median outcome) that we have completed the project at the point that corresponds to 100% of the original estimate (the dashed line). But let's contrast two different values of σ:
+
+time	σ = 1.0	σ = 1.4
+0%	0%	0%
+50%	24%	31%
+100%	50%	50%
+200%	76%	69%
+400%	92%	84%
+∞	100%	100%
+So just as an example of how to read this table: if σ = 1.4 then in 84% of the outcomes, you are finished with the project within 400% of the original estimate.
+
+So where does the σ come from? My thesis for this blog post is that σ is an inherent property of the type of risk you have in your project portfolio, and that different values for σ warrants very different types of project management. Low σ means low uncertainty and means we should almost always finish projects. High σ means high uncertainty — more like a research lab — and means large risks of a huge blowup, which also means we should abandon lots of projects.
+
+All models are wrong, etc…
+The general gist of the model is something like this:
+
+The actual time it takes to finish a project has a log-normal distribution
+Every project has the same value if it succeeds 1
+Once we start to work on a project, we get no feedback until suddenly it finishes
+At any point in time, we may choose to (a) keep working on this project (b) abandon it
+
+This is obviously a very crude model! It's a bit like, you're down in the mine blasting rock looking for one super big diamond. Finding the diamond is a very “binary” event in the sense that either we found it or not — there's no partial credit, and nothing “learned” up until that point. However, if we've been down in one mine looking for a diamond for, I don't know, ten years, then maybe we should reassess. Maybe it's time to go to a different mine?
+
+So let's focus on the decision of finishing or abandoning a project, which roughly comes down to: once something is late, is it still worth working on it? Are you getting closer or further away from success? 2 3
+
+How much business value are you creating, my friend?
+The business value per time is basically 4 the success ratio per time spent (which is, roughly, the probability distribution function).
+
+I'm going to rescale it so that we always start at 
+y
+=
+1
+ for reasons I'll get back to shortly. Here's what it looks like: 5
+
+What's going here? Working on a project has increasing marginal business value in the beginning, which intuitively makes sense because we're getting closer to finishing it. But if we haven't finished it at some point, it's somewhat likely we ran into a “monster” project that's going to take an massive amount of time to finish, much more than we initially thought. So the business value starts to decline at some point (for high-σ projects rather quickly). Which means, are we actually working on something valuable still?
+
+Drop it like it's lower marginal ROI
+Presumably, we picked this project from a crop of potential projects, where the top one beat the 2nd one by a small margin. So at some point, once the business value per time drops below where it started, we end up in a place where abandoning the top ROI project and switching to the second honest one makes sense. That's why it's interesting to compare the current marginal ROI with the initial marginal ROI.
+
+Graphically, this happens in the previous chart at the dashed line 
+y
+=
+1
+. Let's record when the curves intersect 
+y
+=
+1
+ and put those points back into the first chart in this post — the cumulative distribution function:
+
+cdf with stop
+
+These points are wild! Like, we start with curves that graphically aren't too different, but when we solve for the optimal time to abandon a project, we end up with wildly different results. I find that pretty amazing and worth putting in a table:
+
+σ	When to give up	Project finish ratio
+0.6	1492%	100%
+0.8	674%	99%
+1.0	320%	88%
+1.2	153%	64%
+1.4	72%	41%
+So just as an example, if σ = 1.0, then we should give up at 320% of the original estimate. If we follow this policy, then we finish about 88% of all project.
+
+But if σ = 1.4, then we should give up at 72% of the original estimate, and if we do that, we finish only 41% of all projects.
+
+These are pretty huge differences!
+
+Project management depends on σ
+What we've established so far is that high-uncertainty project management imply a high percentage of abandoned project.
+
+This seems to pass a rough sanity check with reality! Any sufficiently research-like project will have a large risk of blowing up. For that reason, we should also be willing to give up on a high % of these projects. The optimal way to manage planning, resource allocation, and other things are wildly different:
+
+Low-σ management
+Low uncertainty
+Near-100% of all projects finish
+Very accurate estimates
+Perfectly forecasted timelines for milestones
+Every day, monitor project completion and make sure it's tracking
+High-σ management
+High uncertainty
+Most projects are abandoned
+Estimates are pointless
+Resources are allocated towards ideas with potential
+There's going to be lots of sunk costs
+Every day is day one
+Is software different?
+I've kept it super general so far and you can apply it to almost anything — digging for dinosaur fossils, or painting a house (question for the reader: which one of these is low-σ and which one is high-σ?)
+
+But let's talk about software for a second. Why is it so hard to predict? Here's my theory: because anything predictable suggests something is redundant and should be factored out.
+
+If it takes an engineer one day to build one API integration, it's not going to take them 100 days to build 100 API integrations, because on day 3 or whatever, the engineer will build an API integration maker framework that lets them build API integrations faster. 6 This will lower total effort a lot, but the total uncertainty a bit less. The σ — which is the relative predictability of the task in logarithm-terms, will go up.
+
+In general, this is how us software engineers have done it for 50 years now. Everyone's job is simultaneously building features and building tools that makes it easier to build features. We end up with layers and layers of abstractions, and each layer reduces the work we have to spend in the layer below. This is obviously great for productivity! It does however mean that software projects will be hard to estimate, and a lot of software projects will be abandoned.
+
+We don't really lose any generality making this assumption since it essentially cancels out. Same with the expected time spent, which is why I just talk about it in terms of % of the initial estimate. ↩︎
+
+This is a bit of a Lindy effect: […] is a theorized phenomenon by which the future life expectancy of some non-perishable things, like a technology or an idea, is proportional to their current age. ↩︎
+
+It also reminds me to some extent of a blog post I wrote a long time ago about how long it takes to wait for the NYC subway. ↩︎
+
+It's roughly the increase per time in the probability of finishing, which is the derivative of the cumulative density function (CDF) with respect to time, which is the probability density function (PDF).
+
+It turns out this isn't exactly right. Early on, the CDF is convex, which means that you can project a better slope by aiming for a point further out. So the “ROI” ends up being:
+Once derivative is decreasing, then this is maximized as 
+t
+←
+t
+′
+, which turns the expression above into the derivative, and the derivative of the CDF is just the PDF. That's reassuring! ↩︎
+
+All the code is available on Github ↩︎
+
+And on day 21 they will open source it and a bunch of other people will join and collaborate, and on day 42 they will create a startup and raise money and build API-integrations as a service, or something. Point is, you factor out common functionality not just across projects, but also across teams and companies. This all reduces predictability! ↩︎
+
+A Gentle Introduction to Vector Databases
+
+Update: An earlier version of this post was cross-published to the Zilliz learning center, Medium, and DZone.
+
+If you have any feedback, feel free to connect with me on Twitter or Linkedin. If you enjoyed this post and want to learn a bit more about vector databases and embeddings in general, check out the Towhee and Milvus open-source projects. Thanks for reading!
+
+In this blog post, I’ll introduce concepts related to the vector database, a new type of technology designed to store, manage, and search embedding vectors. Vector databases are being used in an increasingly large number of applications, including but not limited to image search, recommender system, text understanding, video summarization, drug discovery, stock market analysis, and much more.
+
+Relational is not enough
+Data is everywhere. In the early days of the internet, data was mostly structured, and could easily be stored and managed in relational databases. Take, for example, a book database:
+
+ISBN	Year	Name	Author
+0767908171	2003	A Short History of Nearly Everything	Bill Bryson
+039516611X	1962	Silent Spring	Rachel Carson
+0374332657	1998	Holes	Louis Sachar
+…	 	 	 
+Storing and searching across table-based data such as the one shown above is exactly what relational databases were designed to do. In the example above, each row within the database represents a particular book, while the columns correspond to a particular category of information. When a user looks up book(s) through an online service, they can do so through any of the column names present within the database. For example, querying over all results where the author name is Bill Bryson returns all of Bryson’s books.
+
+As the internet grew and evolved, unstructured data (magazine articles, shared photos, short videos, etc.) became increasingly common. Unlike structured data, there is no easy way to store the contents of unstructured data within a relational database. Imagine, for example, trying to search for similar shoes given a collection of shoe pictures from various angles; this would be impossible in a relational database since understanding shoe style, size, color, etc… purely from the image’s raw pixel values is impossible.
+
+This brings us to vector databases. The increasing ubiquity of unstructured data has led to a steady rise in the use of machine learning models trained to understand such data. word2vec, a natural language processing (NLP) algorithm which uses a neural network to learn word associations, is a well-known early example of this. The word2vec model is capable of turning single words (in a variety of languages, not just English) into a list of floating point values, or vectors. Due to the way models is trained, vectors which are close to each other represent words which are similar to each other, hence the term embedding vectors. We’ll get into a bit more detail (with code!) in the next section.
+
+Armed with this knowledge, it’s now clear what vector databases are used for: searching across images, video, text, audio, and other forms of unstructured data via their content rather than keywords or tags (which are often input manually by users or curators). When combined with powerful machine learning models, vector databases have the capability of revolutionizing semantic search and recommendation systems.
+
+Data UID1	Vector representation
+00000000	[-0.31, 0.53, -0.18, …, -0.16, -0.38]
+00000001	[ 0.58, 0.25, 0.61, …, -0.03, -0.31]
+00000002	[-0.07, -0.53, -0.02, …, -0.61, 0.59]
+…	 
+In the upcoming sections, I’ll share some information about why embedding vectors can be used to represent unstructured data, go over algorithms for indexing and searching across vector spaces, and present some key features a modern vector database must implement.
+
+x2vec: A new way to understand data
+The idea of turning a piece of unstructured data into a list of numerical values is nothing new2. As deep learning gained steam in both academic and industry circles, new ways to represent text, audio, and images came to be. A common component of all these representations is their use of embedding vectors generated by trained deep neural networks. Going back to the example of word2vec, we can see that the generated embeddings contain significant semantic information.
+
+Some prep work
+
+Before beginning, we’ll need to install the gensim library and load a word2vec model.
+
+Now that we’ve done all the prep work required to generate word-to-vector embeddings, let’s load the trained word2vec model.
+
+Example 0: Marlon Brando
+
+Let’s take a look at how word2vec interprets the famous actor Marlon Brando.
+
+Marlon Brando worked with Al Pacino in The Godfather and Elia Kazan in A Streetcar Named Desire. He also starred in Apocalypse Now.
+
+Example 1: If all of the kings had their queens on the throne
+
+Vectors can be added and subtracted from each other to demo underlying semantic changes.
+
+Who says engineers can’t enjoy a bit of dance-pop now and then?
+
+Example 2: Apple, the company, the fruit, … or both?
+
+The word “apple” can refer to both the company as well as the delicious red fruit. In this example, we can see that Word2Vec retains both meanings.
+
+“Droid” refers to Samsung’s first 4G LTE smartphone (“Samsung” + “iPhone” - “Apple” = “Droid”), while “apple” is the 10th closest word to “fruit”.
+
+Generating embeddings with Towhee
+Vector embeddings are not just limited to natural language. In the example below, let’s generate embedding vectors for three different images, two of which have similar content:
+
+Prep work
+
+For this example, we’ll be using Towhee, a framework for developing and running embedding pipelines which include deep learning models (built on top of PyTorch and Tensorflow). We’ll also download three images from the YFCC100M dataset to test our embeddings on.
+
+Generating embeddings
+
+Now let’s use Towhee to generate embeddings for the test images below. The first and second images should be fairly close to each other in embedding space, while the first and third should be further away:
+
+Now let’s compute distances
+
+With the normalized vectors in place, we can now compute an inverted similarity metric using the Euclidean distance between vectors (lower = more similar). Euclidean distance is the most common distance/similarity metric available to vector database users:
+
+Towhee has a number of other embedding generation pipelines (image embedding, audio embedding, face embedding, etc) as well.
+
+Searching across embedding vectors
+Now that we’ve seen the representational power of vector embeddings, let’s take a bit of time to briefly discuss indexing the vectors. Like relational databases, vector databases need to be searchable in order to be truly useful — just storing the vector and its associated metadata is not enough. This is called nearest neighbor search, or NN search for short, and alone can be considered a subfield of machine learning and pattern recognition due to the sheer number of solutions proposed.
+
+Vector search is generally split into two components - the similarity metric and the index. The similarity metric defines how the distance between two vectors is evaluated, while the index is a data structure that facilitates the search process. Similarity metrics are fairly straightforward; the most common similarity metric is the inverse of the L2 norm (also known as Euclidean distance). On the other hand, a diverse set of indices exist, each of which has its own set of advantages and disadvantages. I won’t go into the details of vector indices here (that’s a topic for another article); just know that, without them, a querying across vector databases would be excruciatingly slow.
+
+Putting it all together
+Now that we understand the representational power of embedding vectors and have a good general overview of how vector search works, it’s now time to put the two concepts together — welcome to the world of vector databases. A vector database is purpose-built to store, index, and query across embedding vectors generated by passing unstructured data through machine learning models.
+
+When scaling to huge numbers of vector embeddings, searching across embedding vectors (even with indices) can be prohibitively expensive. Despite this, the best and most advanced vector databases will allow you to insert and search across millions or even billions of target vectors, in addition to specifying an indexing algorithm and similarity metric of your choosing.
+
+Like the production-ready relational databases, vector databases should meet a few key performance targets before they can be deployed in actual production environments:
+
+Scalable: Embedding vectors are fairly small in terms of absolute size, but to facilitate read and write speeds, they are usually stored in-memory (disk-based NN/ANN search is a topic for another blog post). When scaling to billions of embedding vectors and beyond, storage and compute quickly become unmanageable for a single machine. Sharding can solve this problem, but this requires splitting the indexes across multiple machines as well.
+Reliable: Modern relational databases are fault-tolerant. Replication allows cloud-native enterprise databases to avoid having single points of failure, enabling graceful startup and shutdown. Vector databases are no different, and should be able to handle internal faults without data loss and with minimal operational impact.
+Fast: Yes, query and write speeds are important, even for vector databases. An increasingly common use case for vector databases is processing and indexing input data in real-time. For platforms such as Snapchat and Instagram, which can have hundreds or thousands of new photos uploaded per second, speed becomes an incredibly important factor.
+
+Selecting a vector database
+With unstructured data being generated at unprecedented rates, the ability to transform, store, and analyze incoming data streams is becoming a pressing need for application developers looking to use AI/ML. There are a number of open-source vector database projects to choose from - Milvus, Vespa, and Weaviate are three commonly deployed solutions. Some of these projects refer to themselves as vector search engines or neural search engines, concepts which are functionally equivalent to vector databases.
+
+For my own personal applications, I’ll select Milvus 99% of the time - it’s cloud-native and fast3. Zilliz will be releasing a managed version of Milvus later in 2022, so the option of seamlessly upgrading to a managed vector database will soon be available as well.
+
+Open-source vector database projects have the distinct advantage of being community-driven and thoroughly tested (via a number applications ranging from small personal projects to large commercial deployments). For this reason, I do not recommend using a closed-source vector database such as Pinecone at this time.
+
+Some final words
+That’s all folks - hope this post was informative. There’s a vector database subreddit if you’re interested in learning more vector databases. In the meantime, if you have any questions, comments, or concerns, feel free to leave a comment below. Stay tuned for more!
+
+The “Data UID” field in a vector database is a unique identifier for a single unstructured data element and is similar to the _id field in MongoDB. Some vector databases also accept a unique filename or path as a UID. ↩
+
+Early computer vision and image processing relied on local feature descriptors to turn an image into a “bag” of embedding vectors – one vector for each detected keypoint. SIFT, SURF, and ORB are three well-known feature descriptors you may have heard of. These feature descriptors, while useful for matching images with one another, proved to be a fairly poor way to represent audio (via spectrograms) and images. ↩
+
+Here’s a great comparison between Milvus and Weaviate, two of the more popular open-source vector database options today (tldr: Milvus is better). ↩
+
+Experiment without the wait: Speeding up the iteration cycle with Offline Replay Experimentation
+
+Ideas fuel innovation. Innovation drives our product toward our mission of bringing everyone the inspiration to create a life they love. The speed of innovation is determined by how quickly we can get a signal or feedback on the promise of an idea so we can learn whether to pursue or pivot. Online experimentation is often used to evaluate product ideas, but it is costly and time-consuming. Could we predict experiment outcomes without even running an experiment? Could it be done in hours instead of weeks? Could we rapidly pick only the best ideas to run an online experiment? This post will describe how Pinterest uses offline replay experimentation to predict experiment results in advance.
+
+Online Experimentation Limitations
+Data-supported decisions shape the evolution of our products at Pinterest. All product teams are empowered to test their product changes with online experimentation (A/B testing), a process to measure the impact on Pinterest users, aka Pinners. However, online experiments have several limitations:
+
+Slow data collection: It takes at least seven days and often more to allow sufficient power and capture any weekly patterns.
+Limited simultaneous arms: There can only be a limited number of variations running at the same time to allow a sufficient sample size for each.
+Risk-averse treatments: To minimize potential negative impact, there is an incentive to deploy safer, more conservative ideas instead of riskier but potentially highly impactful ideas.
+High engineering cost: The engineers need to write production-quality code since it will be deployed online to users.
+Due to these limitations, it is critical to triage the ideas before running expensive online experiments.
+
+Offline Replay Experimentation
+How do we address these limitations of online experimentation? One can obtain initial directional analysis on concepts through offline evaluation of assessment metrics such as Mean Average Precision or AUC. Unfortunately, according to our empirical observation, these are often poor predictors of online experiment performance.
+
+We created a framework called Offline Replay Experimentation, where the performance of new ideas can be simulated entirely offline based on historical data. In this framework, the new ideas in question can be anything that affects the order of the content served, such as changes to the ranking or blending functions.
+
+While a simulation approach is less accurate than online experimentation, it complements online experimentation by eliminating waiting time for data collection, allowing for a large number of simultaneous arms, avoiding negative user impact, and saving engineering costs.
+
+Offline replay experiments can be used to narrow the idea funnel from a large set of possible candidates to the few worth pursuing via online experiments. This framework has allowed product teams to evaluate and iterate on ideas within hours instead of weeks, dramatically speeding up the iteration cycle. It comprises two parts:
+
+Counterfactual Serving Simulation: It simulates what content we would have served users if we had deployed the change in the past.
+Reward Estimation: It estimates the reward (the value of different types of engagement such as click) of the counterfactual serving results for each experiment variant that we want to compare. It then compares the estimation of two variants (e.g., control vs. treatment) to calculate the lift.
+There have been several blogs and papers about how to generate counterfactual serving results (e.g., Distributed Time Travel for Feature Generation by Netflix and Counterfactual Estimation and Optimization of Click Metrics for Search Engines: A Case Study). Here, we will focus on our reward estimation methodology.
+
+Figure 1: Two components of offline replay experiment framework
+Reward Estimation Methodology
+We will use a toy dataset in Figure 2 to illustrate how reward estimation works. Table 1 represents the counterfactual serving logging, the items we would have served users given a new ranking or blending function. Table 2 exemplifies the production logging, the items that we have served to users and its sampling probability, as well as the user actions. Each record represents a Pin that was ranked on the page with the following information:
+
+The request is the key to group all of the insertions of the items (i.e., Pins) on the result page for the request.
+The position is the display position of an item for a request.
+The reward is the target variable, which usually corresponds to user actions such as click and likes.
+The sampling probability is the probability that an item showed at the position for the request.
+Figure 2: Toy dataset as an illustrative example
+To estimate the rewards, we find the matched records between the two datasets that share the same request, position, and item, and sum the reward of the matched records as the total reward. To eliminate the selection bias, we apply a weight, which is the inverse of the sampling probability, to each reward. Intuitively, a record with a higher sampling probability is overrepresented, so we want to apply a smaller weight to its reward value.
+
+As illustrated in Figure 3, the only two matching records that we can find for both counterfactual serving and production loggings are {request=r1, position=1, item=a} and {request=r2, position=3, item=f}, therefore the estimated reward would be 1/0.4 + 0/0.5 = 2.5.
+
+Figure 3: Illustrative example of how Top K Match estimator works
+We call this reward estimator Top K Match. K means the depth of the slots that are included in the estimation. In our toy example, K equals 3. There are multiple variants of the reward estimator with a trade-off in bias and variance:
+
+Top K Unbiased Match: Top K assumes the reward of an item is independent of the items around it. We can obtain an unbiased top-K replay estimator by matching the entire ranked top-K list for each request. It only counts the reward if the ranked top-K list according to the new model is the same as the top-K list for the request in the production dataset. In Figure 2, there are no matched records for both loggings, therefore the estimated reward would be 0.
+Top K Unsorted Match: The match rate can be low for Top K Match and Top K Unbiased Match, which leads to large variance. We can address this by relaxing the match criteria to only require the request_id and item_id to match. It counts the reward if any item_id in the top-K list according to the new model is the same as the item_id in any position for the request in the production dataset. As illustrated in Figure 4 in the toy example, the matching records that we can find for both loggings are {request=r1, item=a}, {request=r2, item=d} and {request=r2,item=f}, therefore the estimated reward would be 1/0.4 + 1/0.4 + 0/0.5= 5.
+Figure 4: Illustrative example of how Top K Unsorted Match estimator works
+It’s worth mentioning that sampling probability is often not available during implementation, and it requires a non-trivial change to the system to instrument it. To simplify the problem, we set up a random bucket of a small set of total traffic, in which we randomize the order of the top N results and then p equals 1/N.
+
+Real Examples
+We applied the offline replay experiment on Home feed ranking and blending models and observed compelling results.
+
+We first calculated the statistical power of the three reward estimators and found Top K Match and Top K Unsorted Match can have sufficient power to detect our desired effect size, while Top K Unbiased Match is greatly underpowered. We then ran both offline replay experiments using these two sufficiently-powered estimators and online experiments on 26 experiment comparison variant pairs.
+
+Using the metric Click as an example, we found a strong correlation between online and offline lift, as shown in Figure 5. In general, offline lift is correlated with a smaller online lift, but the rank orders of the variants based on them are similar.
+
+A similarly strong correlation was also found comparing online and offline decision-making results (i.e., significantly positive, insignificant, significantly negative). These results show that Top K Unsorted Match (K=8) performs the best (i.e. has the highest correlation between online results and offline replay). If we run an offline replay experiment, it would allow us to identify over 90% of the candidates that showed a statistically significant and positive lift in an online experiment while filtering out over 75% of candidates that showed an insignificant or negative lift in an online experiment.
+
+Figure 5: Online experiment Lift vs. Offline Experiment Lift
+We also compared offline replay results with Mean Average Precision (MAP), which was previously used to select candidates for online experiments in Figure 6. Offline replay experiment significantly outperforms MAP. In fact, using MAP, we are only able to identify 25% of ideas that would ultimately show a statistically significant positive lift in an online experiment.
+
+Figure 6: Online experiment lift vs. Predicted lift based on MAP (left) and Online experiment lift vs. Predicted lift based on Offline replay experiment (right)
+To understand how an offline replay experiment can help narrow the candidate set of variants that we want to test, we took a look into how the offline replay experiment would rank the variants compared with online. In the validation data, there are five experiments with more than one treatment variant. Figure 7 shows the data of one example experiment. We separately calculated the ordering of variants based on offline replay experiment lifts and online experiment lifts. Using the ordering from online experiments as the ground truth, we found offline replay experiments can identify the variant with the highest lift for all the experiments in our sample. It demonstrates that we could gain valuable early insights from offline replay and only pick the top ideas to validate in online experiments.
+
+Figure 7: Data of one example experiment
+Offline replay experimentation is a valuable addition to our idea evaluation toolbox and complements online experimentation in many ways. Combining offline and online experimentation, we can strike a balance between accuracy and velocity, unlocking product innovation far more quickly and efficiently.
+
+Acknowledgments
+Shout out to Bee-Chung Chen, Chen Yang, Fan Jiang, and Kent Jiang, Sam Liu for their contributions. Special thanks to Aidan Crook, Olafur Gudmundsson, Yaron Greif, and Zheng Liu for their feedback and support.
+
+To learn more about engineering at Pinterest, check out the rest of our Engineering Blog, and visit our Pinterest Labs site. To view and apply to open opportunities, visit our Careers page.
+
+The Value of Diversity in Tech
+Why diverse teams will boost the joint intellectual potential of your organization
+
+Introduction
+Information Technology is a collaborative sector that caters to billions of diverse customers scattered across the globe. Yet, the products and services created by this sector are conceived by relatively homogeneous teams. This is true in particular for the domains of software development, software engineering, and data science.
+
+Dozens of studies have demonstrated that diverse teams are collectively smarter, more productive, more innovative, and overall more successful than their homogenous counterparts. Despite these findings, however, most technology companies have shown very slow growth in diversity, with the exception of a select few. The numbers, in fact, are staggering.
+
+According to 2022 statistics gathered by Truelist and Zippia, women only make up 27.5% of software engineers globally, revealing an enormous gender gap. In the U.S., this gap is even wider with only 21% of software experts identifying as women, down from 29% in 2010. Furthermore, Hispanic and Black Americans are greatly underrepresented in this sector. While 19% of the U.S. population is Hispanic and 13% Black, their representation in software development corresponds to only 7% and 5%, respectively [1, 2]. These numbers are largely mirrored in the field of data science as well.
+
+This article will explore the various benefits that come with diversity and its importance in product development, customer empathy, and organizational success. While the focus will be on the tech industry, diversity at work is a crucial aspect in general, irrespective of the sector. Therefore, this article also aims to encourage the reader to strive and advocate for more diversity in their respective fields.
+
+Productivity
+A diverse and inclusive work environment in which everyone feels welcome typically results in an enhanced level of employee engagement and satisfaction. Moreover, the wide range of subject matter expertise, experience, perspectives, and working styles that a diverse team brings to the table significantly boosts their capacity for problem solving. It also creates an atmosphere of healthy competition, which tends to encourage employees to go above and beyond their potential, resulting in enhanced productivity. Consequently, the convergence of all these factors can lead to the optimization of a multitude of company processes, thus significantly increasing their efficiency [3].
+
+Decision Making
+Diverse teams have the unique ability to vet new ideas more thoroughly and investigate problems from a variety of different angles, eventually allowing them to converge to a more informed decision. According to research by Cloverpop, organizations with diverse teams make better business decisions up to 87% of the time [4]. Not only does diversity improve the decision-making process, it also accelerates it. New ways of thinking, fresh perspectives, and a multitude of skillsets naturally help teams make decisions faster.
+
+Creativity & Innovation
+Unsurprisingly, teams comprised of employees with a variety of different backgrounds develop more creative and innovative solutions than their homogeneous counterparts. This comes as a result of team members sharing their diverse inputs, which prompts the whole team to look at problems from a variety of angles and perspectives, identify errors in their thinking, and collectively arrive at a smarter solution. In other words, diversity considerably enriches the learning curve and pushes employees to think outside the box — a skill that is crucial when it comes to catering products and services to a wide range of customers and continuously adapting to the changing demands of the market.
+
+Photo of a diverse team working on a solution to a problem
+Photo by jasongoodman_youxventures on Unsplash
+In a study published in Innovation, researchers investigated levels of gender diversity in research and development teams from 4,277 companies in Spain. After applying statistical models, they found that companies with more women had a higher likelihood of introducing radical new innovations into the market over a two-year period [5]. Another study published in Economic Geography demonstrated that cultural diversity considerably boosts innovativeness. The authors pooled data on 7,615 firms that participated in the London Annual Business Survey — a questionnaire about company performance conducted with the UK capital’s executives. The study revealed that businesses run by culturally diverse leadership teams were more likely to develop and release new products than those with homogenous leadership [6, 7].
+
+Customer Experience
+Teams with diverse backgrounds will more easily be able to adapt to customers’ needs and requirements. Whether the team is developing an app, a platform, or a service, it will have to design and build it in a way that offers the best possible user experience. In most situations, the customers of software products and services do not come from a single, homogenous group. Therefore, having a team comprised of people from diverse backgrounds that is capable of producing a wide range of ideas and evaluate them through a variety of perspectives can be extremely beneficial for predicting and incorporating the needs of their end users.
+
+Performance
+Since diversity within a workplace has been shown to improve productivity, decision making, creativity, innovation, and customer experience, it is no surprise that it also results in increased organizational performance. In 2019, McKinsey analyzed 366 public companies and found that those in the top quartile for ethnic and racial diversity in management were 36% more likely to achieve financial returns above their industry mean. Similarly, those in the top quartile for gender diversity were 25% more likely to achieve returns above the industry mean [8].
+
+Conclusion
+This article demonstrates that striving toward a more diverse and inclusive work environment results in enormous organizational benefits, including increased productivity, decision making, innovation, and performance, as well as a more accurately targeted customer experience for the end users of a company’s products or services.
+
+The adoption of building diverse teams in the technology sector is of particular importance as the products that come out of this industry can end up having billions of users whose diverse needs have to be considered throughout the development process. Having an enriched employee pool with representatives from various different backgrounds is therefore critical in order to ensure that the creation of new products incorporates ideas and feedback that represents the needs of this vast and diverse customer base.
+
+Interactive Geospatial Visualization with Shape Map Visual in PowerBI
+
+A step-by-step guide/demonstration using public income and digital boundaries data
+
+Motivation
+PowerBI is a popular business intelligence reporting tool for most companies. In addition to the common use case of visualizing structured tabular data, it’s also able to read in geospatial data and turn them into interactive visualizations where reference layers such as average income for a particular region can be added to understand potential demographic patterns and relationships.
+
+Digital boundaries divide maps into geographic regions of various sizes. One commonly known digital boundary is the State boundary. Although PowerBI offers a few built-in digital boundaries in its maps settings as shown below, it’s generally considered not sufficient for commercial applications where lower level of granularity is often required for the output of more ‘regional’ data.
+
+Image 1: PowerBI built-in digital boundaries. Image by author.
+One solution to this problem is to import a custom map into PowerBI with the desired digital boundary settings. A number of steps is required to achieve this, with some steps leveraging external dependencies, yet few articles through online searches (let alone on the Medium platform, or even ChatGPT) were sufficiently helpful when I first attempted this task.
+
+Using the Shape Map Visual (which can be accessed in PowerBI at no extra cost), this article provides a step-by-step guide from importing custom maps into PowerBI to matching the maps data to reference layers, and ultimately creating an interactive geospatial visualization which gives context to the data — one that may ultimately impress business decision makers!
+
+Step 1: Prepare Custom Map Data by a Particular Digital Boundary
+For the purpose of this demonstration, I’ll be using the Statistical Area 3 (“SA3”) digital boundary for Australia. This demonstration can be easily generalized or extended to digital boundaries set by other countries.
+
+For background, SA3s in Australia are designed for the output of regional data which captures populations between 30,000 and 130,000 people (compared to 3,000 to 25,000 for SA2 and 100,000+ for SA4).
+
+Data by the SA3 digital boundary can be sourced from here¹. In particular, the Shapefile is downloaded into a zip file.
+
+Image 2: SA3 data download. Image by author.
+The zipfile downloaded (unzipping is not required) is then converted to a JSON file readable by PowerBI. This can be done in the following two (2) steps:
+
+Go to mapshaper.org and import the downloaded zip file, follow the prompts below and select “Import”.
+
+Image 3: Import shapefile. Image by author.
+A map by the particular digital boundary should then appear on the screen as shown below. Export this as a JSON file (either a GeoJSON or TopoJSON) by clicking “Export” on the top right corner.
+Image 4: Export map. Image by author.
+One technicality point worth mentioning is that the JSON file exported using the above steps will almost certainly be computationally expensive for PowerBI to navigate (e.g. there may be considerable lags when trying to zoom in and out of the map due to the high dimensions in map features and attributes). For this reason, it’s recommended to ‘down-size’ the shape file by clicking “Simplify” near the top right corner before exporting. For the purpose of this demonstration, the map data has been simplified on the simplification scale to 0.3% (which did not materially compromise the quality of the map features and attributes as you will see later on).
+
+Step 2: Prepare Reference Data
+For the purpose of this demonstration, I’ll be visualizing population income by the SA3 digital boundary.
+
+Personal income data by the various Statistical Areas is published here² (Table 2). A snippet of the reference data to be imported to PowerBI is provided below. This was prepared in an Excel/CSV format.
+
+Image 5: Reference data. Image by author.
+Step 3: Power BI Shape Map Visuals
+Before we match the geospatial and reference data in PowerBI, Shape Map Visual needs to be enabled first. In PowerBI, this can be done by going to File (on the top left corner) > Options and settings > Options > Preview features and checking the “Shape map visual” check box.
+
+We then import the reference data prepared in Step 2. Once successfully imported, the four (4) fields in the data should appear in the Fields pane as shown below.
+
+Image 6: Reference data import. Image by author.
+Now import the Custom Map created in Step 1 using the following steps.
+
+Select the Shape Map icon located in the Visualizations pane, and check the box next to one of the fields in the Fields pane (just to activate the options under the Visualizations pane for the next step) as shown below.
+Image 7: Import step. Image by author.
+Navigate to the “Format visual” icon immediately to the right of the “Build visual” icon in the Visualizations pane. In the “Map Setting” drop down, select Custom map and import the JSON file created in Step 1 as shown below.
+Image 8: Import step continued. Image by author.
+Navigate back to the “Build visual” icon and drag from the Fields pane the SA3_Name and Average_Annual_Income fields to the “Location” and “Color saturation” fields respectively as shown below.
+Image 9: Matching data. Image by author.
+Finally, a visual like the one below should now appear in the PowerBI mainframe. This visulization represents the differing level of income by a color scale, as well as interacts with users by showing reference data when a particular SA3 area on the map is selected.
+
+Further Customization
+You can further customize the visualization by editing the color scale, putting different reference data on the tooptip, changing the zoom settings or adding a slider on the side (e.g. for State, which zooms the visualization automatically when a particular State is selected).
+
+In addition, if you line up the reference data by date, PowerBI allows animation of how the reference data changes over time. For instance, you’ll be able to see how the color for a particular region changes over time. For a time series of shape map data, the video in this link provides a good tutorial.
+
+In conclusion, this article provides a step-by-step guide on how to marry up tabular reference data with geospatial data, ultimately visualizing them using the Shape Map Visual in PowrBI.
+
+For readers interested in other visualization techniques or data science applications — I do blog about them here on Medium!
+
+Deep Dive into HPLBs for A/B Testing using Random Forest
+An Alternative to p-values in Testing
+
+In a recent article, we introduced the concept of a high probability lower bound (HPLB) of the TV distance, based on our article on arXiv:
+
+https://arxiv.org/abs/2005.06006,
+
+joint work with 
+Loris Michel
+.
+
+In the current article, we dive into a detailed treatment of this topic and on the way touch upon some very useful (and beautiful) statistical concepts. In particular, we will need to draw balls without replacement from an urn with m balls and n squares. Many thanks to 
+Maybritt Schillinger
+ for a wealth of constructive comments!
+
+Outline
+For some time now it has been known that powerful classifiers (such as the Random Forest classifier) can be used in two-sample or A/B testing, as explained here: We observe two independent groups of samples, one coming from a distribution P (e.g., blood pressure before treatment) and one coming from a distribution Q (e.g., blood pressure of an independent group of people, after treatment) and we want to test, H_0: P=Q. Given these two sets of data, we give one a label of 0, and the other a label of 1, train a classifier and then evaluate this classifier on some independent data. Then it seems intuitive that, the better the classifier can differentiate the two groups, the more evidence against the Null there is. This can be made formal, leading to a valid p-value and to a rejection decision when the p-value is smaller than a prespecified alpha.
+
+This is nice because today classifiers are powerful and thus this approach leads to powerful two-sample tests that can potentially detect any difference between P and Q. On the other hand, we all heard about the problems with p-values and classical testing. In particular, a significant p-value does not tell one how different P and Q are ( this is related to effect size in medicine). The picture below illustrates an example where P and Q get progressively more different. In each case, even a strong two-sample test would simply only give a binary rejection decision.
+
+So it would be more interesting if we could somehow meaningfully calculate how different P is from Q, ideally still using a powerful classifier in the process. Here we construct a meaningful method based on an estimate of the TV distance between P and Q.
+
+In the following we assume to observe an i.i.d. sample X_1, …, X_m from P and an independent i.i.d. sample Y_1, …, Y_n from Q. We then use the probability estimate of a classifier (e.g., probability of belonging to class 1) as a “projection” that takes the vectors of data and maps them onto the real line as probability estimates. Building the univariate order statistic with these values and finding a connection to TV(P,Q), we will then be able to construct our lower bound. In the following, we will also sometimes just write lambda for TV(P,Q).
+
+Using a (powerful) Classifier to get a Univariate Problem
+Concepts in this section: Drawing circles without replacement from an urn, with m circles and n squares: using the hypergeometric distribution for two-sample testing.
+
+In general, the samples from P, Q are d-dimensional random vectors. Here the classifier comes into play already: As most classifiers can take these m+n sample points and transform them into a sequence of real numbers, the prediction of the probability of the observation i to have label 1. Thus, we can just focus on the real numbers between 0 and 1 to construct our estimator. Of course, what we really lower bound then, is the TV distance of the probability estimates. It is thus important that the classifier is strong, to make sure we do not lose too much information.
+
+So, let’s assume we have a sample of N=m+n real numbers, and we know for each of those whether the original observation comes from P or Q. Then we can build this magical thing called order statistic. That is, we take the N numbers and order them from smallest to largest. To illustrate this, let’s represent samples from P as circles and samples from Q as squares. Then the order statistics may look like this:
+
+Now here is the important point: The classifier tries to estimate the probability of an observation to be in class 1, or from Q, or being a square, as accurately as possible. Thus if the classifier is good, we should expect to see more squares on the right, because the estimated probability should be larger for squares than for circles! Thus, the order statistic is like a centrifuge: If there is a discernible difference between P and Q, and the classifier is able to detect it, the order statistics of the probabilities push the circles to the left and the squares to the right. Since there is still randomness and estimation error, this will not look perfect in general. However, we want it to be ‘’sufficiently different from randomness’’.
+
+One very elegant way to quantify this is the statistic we call V_z, the number of circles below z. This statistic has been used for (univariate) testing for a long time. That is, at any point z=1,…, N, we simply count how many circles we have below z:
+
+What should we expect if P and Q are the same? In this case, we simply have N i.i.d. draws from a single distribution. Thus there should be just a random arrangement of circles and squares in the order statistic, with no pattern. In this case, V_z is actually drawing, with uniform probability, circles without replacement from an urn with m circles and n squares. Thus this connects back to the very basics of probability. Mathematically:
+
+Under H_0: P=Q, V_z is hypergeometric: It is the number of times you draw a circle if you draw z times without replacement from an urn with m circles and n squares.
+
+What is cool, is that we are now even able to find a function in z , q(z, alpha), for any alpha, such that when P=Q:
+
+Finding this q(z, alpha) can be done by using asymptotic theory (see e.g. our paper and the references therein) or simply by simulation. The main point is that we know the distribution of V_z and it is always the same, no matter what P and Q exactly are. So even if we don’t have a closed-form distribution for the maximum, we can still approximate q(z,alpha) quite readily. This can be directly used for a (univariate) two-sample test! If max_z V_z-q(z,alpha) overshoots zero, we can reject that P=Q.
+
+Ok so this is quite nice, but the whole point of this article is that we want to get away from simple rejection decisions, and instead get a lower bound for the Total Variation Distance. Unfortunately, under a general alternative where P and Q are different (i.e., TV(P,Q) > 0), the distribution of V_z is no longer known! The goal will now be to find another process B_z that is easier to analyze and such that for all z=1,…,N, B_z ≥ V_z. If we can bound this process correctly, then the bound also holds for V_z.
+
+Playing around with TV(P,Q)
+Concepts in this section: Using the sampling interpretation of TV to introduce the concept of Distributional Witnesses and using this to identify an area where P=Q holds, even if P is not equal to Q in general.
+
+By finding q(z,alpha) in the last section, we essentially found a first step of the construction of a lower bound for the case when TV(P,Q)=0, i.e. if there is no difference between P and Q. We now extend this by connecting with our first article and playing around with the definition of the TV distance between P and Q. Generally, this is given as
+
+Thus we look for the set A, out of all possible sets, such that the difference between P(A) and Q(A) is largest. Let’s make this more specific: Let p and q be the densities of P and Q (as a technicality, the data does not need to be continuous in the usual sense, we can always do that in this case). Then the maximal A is given as
+
+Let in the following X have distribution P and Y distribution Q. Now here comes the crucial part: We can use this to define a new density
+
+Then this is a valid density (integrates to 1) and we can define similarly a density q_+. What this means is best seen graphically:
+
+Illustration of the TV concept. Left: the two original densities p and q, with p_+ in red, h in blue and q_+ in green all unstandardized. Right: Densities p_+ in red, h in blue and q_+ in green. Source:author
+The picture shows that the densities p, q can be split up into the densities p_+, q_+, and some middle part, that corresponds to the minimum value of both densities and integrates exactly to 1 if we standardize it with 1-TV(P,Q):
+
+Instead of seeing X as a draw from P and Y as a draw from Q directly, we can now see X as drawn from the mixture
+
+What this means is the following; before we draw X, we flip a coin wherewith probability TV(P,Q), we draw X from the red density p_+ and with probability (1-TV(P,Q)) we instead draw it from h. For the distribution of X it doesn’t matter how we look at it, in the end, X will have distribution P. But clearly, it appears interesting whether X actually came from p_+ or from h, because the former corresponds to the ‘’unique’’ part of p. Indeed looking at either the graphic or the densities themselves, we see that p_+ and q_+ are disjoint. So X either comes from p_+ or from h and similarly, Y is either drawn from q_+ or from h. Crucially, if both Y and X are drawn from the density h, they obviously come from the same distribution and there is no way to differentiate them, it is as if we were under the Null.
+
+So, for the i.i.d. observations X_1, …, X_m and Y_1,…,Y_n, each observation is either drawn from the specific part (p_+ or q_+) or from the joint part h. We call observations that are drawn from the specific part p_+(q_+) witnesses for P (Q).
+
+Observations drawn from the specific part p_+ are called witnesses (for P). Observations drawn from h cannot be differentiated, so this corresponds to the part where P and Q are the same.
+
+Ok so if we go back to the order statistics, we can now think of it like this:
+
+Circles with blue crosses correspond to witnesses from P, while squares with blue crosses to witnesses from Q. Basically from the crossed-out observations we can learn something about the difference of P, Q, while the observations without crosses are basically from the Null. In a sense all of this is just a thought experiment — we have no way of knowing whether X_i is drawn from p_+ or h. So we don’t know which points are witnesses, in fact, we don’t even know how many there are. Nonetheless, this thought experiment will be helpful to construct our estimator.
+
+In the following we will propose a candidate for TV(P,Q), say lambda_c and then check whether this candidate fits a condition. If it does we choose a new candidate lambda_c that is higher than the old one and check the condition again. We do that until lambda_c violates the condition.
+
+Let’s do some cleaning
+Concepts in this section: Bounding the number of witnesses with high probability and the use an intuitive “cleaning operation” to get a better behaved process B_z that is always larger or equal V_z.
+
+We now want to use this idea that some points are witnesses and others come from the part where P=Q for the statistics V_z. As mentioned above, we don’t really know which points are witnesses! That would be ok, what we need is actually just the number of witnesses, though we don’t even know that. However, we can find an upper bound for this number.
+
+Recall that we assume X_1,…, X_m were sampled by drawing each with probability TV(P,Q) from p_+ and with probability 1-TV(P,Q) from h. So the number of witnesses in m observations, denoted w_p, actually follows a Binomial distribution with success probability TV(P,Q). So if we have a candidate lambda_c, which we suspect should be the true TV distance, the number of witnesses should follow the distribution
+
+This is still random, and thus we don’t know the exact outcome for a given sample. But since we know the distribution, we can find a higher quantile W_p, such that w_p is overshooting this quantile with a probability less than alpha/3. For instance, for m=10 and lambda_c=0.1, this can be found as
+
+lambda_c<-0.1
+m<-10
+alpha<-0.05
+
+W_p<-qbinom(p=alpha/3, size=m, prob=lambda_c, lower.tail=F)
+
+
+# test
+w_p<-rbinom(n=3000, size=m, prob=lambda_c)
+hist(wp,main="")
+abline(v=W_p, col="darkred")
+
+We can do the same for the witnesses W_q.
+
+So we have a candidate lambda_c and, based on this candidate, two values W_p and W_q that bound w_p and w_q with high probability. In particular, W_p and W_q depend directly on lambda_c, so it would actually be better to write W_p(lambda_c) and W_q(lambda_c), but that would blow up the notation too much.
+
+To obtain the new process B_z, we first make up new witnesses in the order statistics above:
+
+The red squares now denote random points that we designated to be witnesses. This is done so that the number of witnesses matches the upper bounds W_p and W_q. This is ok in our context, as it actually does not change V_z.
+
+Now we perform our cleaning operation. This will get us from V_z to B_z in a way that guarantees B_z is at least as large as V_z. We go through the order statistics from left to right and from right to left. First, from left to right, every time we see a circle without a cross, we randomly choose a witness from P (circle with a cross) on the right and put it before the empty circle. We do so without changing the order of the squares and circles without crosses, like so:
+
+The first circle was already a witness, so we left it as is. The second circle was a nonwitness, so we randomly moved a witness circle from further up to where it was before. The next thing was a square which was no a witness, so we moved a circle witness from the right before it and so on. The whole idea is simply to move all witnesses from P to the left and all witnesses of Q to the right, without changing the order of the non-witnesses within themselves:
+
+Now B_z is just counting the number of observations below z=1,…,N that belong to P in this new ordering! Note that for the first set of observations B_z just increases linearly by 1. Then there is a middle part in which B_z behaves like a hypergeometric process:
+
+
+Finally, the last few observations are only squares, so the value of B_z just reaches m and stays there.
+
+## Using the function defineB_z below
+
+## Define n + m and confidence alpha
+n<-50
+m<-100
+alpha<-0.05
+
+# Define the candidate
+lambda_c <- 0.4
+
+
+plot(1:(m+n),defineB_z(m,n,alpha,lambda_c), type="l", cex=0.5, col="darkblue")
+
+for (b in (1:100)){
+  
+  lines(defineB_z(m,n,alpha,lambda_c), col="darkblue")
+  
+}
+
+The key is that we moved all the circles more to the left than they were before! This is why B_z is always larger (or the same) than V_z. In particular, for lambda=0, we expect W_p=0 and thus B_z=V_z.
+
+Putting it all together
+Concepts in this section: Using the above to get a bound on B_z, leading to a bound on V_z and a subsequent HPLB lambdahat we can use. It is defined through an infimum, and to find it, we need to cycle through several candidates.
+
+Next, given the true lambda=TV(P,Q), we want to find a Q(z,alpha, lambda) that has
+
+This will be used to define the final estimator in a second. Crucially, Q(z,alpha, lambda_c) needs to be defined for any lambda_c, but the probability statement only needs to be true at the true candidate lambda_c=lambda. So this is the “candidate” I focus on for the moment.
+
+From above we know that for the first W_p values, B_z is just linearly increasing. So B_z=z and we can also set Q(z,alpha, lambda)=z, for z=1,…,W_p. Similarly on the other side, when all m circles are counted, we know B_z=m and thus we can set Q(z,alpha, lambda)=m for all z=m+n-W_q, …m +n. (Remember that in each case lambda=TV(P,Q) enters through W_p and W_q.)
+
+What remains is the part in the middle that behaves as if under the Null. This is true for z=W_p+1,…, m+n-W_q. But since here B_z is again hypergeometric, we can use the same q function as above to get
+
+The alpha/3 we need, since we can potentially make mistakes with W_p and W_q, i.e. there is an alpha/3 chance we do not overestimate.
+
+So we have all cases considered! For z=1,…,W_p, B_z-Q(z,alpha,lambda)=0, the same holds true for the last W_q z’s. The middle part finally is covered by the above equation. But since B_z is larger than V_z, we also have
+
+Using this Q function, we can define our final estimator as
+
+This looks horrible, but all it means is that starting from lambda_c=0, you (1) calculate W_p(lambda_c), W_q(lambda_c), and thus Q(z,alpha,lambda_c), and (2) check whether
+
+is true. If it is, you can increase lambda_c a little bit and repeat steps (1) and (2). If it is not true, you stop and set the estimator as lambda_c.
+
+Mathematically, why does this inf definition of the estimator work? It just means that lambdahat is the smallest lambda_c such that
+
+is true. So if the true lambda (=TV(P,Q)) is smaller than that smallest value (our estimator), this condition cannot hold, and instead, the > 0 condition above is true. But we have just seen above that this >0 condition has a probability of occurring ≤ alpha, so we are fine.
+
+All of this can be found implemented in the HPLB package on CRAN. The next section presents two examples.
+
+Some Examples
+
+Here, we use the estimator derived in the last section on two examples. In the first example, we use a Random Forest-induced estimate of the probability of belonging to class 1, as discussed above. In the second example, we actually use a regression function, showing that one can generalize the concepts discussed here.
+
+In the first article, we already studied the following example
+
+In the above simulation, the delta parameter determines how different P and Q are, from delta=0, whereby P=Q, to delta=1, whereby P is a bivariate normal with mean (0,0) and Q is a bivariate normal with mean (2,2). Even a strong two-sample test would simply reject in all of these cases. With our method, using Random Forest probability estimates, we get
+
+as we would have hoped: The lower bound is zero when the distributions are the same (i.e., the implicit test cannot reject) and progressively increases as P and Q get more different (i.e., delta increases).
+
+We can also look at a more general example. Suppose we observe a (more or less) independent sample, that has however a mean shift in the middle:
+
+Let us consider the index of observations as time t in this example and from left to right we move from time t=1 to t=1000. The code follows below. We can now check at each point of interest (for instance at each sample point) how large the TV distance is between P=points on the left and Q=points on the right. This can be done by again using a probability estimate for each t, but to speed things up, we instead use a regression of time t on the observations z_t. That is we check whether the observation value gives us an indication of whether it lies more on the left or right.
+
+The following picture shows the true TV in red and our HPLB in black:
+
+It can be seen that the method nicely detects the increase in TV distance when we move from left to right in the graph. It then peaks at the point where the change in distribution happens, indicating that the main change happens there. Of course, as can be seen in the code below, I cheated a bit here; I generated the whole process two times, once for training once for testing. In general in this example, one has to be a bit more careful about how to choose training and test set.
+
+Importantly, at each point where we calculate the TV distance, we implicitly calculate a two-sample test.
+
+Conclusion
+In this article, we took a deep dive into the construction of an HPLB for the TV distance. Of course, what we really lower-bounded was the TV distance on the probability estimates. In fact, the challenge is to find a “projection” or classifier that is powerful enough to still find a signal. Algorithms like Random Forest, as we used here, are examples of such powerful methods, that moreover don’t really require any tuning.
+
+We hope that with the code provided here and on CRAN in the HPLB package, these basic probability considerations we did here might actually be used on some real-world problems.
+

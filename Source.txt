@@ -1,0 +1,373 @@
+Software Engineer
+
+[1]
+Title: Zero-Trust Artificial Intelligence?
+Source: Computer Magazine
+Version: Feb. 2022, pp. 10-12, vol. 55
+Authors: Phil Laplante, Jeffrey Voas
+
+[2]
+Title: Gender Asymmetry in Cybersecurity: Socioeconomic Causes and Consequences
+Source: Computer Magazine
+Version: Feb. 2022, pp. 72-77, vol. 55
+Authors: Nir Kshetri, Maya Chhetri
+
+[3]
+Title: Advancing Reproducibility in Parallel and Distributed Systems Research
+Source: Comptuer Magazine
+Version: May 2022, pp. 4-5, vol. 55
+Authors: Manish Parashar
+
+[4]
+Title: The Data-Oriented Design Process for Game Development
+Source: Computer Magazine
+Version: May 2022, pp. 31-38, vol. 55
+Authors: Jessica D. Bayliss
+
+[5]
+Title: Software Systems and Frameworks for Competency-Based Learning
+Source: Computer Magazine
+Version: Aug. 2022, pp. 82-88, vol. 55
+Authors: Krassen Stefanov
+
+[6]
+Title: Blockchain’s Carbon and Environmental Footprints
+Source: Computer Magazine
+Version: Aug. 2022, pp. 89-94, vol. 55
+Authors: Nir Kshetri, Jeffery Voas
+
+[7]
+Title: Social Media and the Banality of (Online) Crowds
+Source: Computer Magazine
+Version: Nov. 2022, pp. 100-105, vol. 55
+Authors: Hal Berghel
+
+[8]
+Title: Information-Theoretic Exploration of Multivariate Time-Varying Image Databases
+Source: Computing in Science & Engineering
+Version: May-June 2022, pp. 61-70, vol. 24
+Authors: Humayra Tasnim, Soumya Dutta, Terece L. Turton, David H. Rogers, Melanie E. Moses
+
+[9]
+Title: Portable Acceleration of Materials Modeling Software: CASTEP, GPUs, and OpenACC
+Source: Computing in Science & Engineering
+Version: Jan.-Feb. 2022, pp. 46-55, vol. 24
+Authors: Matthew Smith, Arjen Tamerus, Phil Hasnip
+
+[10]
+Title: ANARI: A 3-D Rendering API Standard
+Source: Computing in Science & Engineering
+Version: March-April 2022, pp. 7-18, vol. 24
+Authors: John E. Stone, Kevin S. Griffin, Jefferson Amstutz, David E. DeMarle, William R. Sherman, Johannes Günther
+
+Eletrical Engineer
+
+[1]
+Title: Self-Driving Cars: Ethical Responsibilities of Design Engineers
+Source: IEEE Technology and Society Magazine
+Version: Volume: 36 Issue: 2
+Authors: Jason Borenstein; Joseph Herkert; Keith Miller
+
+[2]
+Title: The Social Metaverse: Battle for Privacy
+Source: IEEE Technology and Society Magazine
+Version: Volume: 37 Issue: 2
+Authors: Ben Falchuk; Shoshana Loeb; Ralph Neff
+
+[3]
+Title: Emerging Drone Services: Challenges and Societal Issues
+Source: IEEE Technology and Society Magazine
+Version: Volume: 39 Issue: 2
+Authors: Majed Alwateer; Seng W. Loke
+
+[4]
+Title: Smart IoT Devices in the Home: Security and Privacy Implications
+Source: IEEE Technology and Society Magazine
+Version: Volume: 37 Issue: 2
+Authors: Vijay Sivaraman; Hassan Habibi Gharakheili; Clinton Fernandes; Narelle Clark; Tanya Karliychuk
+
+[5]
+Title: Smart Cities and Their Smart Decisions: Ethical Considerations
+Source: IEEE Technology and Society Magazine
+Version: Volume: 33 Issue: 1
+Authors: David Bianchini; Ismael Avila
+
+[6]
+Title: Marshall-tufflex Helps To Keep Stansted Tunnel’s Lighting Upgrade Project On Track
+Source: Eletrical Engineering Magazine
+Version: 20 Dec 2022
+Authors: Advertorials
+
+[7]
+Title: Direction of Physical Infrastructure as we move into 2021
+Source: Eletrical Engineering Magazine
+Version: 17 Dec 2020
+Authors: Stuart McKay
+
+[8]
+Title: Towards Smart and Reconfigurable Environment: Intelligent Reflecting Surface Aided Wireless Network
+Source: IEEE Communications Magazine
+Version: Volume: 58 Issue: 1
+Authors: Qingqing Wu; Rui Zhang
+
+[9]
+Title: Virtual Influencers in Online Social Media
+Source: IEEE Communications Magazine
+Version: Volume: 60 Issue: 8
+Authors: Mauro Conti; Jenil Gathani; Pier Paolo Tricomi
+
+[10]
+Title: Network Digital Twin: Context, Enabling Technologies, and Opportunities
+Source: IEEE Communications Magazine
+Version: Volume: 60 Issue: 11
+Authors: Paul Almasan et al
+
+Data Scientist
+
+[1]
+Title: Statistics, Biostatistics Degree Growth Continued in 2021
+Source: AMStatNews
+Version: 1 December 2022
+Authors: Steve Pierson
+
+[2]
+Title: New Report on US Data Infrastructure: An Interview with Robert Groves
+Source: AMStateNews
+Version: 1 November 2022
+Authors: Steve Pierson
+
+[3]
+Title: Real World Recommendation System – Part 1
+Source: Data Science Weekly Newsletter
+Version: Issue 439 April 21, 2022
+Authors: Nikhil Garg
+
+[4]
+Title: There’s more to data than distributions.
+Source: Data Science Weekly Newsletter
+Version: Issue 437 April 7, 2022
+Authors: Deb Raji
+
+[5]
+Title: σ-driven project management: when is the optimal time to give up?
+Source: Data Science Weekly Newsletter
+Version: Issue 437 April 7, 2022
+Authors: Erik Bernhardsson
+
+[6]
+Title: A Gentle Introduction to Vector Databases
+Source: Data Science Weekly Newsletter
+Version: Issue 431 February 24, 2022
+Authors: Frank Liu
+
+[7]
+Title: Experiment without the wait: Speeding up the iteration cycle with Offline Replay Experimentation
+Source: Data Science Weekly Newsletter
+Version: Issue 427 January 27, 2022
+Authors: Maxine Qian
+
+[8]
+Title: The Value of Diversity in Tech
+Source: Towards Data Science
+Version: Dec 20
+Authors: Thomas A Dorfer
+
+[9]
+Title: Interactive Geospatial Visualization with Shape Map Visual in PowerBI
+Source: Towards Data Science
+Version: Dec 20
+Authors: Jin Cui
+
+[10]
+Title: Deep Dive into HPLBs for A/B Testing using Random Forest
+Source: Towards Data Science
+Version: Dec 12
+Authors: Jeffrey Näf
+
+Finance Profession
+
+[1]
+Title: Evaluating Benchmark Misfit Risk
+Source: CFA Blog
+Version: 19 Dec 2022
+Authors: Stephen Campisi
+
+[2]
+Title: What Can AI Do for Investment Portfolios? A Case Study
+Source: CFA Blog
+Version: 15 Dec 2022
+Authors: Derek Horstmeyer, Nicholas Guidos and Lance Nguyen
+
+[3]
+Title: Every Day Is Tax Day: Five Tax Strategies for HNW Clients
+Source: CFA Blog
+Version: 08 Dec 2022
+Authors: Susan Jones
+
+[4]
+Title: Human Rights Issues and Your Portfolio: The Risks and Opportunities
+Source: CFA Blog
+Version: 27 Dec 2016
+Authors: Anjali Pradhan
+
+[5]
+Title: FTX: Crypto Is the Cure, Not the Cause
+Source: CFA Blog
+Version: 22 Nov 2022
+Authors: Rob Price
+
+[6]
+Title: More Than Just Oil: Saudi Arabia’s Improved Credit Rating
+Source: CFA Blog
+Version: 11 Apr 2022
+Authors: Muadh Alhusaini
+
+[7]
+Title: Improving Interest Rate Risk Hedging Strategies through Regularization
+Source: Financial Analysts Journal
+Version: Pages 18-36 | Received 24 Nov 2021, Accepted 24 Jun 2022, Published online: 18 Aug 2022
+Authors: Daniel Mantilla-Garcia, Lionel Martellini, Vincent Milhau, Hector Enrique Ramirez-Garrido
+
+[8]
+Title: Litigation Risk and Stock Return Anomaly
+Source: Financial Analysts Journal
+Version: Pages 145-162 | Received 26 Oct 2021, Accepted 09 Jun 2022, Published online: 12 Jul 2022
+Authors: Jun Duanmu, Qiping Huang, Yongjia Li, Lingna Sun
+
+[9]
+Title: Which Corporate ESG News Does the Market React To?
+Source: Financial Analysts Journal
+Version: Pages 59-78 | Received 16 Apr 2021, Accepted 25 Aug 2021, Published online: 08 Feb 2022
+Authors: George Serafeim, Aaron Yoon
+
+[10]
+Title: Investment Professional of the Future
+Source: CFA Institute
+Verson: May 2019
+Authors: CFA Institute
+
+Doctor
+
+[1]
+Title: The bars to good care
+Source: The Doctor Magazine
+Version: November 2022
+Authors: Tim Tonkin
+
+[2]
+Title: A tale of one city
+Source: The Doctor Magazine
+Version: December 2022
+Authors: Peter Blackburn
+
+[3]
+Title: Long-term Follow-up After Critical COVID-19
+Source: JAMA
+Version: JAMA. Published online December 16, 2022
+Authors: Michael L. Barnett, Paul E. Sax
+
+[4]
+Title: Effects of Mindfulness Training and Exercise on Cognitive Function in Older Adults
+Source: JAMA
+Version: JAMA. 2022;328(22):2218-2229
+Authors: Eric J. Lenze, Michelle Voegtle, Philip Miller
+
+[5]
+Title: Ending the HIV Epidemic. We Have the Tools, Do We Have the Will?
+Source: JAMA
+Version: JAMA. 2022;328(22):2207-2208
+Authors: Marwan Haddad, Anna K. Person, Hansel E. Tookes
+
+[6]
+Title: The Children’s Health Insurance Program at 25. The Road Ahead
+Source: JAMA
+Version: JAMA. 2022;327(22):2185-2186
+Authors: Kunal K. Sindhu, Joan C. Alker, Eli Y. Adashi
+
+[7]
+Title: Association of Extracorporeal Membrane Oxygenation With New Mental Health Diagnoses in Adult Survivors of Critical Illness
+Source: JAMA
+Version: JAMA. 2022;328(18):1827-1836
+Authors: Shannon M. Fernando, Mary Scott, Robert Talarico
+
+[8]
+Title: Hospital Rankings and Health Equity
+Source: JAMA
+Version: JAMA. 2022;328(18):1805-1806
+Authors: Tavia Binger, Harold Chen, Ben Harder
+
+[9]
+Title: Noninvasive Neuromodulation May Help Improve Function in Cerebral Palsy
+Source: JAMA
+Version: JAMA. 2022;328(18):1798
+Authors: Howard D. Larkin
+
+[10]
+Title: Aspirin Use to Prevent Cardiovascular Disease
+Source: JAMA
+Version: JAMA. 2022;327(16):1577-1584
+Authors: US Preventive Services Task Force
+
+General
+
+[1]
+Title: On Snake Island, the rocky Black Sea outcrop that became a Ukraine war legend
+Source: CNN
+Version: 20 Dec 2022
+Authors: Will Ripley
+
+[2]
+Title: China could see nearly a million deaths as it exits zero-Covid, study says
+Source: CNN
+Version: 19 Dec 2022
+Authors: Nectar Gan
+
+[3]
+Title: World Cup champion Argentina returns home to a jubilant Buenos Aires
+Source: CNN
+Version 20 Dec 2022
+Authors: Abel Alvarado
+
+[4] 
+Title: Higher mortgage rates depress U.S. single-family housing starts, building permits
+Source: Reuters
+Version: 20 Dec 2022
+Authors: Lucia Mutikani
+
+[5]
+Title: Elon Musk actively searching for a new Twitter CEO, sources say
+Source: CNBC
+Version: 20 Dec 2022
+Authors: Ashley Capoot
+
+[6]
+Title: Bill Gates: ‘Our grandchildren will grow up in a world that is dramatically worse off’ if we don’t fix climate change
+Source: CNBC
+Version: 20 Dec 2022
+Authors: Catherine Clifford
+
+[7]
+Title: U.S. payrolls surged by 261,000 in October, better than expected as hiring remains strong
+Source: CNBC
+Version: 4 Nov 2022
+Authors: Jeff Cox
+
+[8]
+Title: Ambulance strike causing deep worry, say NHS bosses
+Source: BBC
+Version: 20 Dec 2022
+Authors: 
+
+[9]
+Title: Singapore's crypto ambitions shaken by FTX collapse
+Source: BBC
+Version: 18 Dec 2022
+Authors: Suranjana Tewari
+
+[10]
+Title: TSB fined £49m over IT system meltdown
+Source: BBC
+Version: 20 Dec 2022
+Authors: 
+
+
